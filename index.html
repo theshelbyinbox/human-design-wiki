@@ -5074,6 +5074,14 @@ function renderMarkdown(text) {
 }
 
 // ── TABLE OF CONTENTS ──
+function scrollToSection(slug) {
+  const el = document.getElementById(slug);
+  if (!el) return;
+  const top = el.getBoundingClientRect().top + window.pageYOffset - 20;
+  try { window.scrollTo({ top, behavior: 'smooth' }); } catch (e) {}
+  if (window.pageYOffset !== top) window.scrollTo(0, top);
+}
+
 function buildTOC(content) {
   const h2s = [];
   const lines = content.split('\n');
@@ -5085,7 +5093,7 @@ function buildTOC(content) {
   let toc = '<div id="toc"><div id="toc-title">Contents</div><ol>';
   h2s.forEach((h, i) => {
     const slug = h.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-    toc += `<li><a href="#${slug}">${h}</a></li>`;
+    toc += `<li><a href="javascript:void(0)" onclick="scrollToSection('${slug}')">${h}</a></li>`;
   });
   toc += '</ol></div>';
   return toc;
