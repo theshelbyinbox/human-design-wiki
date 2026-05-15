@@ -47,4 +47,4 @@ The more splits a person has, the more their sense of wholeness is influenced by
 
 ## Related Articles
 
-[[Variables Overview]] | [[Human Design System]] | [[Channels Overview]] | [[Conditioning]] | [[Reflector]] | [[Ra Uru Hu]]
+[[Variables Overview]] | [[Human Design System]] | [[Channels Overview]] | [[Conditioning]] | [[Reflector]]

@@ -3,7 +3,7 @@ title: Reflector
 type: type
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Generator]]", "[[Projector]]", "[[Manifestor]]", "[[Strategy]]", "[[Lunar Authority]]", "[[Not-Self]]", "[[Signature]]", "[[Transits]]", "[[G Center]]", "[[Conditioning]]"]
+related: ["[[Generator]]", "[[Projector]]", "[[Manifestor]]", "[[Strategy]]", "[[Lunar Authority]]", "[[Not-Self]]", "[[Signature]]", "Transits", "[[G Center]]", "[[Conditioning]]"]
 sources: ["1b8052d380b2", "94903eb22d1d", "9bb7fefe83dc", "4a34668e0d5f"]
 ---
 
@@ -59,4 +59,4 @@ Reflectors are sometimes described as the cosmic observers or the great transluc
 
 ## Related Articles
 
-[[Generator]] | [[Projector]] | [[Manifestor]] | [[Lunar Authority]] | [[Strategy]] | [[Signature]] | [[Not-Self]] | [[Transits]] | [[G Center]] | [[Conditioning]] | [[Human Design System]]
+[[Generator]] | [[Projector]] | [[Manifestor]] | [[Lunar Authority]] | [[Strategy]] | [[Signature]] | [[Not-Self]] | [[G Center]] | [[Conditioning]] | [[Human Design System]]

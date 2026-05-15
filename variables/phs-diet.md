@@ -3,7 +3,7 @@ title: PHS Diet (Primary Health System)
 type: concept
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Variables Overview]]", "[[Human Design System]]", "[[Splenic Center]]", "[[Ra Uru Hu]]"]
+related: ["[[Variables Overview]]", "[[Human Design System]]", "[[Splenic Center]]", "Ra Uru Hu"]
 sources: ["c872e76e17b1", "5d1c90035bb6", "2ec249e7f803", "7c7f720d9ae5"]
 ---
 
@@ -53,4 +53,4 @@ Ra Uru Hu positioned PHS as one of the most direct paths to physical health impr
 
 ## Related Articles
 
-[[Variables Overview]] | [[Human Design System]] | [[Splenic Center]] | [[Ra Uru Hu]]
+[[Variables Overview]] | [[Human Design System]] | [[Splenic Center]]

@@ -58,7 +58,7 @@ The real question for an MG is whether the sacral has genuinely disengaged from 
 
 ## MGs and Generators Together
 
-Because Generators and Manifesting Generators share the sacral as their defining feature, [[Ra Uru Hu]] often taught them together. Both are here to respond, both find satisfaction through correct use of sacral energy, and both experience frustration from mental initiation. The key distinction is the MG's speed, multi-tracking capacity, and need to inform.
+Because Generators and Manifesting Generators share the sacral as their defining feature, Ra Uru Hu often taught them together. Both are here to respond, both find satisfaction through correct use of sacral energy, and both experience frustration from mental initiation. The key distinction is the MG's speed, multi-tracking capacity, and need to inform.
 
 ## Related Articles
 

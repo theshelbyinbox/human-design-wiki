@@ -43,7 +43,7 @@ This noticing does not automatically release the conditioning, but it does intro
 
 ## Lifestyle Supports
 
-[[Ra Uru Hu]] made several practical recommendations to support deconditioning:
+Ra Uru Hu made several practical recommendations to support deconditioning:
 
 - **Sleeping alone**: The aura continues to operate during sleep. Sleeping in the same bed with another person means continuous conditioning throughout the night. Sleeping in one's own aura, or at minimum one's own bed, allows the system to process and discharge accumulated conditioning. This is considered especially important for non-sacral types (Manifestors, Projectors, Reflectors).
 - **Going to bed before exhaustion**: Non-sacral types in particular are advised to lie down and rest before they are exhausted, not to push until collapse.
@@ -61,4 +61,4 @@ Human Design consistently frames deconditioning as an experiment rather than a d
 
 ## Related Articles
 
-[[Conditioning]] | [[Not-Self]] | [[Strategy]] | [[Inner Authority]] | [[Signature]] | [[Nine Centers]] | [[Human Design System]] | [[Ra Uru Hu]]
+[[Conditioning]] | [[Not-Self]] | [[Strategy]] | [[Inner Authority]] | [[Signature]] | [[Nine Centers]] | [[Human Design System]]

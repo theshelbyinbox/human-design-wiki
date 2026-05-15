@@ -3,7 +3,7 @@ title: Lunar Authority
 type: authority
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Inner Authority Overview]]", "[[Reflector]]", "[[Transits]]", "[[Strategy Overview]]", "[[G Center]]"]
+related: ["[[Inner Authority Overview]]", "[[Reflector]]", "Transits", "[[Strategy Overview]]", "[[G Center]]"]
 sources: ["1b8052d380b2", "94903eb22d1d"]
 ---
 
@@ -35,4 +35,4 @@ Reflectors who map their lunar cycle -- noting which gates the Moon is transitin
 
 ## Related Articles
 
-[[Inner Authority Overview]] | [[Reflector]] | [[Transits]] | [[Strategy Overview]] | [[G Center]] | [[Human Design System]]
+[[Inner Authority Overview]] | [[Reflector]] | [[Strategy Overview]] | [[G Center]] | [[Human Design System]]

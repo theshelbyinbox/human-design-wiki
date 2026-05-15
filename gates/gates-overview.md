@@ -3,7 +3,7 @@ title: Gates Overview
 type: concept
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Human Design System]]", "[[Channels Overview]]", "[[Nine Centers]]", "[[Incarnation Cross Overview]]", "[[Gate Reference]]", "[[Ra Uru Hu]]"]
+related: ["[[Human Design System]]", "[[Channels Overview]]", "[[Nine Centers]]", "[[Incarnation Cross Overview]]", "[[Gate Reference]]", "Ra Uru Hu"]
 sources: ["71f33a24da29", "62e23e35767c", "2c7d4f0d08bf", "92b14ff8a448", "e0613bcfe533"]
 ---
 
@@ -53,4 +53,4 @@ At the moment of birth (Personality calculation) and approximately 88 days befor
 
 ## Related Articles
 
-[[Gate Reference]] | [[Channels Overview]] | [[Nine Centers]] | [[Incarnation Cross Overview]] | [[Human Design System]] | [[Ra Uru Hu]]
+[[Gate Reference]] | [[Channels Overview]] | [[Nine Centers]] | [[Incarnation Cross Overview]] | [[Human Design System]]

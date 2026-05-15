@@ -9,7 +9,7 @@ sources: ["34618826fa3d", "50c5ddb918c3", "4f7b532f72c6", "79f26d9dcf85"]
 
 # Profile 5/1 - Heretic/Investigator
 
-The 5/1 profile is a Left Angle profile in [[Human Design System]], combining a fifth-line Personality (the Heretic) with a first-line Design (the Investigator). [[Ra Uru Hu]] himself carried the 5/1 profile. The fifth line carries the most powerful projection field of any line.
+The 5/1 profile is a Left Angle profile in [[Human Design System]], combining a fifth-line Personality (the Heretic) with a first-line Design (the Investigator). Ra Uru Hu himself carried the 5/1 profile. The fifth line carries the most powerful projection field of any line.
 
 ## The Heretic Personality (Line 5)
 
@@ -35,4 +35,4 @@ The 5/1 is Left Angle -- transpersonal karma. The 5/1 person's life serves a pur
 
 ## Related Articles
 
-[[Lines Overview]] | [[Angles Overview]] | [[Profile 5-2]] | [[Profile 2-5]] | [[Ra Uru Hu]] | [[Human Design System]]
+[[Lines Overview]] | [[Angles Overview]] | [[Profile 5-2]] | [[Profile 2-5]] | [[Human Design System]]

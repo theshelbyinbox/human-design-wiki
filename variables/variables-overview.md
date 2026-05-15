@@ -3,7 +3,7 @@ title: Variables Overview
 type: concept
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Human Design System]]", "[[PHS Diet]]", "[[Definition Types]]", "[[Ra Uru Hu]]", "[[Ajna Center]]", "[[Head Center]]"]
+related: ["[[Human Design System]]", "[[PHS Diet]]", "[[Definition Types]]", "Ra Uru Hu", "[[Ajna Center]]", "[[Head Center]]"]
 sources: ["8eb6a8026d06", "96c71fac3e93", "0971626f0a94", "ba075ce0a527"]
 ---
 
@@ -47,4 +47,4 @@ Ra Uru Hu taught Variables as the "fourth line" of the deconditioning process, a
 
 ## Related Articles
 
-[[Human Design System]] | [[PHS Diet]] | [[Definition Types]] | [[Ra Uru Hu]] | [[Deconditioning]]
+[[Human Design System]] | [[PHS Diet]] | [[Definition Types]] | [[Deconditioning]]

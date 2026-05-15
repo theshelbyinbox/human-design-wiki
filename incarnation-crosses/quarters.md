@@ -3,7 +3,7 @@ title: Quarters
 type: concept
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Incarnation Cross Overview]]", "[[Human Design System]]", "[[Gates Overview]]", "[[Ra Uru Hu]]"]
+related: ["[[Incarnation Cross Overview]]", "[[Human Design System]]", "[[Gates Overview]]", "Ra Uru Hu"]
 sources: ["4dae15000764", "002e441c57a5"]
 ---
 
@@ -55,4 +55,4 @@ A cross's Quarter gives the broad thematic direction. The specific gate and line
 
 ## Related Articles
 
-[[Incarnation Cross Overview]] | [[Human Design System]] | [[Gates Overview]] | [[Ra Uru Hu]]
+[[Incarnation Cross Overview]] | [[Human Design System]] | [[Gates Overview]]

@@ -3,7 +3,7 @@ title: Incarnation Cross Overview
 type: concept
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Human Design System]]", "[[Quarters]]", "[[Gates Overview]]", "[[Profile 4-1]]", "[[Angles Overview]]", "[[G Center]]", "[[Ra Uru Hu]]"]
+related: ["[[Human Design System]]", "[[Quarters]]", "[[Gates Overview]]", "[[Profile 4-1]]", "[[Angles Overview]]", "[[G Center]]", "Ra Uru Hu"]
 sources: ["4dae15000764", "002e441c57a5", "27f611d7511e"]
 ---
 
@@ -65,4 +65,4 @@ The system includes hundreds of named crosses. A few prominent examples:
 
 ## Related Articles
 
-[[Quarters]] | [[Gates Overview]] | [[Angles Overview]] | [[Human Design System]] | [[Ra Uru Hu]] | [[G Center]]
+[[Quarters]] | [[Gates Overview]] | [[Angles Overview]] | [[Human Design System]] | [[G Center]]

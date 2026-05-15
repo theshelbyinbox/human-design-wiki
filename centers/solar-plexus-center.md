@@ -47,4 +47,4 @@ Biologically, the Solar Plexus Center is associated with the kidneys, pancreas, 
 
 ## Related Articles
 
-[[Nine Centers]] | [[Emotional Authority]] | [[Sacral Center]] | [[Conditioning]] | [[Not-Self]] | [[Transits]] | [[Human Design System]]
+[[Nine Centers]] | [[Emotional Authority]] | [[Sacral Center]] | [[Conditioning]] | [[Not-Self]] | [[Human Design System]]

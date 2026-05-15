@@ -3,13 +3,13 @@ title: Human Design System
 type: concept
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Strategy]]", "[[Inner Authority]]", "[[Not-Self]]", "[[Ra Uru Hu]]", "[[Nine Centers]]", "[[Energy Types]]", "[[Deconditioning]]"]
+related: ["[[Strategy]]", "[[Inner Authority]]", "[[Not-Self]]", "Ra Uru Hu", "[[Nine Centers]]", "[[Energy Types]]", "[[Deconditioning]]"]
 sources: ["e0613bcfe533", "068db5ef6203", "9bb7fefe83dc", "b3ef3a5fe177", "a68a15eafd4a"]
 ---
 
 # Human Design System
 
-Human Design is a system of self-knowledge that combines principles from western astrology, the Hindu-Brahman chakra system, the Kabbalist Tree of Life, the Chinese I Ching, and quantum physics. It was received by [[Ra Uru Hu]] in January 1987 in Ibiza, Spain, through an eight-day mystical experience he described as an encounter with a Voice. Ra spent the following 25 years teaching and systematizing the knowledge until his death in 2011.
+Human Design is a system of self-knowledge that combines principles from western astrology, the Hindu-Brahman chakra system, the Kabbalist Tree of Life, the Chinese I Ching, and quantum physics. It was received by Ra Uru Hu in January 1987 in Ibiza, Spain, through an eight-day mystical experience he described as an encounter with a Voice. Ra spent the following 25 years teaching and systematizing the knowledge until his death in 2011.
 
 ## Core Premise
 
@@ -51,7 +51,7 @@ Human Design explicitly discourages the mind from making decisions. The mind is 
 
 ## The Jovian Archive and IHDS
 
-Ra founded [[Jovian Archive]] as the organization responsible for maintaining and distributing Human Design materials and courses. The International Human Design School (IHDS) operates within this framework, certifying analysts and teachers.
+Ra founded Jovian Archive as the organization responsible for maintaining and distributing Human Design materials and courses. The International Human Design School (IHDS) operates within this framework, certifying analysts and teachers.
 
 ## Key Concepts
 
@@ -69,4 +69,4 @@ Human Design is not presented as a belief system. Ra Uru Hu consistently positio
 
 ## Related Articles
 
-[[Ra Uru Hu]] | [[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Deconditioning]] | [[Nine Centers]] | [[Generator]] | [[Manifestor]] | [[Projector]] | [[Reflector]] | [[Manifesting Generator]] | [[Gates Overview]] | [[Channels Overview]] | [[Incarnation Cross Overview]] | [[Jovian Archive]]
+[[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Deconditioning]] | [[Nine Centers]] | [[Generator]] | [[Manifestor]] | [[Projector]] | [[Reflector]] | [[Manifesting Generator]] | [[Gates Overview]] | [[Channels Overview]] | [[Incarnation Cross Overview]]

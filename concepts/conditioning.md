@@ -53,4 +53,4 @@ Choosing environments and relationships consciously -- particularly for types an
 
 ## Related Articles
 
-[[Not-Self]] | [[Deconditioning]] | [[Nine Centers]] | [[Open Centers]] | [[Strategy]] | [[Inner Authority]] | [[Human Design System]] | [[Transits]] | [[Reflector]]
+[[Not-Self]] | [[Deconditioning]] | [[Nine Centers]] | [[Open Centers]] | [[Strategy]] | [[Inner Authority]] | [[Human Design System]] | [[Reflector]]
