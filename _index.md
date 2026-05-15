@@ -2,9 +2,9 @@
 
 ## How to Use
 
-This wiki contains 68 articles organized by topic. Articles use [[wikilinks]] to connect related concepts. Start with **Human Design System** for a full overview, then follow links into specific areas of interest. Each article includes frontmatter listing related articles and the source entry IDs it was written from.
+This wiki contains 61 articles organized by topic. Articles use [[wikilinks]] to connect related concepts. Start with **Human Design System** for a full overview, then follow links into specific areas of interest. Each article includes frontmatter listing related articles and the source entry IDs it was written from.
 
-The **concepts/** section covers foundational ideas. **strategy/** and **inner-authority/** cover the two practical tools Human Design offers — Strategy (by type) and Inner Authority (by configuration). **types/** covers the five energy types. **centers/** covers the nine energy centers in detail. **profiles/** covers all twelve profiles and the line/angle system. **teachers/** covers Ra Uru Hu, Maike Gabriela, and the Jovian Archive. **applications/** covers relationships, business, parenting, and transits. **incarnation-crosses/** and **variables/** cover advanced topics. **gates/** and **channels/** cover the structural mechanics.
+The **concepts/** section covers foundational ideas. **strategy/** and **inner-authority/** cover the two practical tools Human Design offers — Strategy (by type) and Inner Authority (by configuration). **types/** covers the five energy types. **centers/** covers the nine energy centers in detail. **profiles/** covers all twelve profiles and the line/angle system. **incarnation-crosses/** and **variables/** cover advanced topics. **gates/** and **channels/** cover the structural mechanics.
 
 ---
 
@@ -74,17 +74,6 @@ The **concepts/** section covers foundational ideas. **strategy/** and **inner-a
 - [Profile 5/2](profiles/profile-5-2.md) — Heretic/Hermit; harmonic Left Angle; projection field + natural gift
 - [Profile 6/2](profiles/profile-6-2.md) — Role Model/Hermit; harmonic Left Angle; tripartite life + natural gift
 - [Profile 6/3](profiles/profile-6-3.md) — Role Model/Martyr; harmonic Left Angle; closes the chain; double third-line intensity in phase 1
-
-### Teachers
-- [Ra Uru Hu](teachers/ra-uru-hu.md) — founder, the 1987 revelation in Ibiza, 5/1 profile, Jovian Archive, 25 years teaching
-- [Maike Gabriela](teachers/maike-gabriela.md) — HD reader/teacher, Barcelona, Uprising HD, Projector 3/5
-- [Jovian Archive](teachers/jovian-archive.md) — Ra's organization, IHDS certification, recordings library
-
-### Applications
-- [Relationships](applications/relationships.md) — aura dynamics, electromagnetics, type combinations, sleeping alone
-- [Business and Money](applications/business-money.md) — HD applied to career and business by type
-- [Parenting](applications/parenting.md) — understanding children's types, Manifestor children, conditioning in families
-- [Transits](applications/transits.md) — planetary movement through gates, the Program, HD year at Gate 41
 
 ### Incarnation Crosses
 - [Incarnation Cross Overview](incarnation-crosses/incarnation-cross-overview.md) — four gates, Right/Left/Juxtaposition, the cross is impersonal
