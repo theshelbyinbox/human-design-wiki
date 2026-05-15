@@ -136,25 +136,35 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 .sidebar-section { border-bottom: 1px solid var(--sidebar-border); }
 .sidebar-section-header {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   justify-content: space-between;
-  padding: 8px 12px 6px;
-  cursor: pointer;
+  user-select: none;
+}
+.sidebar-section-title {
+  flex: 1;
+  padding: 8px 4px 6px 12px;
   font-size: 11px;
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--text-secondary);
-  user-select: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sidebar-section-title:hover { color: var(--accent); background: var(--accent-light); }
+.sidebar-section-title.active { color: var(--accent); background: var(--accent-light); }
+.chevron-btn {
   background: none;
   border: none;
-  width: 100%;
-  text-align: left;
+  padding: 8px 12px 6px 4px;
+  cursor: pointer;
+  color: var(--text-secondary);
 }
-.sidebar-section-header:hover { color: var(--accent); background: var(--accent-light); }
+.chevron-btn:hover { color: var(--accent); }
 .sidebar-section-header .chevron {
   font-size: 10px;
   transition: transform 0.2s;
+  display: inline-block;
 }
 .sidebar-section.collapsed .chevron { transform: rotate(-90deg); }
 .sidebar-section-links { list-style: none; }
@@ -4336,6 +4346,254 @@ The recurring claim across Ra's teaching is that there is nothing else.
 
 [[Inner Authority Overview]] | [[Strategy Overview]] | [[Mind vs Body Decision-Making]] | [[Authority Hierarchy]] | [[No Direct Inner Authority]] | [[Deconditioning]] | [[Not-Self]] | [[Signature]]`
   },
+  "concepts": {
+    title: "Core Concepts",
+    section: "Core Concepts",
+    related: ["[[Human Design System"],
+    content: `# Core Concepts
+
+The foundational ideas of Human Design — the lens through which every other part of the system makes sense. These are the concepts you return to over and over once you begin running the experiment, because they describe what is actually happening when Strategy and Authority are working (or when they're not).
+
+If you are new to the wiki, this is the place to start. Begin with **Human Design System** for the full picture, then follow the threads into the four concepts that explain why the experiment works the way it does.
+
+## Pages in this Section
+
+- [[Human Design System]] — the full overview: bodygraph, origins with Ra Uru Hu, the 1987 revelation, the four ingredients (astrology, I Ching, Tree of Life, chakras), the central claim about decision-making
+- [[Signature]] — the felt experience of correct living, one per type: satisfaction, peace, success, surprise
+- [[Not-Self]] — the felt experience of conditioning, one per type: frustration, anger, bitterness, disappointment; how it shows up per open center
+- [[Conditioning]] — the mechanism by which open centers absorb and amplify the energies of others; why the not-self forms
+- [[Deconditioning]] — the seven-year process of releasing absorbed patterns through consistent Strategy and Authority; the body's cellular renewal cycle as the timeline
+
+## Related Sections
+
+[[Strategy]] and [[Inner Authority]] are the practical tools the rest of this section's concepts orbit around.`
+  },
+  "strategy": {
+    title: "Strategy",
+    section: "Strategy",
+    related: ["[[Inner Authority"],
+    content: `# Strategy
+
+Strategy is one of the two practical tools Human Design offers (the other is [[Inner Authority]]). Determined by your type, Strategy describes *how* you are designed to engage with life — when to act, when to wait, what to wait for. There is one Strategy per type, with Manifesting Generators carrying a hybrid of two.
+
+The purpose of Strategy is mechanical: it reduces resistance, bypasses the conditioned mind, and over time produces the [[Signature]] state. Strategy does not require belief. It requires the experiment.
+
+## Pages in this Section
+
+- [[Strategy Overview]] — what Strategy is, the four strategies, how it differs from Authority, what it replaces
+- [[Respond]] — Generator and Manifesting Generator strategy: wait for life to present something, then check the sacral response
+- [[Inform]] — Manifestor strategy: notify those who will be impacted before acting; also the second step for Manifesting Generators
+- [[Wait for the Invitation]] — Projector strategy: wait for formal recognition before entering significant life situations
+- [[Wait the Lunar Cycle]] — Reflector strategy: 28 days for the Moon to transit all 64 gates before deciding
+- [[Mind vs Body Decision-Making]] — the foundational claim of Human Design: why the mind fails at decisions and what the body does instead
+- [[Strategy and Signature]] — the feedback loop between Strategy and the signature state that confirms it's working
+
+## Related Sections
+
+[[Inner Authority]] is Strategy's pair — Strategy tells you *when and how to engage*; Authority tells you *how to decide once engaging*.`
+  },
+  "inner-authority": {
+    title: "Inner Authority",
+    section: "Inner Authority",
+    related: ["[[Strategy"],
+    content: `# Inner Authority
+
+Inner Authority is the body-based decision-making mechanism specific to each person's chart configuration. Paired with [[Strategy]] as the two foundational tools Human Design offers, Inner Authority answers the question: *how should I decide?*
+
+The system's central claim is that the mind is not an appropriate decision-making organ. Each Authority is a different mechanical signal — sacral sound, emotional wave, splenic hit, heart conviction, self-articulation through speech, or for [[Reflector]]s the time-based sampling of the lunar cycle — that bypasses the mind's conditioned criteria and routes the decision through the body's own intelligence.
+
+## Pages in this Section
+
+- [[Inner Authority Overview]] — the body knows; the seven authorities; how to find yours from your BodyGraph
+- [[The Authority Hierarchy]] — the strict order centers are checked in; why a Generator with a defined Solar Plexus is emotional not sacral
+- [[Emotional Authority]] — defined Solar Plexus; no truth in the now; the four emotional waves (~50% of population)
+- [[Sacral Authority]] — defined Sacral, undefined Solar Plexus; gut sounds; binary yes/no
+- [[Splenic Authority]] — defined Spleen, undefined Sacral and Solar Plexus; intuition vs fear; in-the-moment
+- [[Ego Authority]] — defined Heart connected to Throat or G; willpower; what the heart genuinely commits to
+- [[Self-Projected Authority]] — G connected to Throat with no Heart definition; knowing through speaking
+- [[Mental Authority]] — definition only in Head/Ajna/Throat; the sounding-board process across multiple conversations
+- [[Lunar Authority]] — Reflectors only; the 28-day cycle as the authority
+- [[No Direct Inner Authority]] — Reflectors and Mental Projectors; courage of conviction; non-body-signal authority
+- [[Minor Authorities]] — the rare configurations: Ego-Manifested, Ego-Projected, Self-Projected (~4% of population)
+- [[Making Decisions in Practice]] — navigation as the frame; waiting; building trust; the daily practice
+
+## Related Sections
+
+[[Strategy]] is Authority's pair — Strategy tells you *when and how to engage*; Authority tells you *how to decide once engaging*. Inner Authority is configured by your defined [[Centers]].`
+  },
+  "types": {
+    title: "Energy Types",
+    section: "Energy Types",
+    related: ["[[Centers"],
+    content: `# Energy Types
+
+Type is the most fundamental layer of a Human Design chart. It is determined by which [[Centers]] are defined and how they connect to the Throat. Type sets your aura — how your energy meets the world — and dictates your [[Strategy]] (the type-level behavioral guideline) and your [[Signature]] and [[Not-Self]] themes.
+
+There are five types in Human Design. Generators and Manifesting Generators together make up about 70% of the population. Projectors are about 20%. Manifestors are 8–9%. Reflectors are about 1%.
+
+Your type does not change. Knowing it and living it correctly is the foundation everything else is built on.
+
+## Pages in this Section
+
+- [[Generator]] — sacral defined; respond strategy; satisfaction signature; frustration not-self; ~37% of population
+- [[Manifesting Generator]] — sacral plus motor-to-throat; respond and inform; speed and multi-tracking; ~33%
+- [[Manifestor]] — non-sacral with motor-to-throat; inform strategy; peace signature; anger not-self; ~8–9%
+- [[Projector]] — non-sacral, penetrating aura; wait for the invitation; success signature; bitterness not-self; ~20%
+- [[Reflector]] — no defined centers; lunar cycle strategy; surprise signature; disappointment not-self; ~1%
+
+## Related Sections
+
+Your type pairs with your [[Inner Authority]] (the configuration-level decision mechanism) to form the basic operating manual for your design.`
+  },
+  "centers": {
+    title: "Centers",
+    section: "Centers",
+    related: ["[[Conditioning"],
+    content: `# Centers
+
+The Centers are the nine energetic hubs of the BodyGraph. Each center governs a specific kind of awareness, energy, or pressure, and each is shown in the chart as either *defined* (colored in) or *undefined/open* (white). The configuration of defined and open centers determines your type, authority, and the specific patterns of [[Conditioning]] you are most susceptible to.
+
+Defined centers are consistent — they carry their themes reliably and influence others. Undefined centers are sites of openness and wisdom potential, but also of conditioning and not-self decision-making when unconscious.
+
+Human Design teaches that humans shifted from a seven-center to a nine-center configuration in 1781. The current configuration includes the Ajna and Solar Plexus as awareness centers.
+
+## Pages in this Section
+
+- [[Nine Centers]] — overview of all nine; defined vs undefined; type determination
+- [[Sacral Center]] — life force, generator energy, sacral sounds, regeneration
+- [[Solar Plexus Center]] — emotional wave; motor and awareness; future mutation; no truth in the now
+- [[Splenic Center]] — intuition, immune system, in-the-now awareness, seven fear gates
+- [[Throat Center]] — manifestation and communication; motors connected to throat determine type
+- [[G Center]] — identity, love, direction; the magnetic monopole; undefined G seeks environment
+- [[Root Center]] — pressure center; adrenaline; stress; not-self urgency
+- [[Head Center]] — inspiration; mental pressure; questions; pineal gland
+- [[Ajna Center]] — conceptualization; opinions; fixed vs fluid thinking; mind's role
+- [[Heart Center]] — willpower, ego, material world, promises; ego authority
+
+## Related Sections
+
+The Centers determine your [[Energy Types|Type]] (via motor-to-throat connections) and your [[Inner Authority]] (via the hierarchy of defined centers).`
+  },
+  "profiles": {
+    title: "Profiles & Lines",
+    section: "Profiles & Lines",
+    related: ["[[Lines Overview"],
+    content: `# Profiles & Lines
+
+The Profile is a two-number code derived from the lines of your Sun and Earth gates at birth (the Personality Sun line followed by the Design Sun line). It describes the *role* you are designed to play in life — how you naturally interact with others and the patterns through which your purpose unfolds.
+
+There are six lines (1 through 6, each with a distinct archetype) and twelve possible profile combinations. Each profile also carries an *angle* — Right Angle (personal destiny), Juxtaposition (fixed fate), or Left Angle (transpersonal karma) — that describes the broader scope of one's incarnation.
+
+Profile sits underneath type and authority. It does not change your Strategy or Authority, but it shapes the texture of how those tools express through you.
+
+## Pages in this Section
+
+- [[Lines Overview]] — the six lines: Investigator, Hermit, Martyr, Opportunist, Heretic, Role Model
+- [[Angles Overview]] — Right Angle, Juxtaposition, Left Angle; personal destiny vs fixed fate vs transpersonal karma
+
+### The Twelve Profiles
+
+- [[Profile 1/3]] — Investigator/Martyr; trial and error; most self-absorbed Right Angle
+- [[Profile 1/4]] — Investigator/Opportunist; harmonic; investigates to share through network
+- [[Profile 2/4]] — Hermit/Opportunist; natural gifts; hermit retreat plus network opportunity
+- [[Profile 2/5]] — Hermit/Heretic; natural gifts plus projection field; Right Angle
+- [[Profile 3/5]] — Martyr/Heretic; trial and error plus universalizing projection; Right Angle
+- [[Profile 3/6]] — Martyr/Role Model; harmonic; tripartite life arc; Right Angle
+- [[Profile 4/1]] — Opportunist/Investigator; Juxtaposition; fixed fate; network-oriented
+- [[Profile 4/6]] — Opportunist/Role Model; final Right Angle; network plus tripartite arc
+- [[Profile 5/1]] — Heretic/Investigator; Left Angle; strong projection field; Ra Uru Hu's profile
+- [[Profile 5/2]] — Heretic/Hermit; harmonic Left Angle; projection field plus natural gift
+- [[Profile 6/2]] — Role Model/Hermit; harmonic Left Angle; tripartite life plus natural gift
+- [[Profile 6/3]] — Role Model/Martyr; harmonic Left Angle; closes the chain; double third-line intensity in phase 1
+
+## Related Sections
+
+Profile sits underneath [[Energy Types|Type]] and [[Inner Authority]]. It also relates to [[Incarnation Cross]], which carries the four-gate signature of your incarnation.`
+  },
+  "gates": {
+    title: "Gates (64)",
+    section: "Gates (64)",
+    related: ["[[Centers"],
+    content: `# Gates (64)
+
+The 64 Gates of Human Design correspond directly to the 64 hexagrams of the I Ching. Each gate is a specific frequency or theme expressed through one of the [[Centers]] of the BodyGraph. Gates either sit hanging (unactivated and open to conditioning), or they connect through a [[Channels Overview|channel]] to form definition between two centers.
+
+The activation of a gate in a chart depends on the position of the planets at the moment of birth (the Personality calculation) and approximately 88 degrees of solar arc before birth (the Design calculation). The combined planetary activations of a person's 13 gates form their unique structure.
+
+Gates can also be activated temporarily by transits — the daily movement of planets through the wheel — which is the mechanism behind the program and how Reflectors sample definitions through the lunar cycle.
+
+## Pages in this Section
+
+- [[Gates Overview]] — what gates are; I Ching correspondence; defined vs hanging; circuits; Personality vs Design activation
+- [[Gate Reference]] — all 64 gates with descriptions, channel partners, circuits, transit times, correct expression, and not-self expression; organized by center
+
+## Related Sections
+
+Gates pair with each other through [[Channels Overview|Channels]] to create definition in [[Centers]]. Your specific gate activations together form your [[Incarnation Cross]].`
+  },
+  "channels": {
+    title: "Channels (36)",
+    section: "Channels (36)",
+    related: ["[[Centers"],
+    content: `# Channels (36)
+
+A Channel is formed when both ends of a pair of complementary [[Gates Overview|gates]] are activated in a chart. There are 36 channels in Human Design — each one connects two [[Centers]] and creates *definition* between them.
+
+Each channel carries a specific quantum of energy, awareness, or expression. Channels are grouped into three circuits — Individual (mutation and knowing), Tribal (support and reproduction), and Collective (sharing and logic) — each with its own purpose and flavor.
+
+When two charts share a hanging gate that completes one of the other's hanging gates, they form an *electromagnetic connection* — the mechanism behind attraction and partnership in Human Design.
+
+## Pages in this Section
+
+- [[Channels Overview]] — all 36 channels with descriptions; organized by Individual, Tribal, and Collective circuits; includes electromagnetics and circuitry notes
+
+## Related Sections
+
+Channels are built from [[Gates Overview|Gates]] and create the definition pattern of your [[Centers]]. Your specific channel activations define your [[Energy Types|Type]] (via motor-to-throat channels).`
+  },
+  "incarnation-crosses": {
+    title: "Incarnation Cross",
+    section: "Incarnation Cross",
+    related: ["[[Incarnation Cross Overview"],
+    content: `# Incarnation Cross
+
+The Incarnation Cross is the four-gate signature of your specific incarnation — the four conscious and unconscious Sun and Earth activations that together describe the *purpose* you are here to live out. There are 192 incarnation crosses in total (64 themes × 3 angle variants), and each carries a distinct theme of life work.
+
+Unlike type, authority, and profile — which describe *how* you operate — the Incarnation Cross describes *what* your specific life is themed around. It is the impersonal purpose: the role you play in the larger field, not a goal to chase or a personality to perform.
+
+The Cross is also categorized by *Quarter* — the season of the solar year in which the Personality Sun falls — which gives a broader purpose theme to the cross.
+
+## Pages in this Section
+
+- [[Incarnation Cross Overview]] — the four gates (conscious Sun/Earth, unconscious Sun/Earth); Right Angle, Left Angle, and Juxtaposition variants; the cross as impersonal purpose
+- [[Quarters]] — the four quarters of the solar year: Initiation, Civilization, Duality, Mutation; how each shapes the purpose theme of crosses within it
+
+## Related Sections
+
+The Incarnation Cross is built from your gate activations ([[Gates]]) and sits underneath your [[Profiles & Lines|Profile]] and [[Energy Types|Type]] as the deepest layer of personal design.`
+  },
+  "variables": {
+    title: "Variables & PHS",
+    section: "Variables & PHS",
+    related: ["[[Variables Overview"],
+    content: `# Variables & PHS
+
+The Variables are the advanced layer of Human Design — the four arrows around the head and body of the BodyGraph that point either left or right. Each arrow indicates a *passive* (left) or *active* (right) orientation for a specific domain of life: digestion, environment, perspective, and motivation.
+
+Variables are introduced after a person has spent enough time living their basic Type and Authority to be ready for nuance. Ra Uru Hu described them as the second wave of the Human Design experiment — relevant only after the not-self has been substantially loosened through years of correct decision-making.
+
+PHS (Primary Health System) is the dietary application of the digestion arrow — the six modes of digestion (Appetite, Taste, Thirst, Touch, Sound, Light) that describe how a specific body is designed to take in food.
+
+## Pages in this Section
+
+- [[Variables Overview]] — the four arrows; left vs right; active vs passive; the advanced layer of Human Design
+- [[PHS Diet]] — the six digestion types: Appetite, Taste, Thirst, Touch, Sound, Light; correct eating per design
+- [[Definition Types]] — Single, Split, Triple Split, Quadruple Split; bridging gates; how definition pattern affects social and decisional life
+
+## Related Sections
+
+Variables sit underneath everything else — they describe how you specifically inhabit your [[Energy Types|Type]], [[Inner Authority]], [[Centers]], and [[Profiles & Lines|Profile]]. Begin with the basics; come here when you are ready.`
+  },
 };
 
 // ── NAVIGATION STRUCTURE ──
@@ -4465,12 +4723,31 @@ const navSections = [
 
 // ── WIKILINK MAP ──
 const wikilinkMap = {
+  // Section landing pages (single-segment routes)
+  'core concepts': 'concepts',
+  'concepts': 'concepts',
+  'energy types': 'types',
+  'types': 'types',
+  'centers': 'centers',
+  'profiles': 'profiles',
+  'profiles & lines': 'profiles',
+  'profiles and lines': 'profiles',
+  'gates': 'gates',
+  'gates (64)': 'gates',
+  'channels': 'channels',
+  'channels (36)': 'channels',
+  'incarnation cross': 'incarnation-crosses',
+  'incarnation crosses': 'incarnation-crosses',
+  'variables': 'variables',
+  'variables & phs': 'variables',
+  'variables and phs': 'variables',
+  // Type pages
   'generator': 'types/generator',
   'manifesting generator': 'types/manifesting-generator',
   'manifestor': 'types/manifestor',
   'projector': 'types/projector',
   'reflector': 'types/reflector',
-  'strategy': 'strategy/strategy-overview',
+  'strategy': 'strategy',
   'strategy overview': 'strategy/strategy-overview',
   'respond': 'strategy/respond',
   'inform': 'strategy/inform',
@@ -4485,7 +4762,7 @@ const wikilinkMap = {
   'not-self': 'concepts/not-self',
   'conditioning': 'concepts/conditioning',
   'deconditioning': 'concepts/deconditioning',
-  'inner authority': 'inner-authority/inner-authority-overview',
+  'inner authority': 'inner-authority',
   'inner authority overview': 'inner-authority/inner-authority-overview',
   'authority hierarchy': 'inner-authority/authority-hierarchy',
   'no direct inner authority': 'inner-authority/no-direct-inner-authority',
@@ -4775,11 +5052,12 @@ function renderSidebar(filter) {
     if (filter && matchingArticles.length === 0) continue;
 
     const collapsed = !filter && sidebarCollapsed[section.key];
+    const sectionActive = section.key === currentKey ? ' active' : '';
     html += `<div class="sidebar-section${collapsed ? ' collapsed' : ''}" data-section="${section.key}">`;
-    html += `<button class="sidebar-section-header" onclick="toggleSection('${section.key}')">
-      ${section.label}
-      <span class="chevron">&#9660;</span>
-    </button>`;
+    html += `<div class="sidebar-section-header">
+      <a class="sidebar-section-title${sectionActive}" href="#/${section.key}">${section.label}</a>
+      <button class="chevron-btn" onclick="toggleSection('${section.key}')" aria-label="Toggle ${section.label}"><span class="chevron">&#9660;</span></button>
+    </div>`;
     html += '<ul class="sidebar-section-links">';
     for (const art of matchingArticles) {
       const active = art.key === currentKey ? ' active' : '';
@@ -4918,10 +5196,17 @@ function getBreadcrumb(key, article) {
   const sectionKey = key.split('/')[0];
   const section = navSections.find(s => s.key === sectionKey);
   const sectionLabel = section ? section.label : sectionKey;
+  const isSectionPage = !key.includes('/');
+
+  if (isSectionPage) {
+    return `<span><a href="#/">Home</a></span>
+      <span>&rsaquo;</span>
+      <span>${sectionLabel}</span>`;
+  }
 
   return `<span><a href="#/">Home</a></span>
     <span>&rsaquo;</span>
-    <span>${sectionLabel}</span>
+    <span><a href="#/${sectionKey}">${sectionLabel}</a></span>
     <span>&rsaquo;</span>
     <span>${article.title}</span>`;
 }
