@@ -189,6 +189,16 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   border-left-color: var(--accent);
   font-weight: 500;
 }
+.sidebar-subgroup-divider {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  padding: 10px 12px 4px 20px;
+  list-style: none;
+}
+.sidebar-subgroup-divider:first-child { padding-top: 4px; }
 
 /* ── MAIN CONTENT ── */
 #main {
@@ -12759,14 +12769,16 @@ const navSections = [
     key: 'profiles',
     label: 'Profiles & Lines',
     articles: [
+      { divider: 'Lines' },
       { key: 'profiles/lines-overview', label: 'Lines Overview' },
-      { key: 'profiles/angles-overview', label: 'Angles Overview' },
       { key: 'profiles/line-1', label: 'Line 1 — Investigator' },
       { key: 'profiles/line-2', label: 'Line 2 — Hermit' },
       { key: 'profiles/line-3', label: 'Line 3 — Martyr' },
       { key: 'profiles/line-4', label: 'Line 4 — Opportunist' },
       { key: 'profiles/line-5', label: 'Line 5 — Heretic' },
       { key: 'profiles/line-6', label: 'Line 6 — Role Model' },
+      { divider: 'Profiles' },
+      { key: 'profiles/angles-overview', label: 'Angles Overview' },
       { key: 'profiles/profile-1-3', label: 'Profile 1/3' },
       { key: 'profiles/profile-1-4', label: 'Profile 1/4' },
       { key: 'profiles/profile-2-4', label: 'Profile 2/4' },
@@ -13766,8 +13778,10 @@ function renderSidebar(filter) {
   for (const section of navSections) {
     const matchingArticles = filter
       ? section.articles.filter(a =>
-          a.label.toLowerCase().includes(filter.toLowerCase()) ||
-          (articles[a.key] && articles[a.key].content.toLowerCase().includes(filter.toLowerCase()))
+          a.divider
+            ? false
+            : a.label.toLowerCase().includes(filter.toLowerCase()) ||
+              (articles[a.key] && articles[a.key].content.toLowerCase().includes(filter.toLowerCase()))
         )
       : section.articles;
 
@@ -13782,6 +13796,10 @@ function renderSidebar(filter) {
     </div>`;
     html += '<ul class="sidebar-section-links">';
     for (const art of matchingArticles) {
+      if (art.divider) {
+        html += `<li class="sidebar-subgroup-divider">${art.divider}</li>`;
+        continue;
+      }
       const active = art.key === currentKey ? ' active' : '';
       html += `<li><a href="#/${art.key}" class="${active}">${art.label}</a></li>`;
     }
