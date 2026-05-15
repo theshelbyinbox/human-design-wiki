@@ -3,7 +3,7 @@ title: Emotional Authority
 type: authority
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Inner Authority]]", "[[Solar Plexus Center]]", "[[Generator]]", "[[Manifesting Generator]]", "[[Projector]]", "[[Manifestor]]", "[[Sacral Authority]]", "[[Strategy]]"]
+related: ["[[Inner Authority Overview]]", "[[Solar Plexus Center]]", "[[Generator]]", "[[Manifesting Generator]]", "[[Projector]]", "[[Manifestor]]", "[[Sacral Authority]]", "[[Strategy Overview]]"]
 sources: ["41b2e3ced79e", "e0613bcfe533", "6232ba1947b8"]
 ---
 
@@ -44,4 +44,4 @@ When a person has a defined Solar Plexus, it takes precedence over all other aut
 
 ## Related Articles
 
-[[Inner Authority]] | [[Solar Plexus Center]] | [[Generator]] | [[Manifesting Generator]] | [[Projector]] | [[Manifestor]] | [[Sacral Authority]] | [[Strategy]] | [[Human Design System]]
+[[Inner Authority Overview]] | [[Solar Plexus Center]] | [[Generator]] | [[Manifesting Generator]] | [[Projector]] | [[Manifestor]] | [[Sacral Authority]] | [[Strategy Overview]] | [[Human Design System]]

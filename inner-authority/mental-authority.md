@@ -3,7 +3,7 @@ title: Mental Authority
 type: authority
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Inner Authority]]", "[[Projector]]", "[[Head Center]]", "[[Ajna Center]]", "[[Throat Center]]", "[[Self-Projected Authority]]", "[[Strategy]]"]
+related: ["[[Inner Authority Overview]]", "[[Projector]]", "[[Head Center]]", "[[Ajna Center]]", "[[Throat Center]]", "[[Self-Projected Authority]]", "[[Strategy Overview]]"]
 sources: ["c4ee334b644a", "e9bd3fafb145", "6a62f04db7c6"]
 ---
 
@@ -33,4 +33,4 @@ Despite having no inner authority, Mental Projectors often serve as exceptionall
 
 ## Related Articles
 
-[[Inner Authority]] | [[Projector]] | [[Head Center]] | [[Ajna Center]] | [[Self-Projected Authority]] | [[Strategy]] | [[Human Design System]]
+[[Inner Authority Overview]] | [[Projector]] | [[Head Center]] | [[Ajna Center]] | [[Self-Projected Authority]] | [[Strategy Overview]] | [[Human Design System]]

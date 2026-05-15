@@ -3,7 +3,7 @@ title: Ego Authority
 type: authority
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Inner Authority]]", "[[Heart Center]]", "[[Manifestor]]", "[[Projector]]", "[[Strategy]]", "[[Self-Projected Authority]]"]
+related: ["[[Inner Authority Overview]]", "[[Heart Center]]", "[[Manifestor]]", "[[Projector]]", "[[Strategy Overview]]", "[[Self-Projected Authority]]"]
 sources: ["ce4aba5f57ac", "6a62f04db7c6"]
 ---
 
@@ -33,4 +33,4 @@ People with Ego Authority who make commitments they do not genuinely want to kee
 
 ## Related Articles
 
-[[Inner Authority]] | [[Heart Center]] | [[Manifestor]] | [[Projector]] | [[Self-Projected Authority]] | [[Strategy]] | [[Human Design System]]
+[[Inner Authority Overview]] | [[Heart Center]] | [[Manifestor]] | [[Projector]] | [[Self-Projected Authority]] | [[Strategy Overview]] | [[Human Design System]]

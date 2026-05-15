@@ -2,9 +2,9 @@
 
 ## How to Use
 
-This wiki contains 58 articles organized by topic. Articles use [[wikilinks]] to connect related concepts. Start with **Human Design System** for a full overview, then follow links into specific areas of interest. Each article includes frontmatter listing related articles and the source entry IDs it was written from.
+This wiki contains 68 articles organized by topic. Articles use [[wikilinks]] to connect related concepts. Start with **Human Design System** for a full overview, then follow links into specific areas of interest. Each article includes frontmatter listing related articles and the source entry IDs it was written from.
 
-The **concepts/** section covers foundational ideas. **types/** and **authorities/** cover the practical tools of Strategy and Authority. **centers/** covers the nine energy centers in detail. **profiles/** covers all twelve profiles and the line/angle system. **teachers/** covers Ra Uru Hu, Maike Gabriela, and the Jovian Archive. **applications/** covers relationships, business, parenting, and transits. **incarnation-crosses/** and **variables/** cover advanced topics. **gates/** and **channels/** cover the structural mechanics.
+The **concepts/** section covers foundational ideas. **strategy/** and **inner-authority/** cover the two practical tools Human Design offers — Strategy (by type) and Inner Authority (by configuration). **types/** covers the five energy types. **centers/** covers the nine energy centers in detail. **profiles/** covers all twelve profiles and the line/angle system. **teachers/** covers Ra Uru Hu, Maike Gabriela, and the Jovian Archive. **applications/** covers relationships, business, parenting, and transits. **incarnation-crosses/** and **variables/** cover advanced topics. **gates/** and **channels/** cover the structural mechanics.
 
 ---
 
@@ -12,12 +12,33 @@ The **concepts/** section covers foundational ideas. **types/** and **authoritie
 
 ### Concepts
 - [Human Design System](concepts/human-design-system.md) — overview, bodygraph, origins, Ra Uru Hu, HD basics
-- [Strategy](concepts/strategy.md) — respond, inform, wait for invitation, lunar cycle
 - [Signature](concepts/signature.md) — satisfaction, peace, success, surprise
 - [Not-Self](concepts/not-self.md) — frustration, anger, bitterness, disappointment; conditioning themes per center
-- [Deconditioning](concepts/deconditioning.md) — seven-year process, how it works, sleeping alone
 - [Conditioning](concepts/conditioning.md) — open centers, amplification, the program, neutrino field
-- [Inner Authority](concepts/inner-authority.md) — all seven authority types, authority hierarchy, mind as passenger
+- [Deconditioning](concepts/deconditioning.md) — seven-year process, how it works, sleeping alone
+
+### Strategy
+- [Strategy Overview](strategy/strategy-overview.md) — what Strategy is, the four strategies, relationship to Authority
+- [Respond](strategy/respond.md) — Generator and Manifesting Generator strategy; sacral sounds; pure Respond vs Respond+Inform
+- [Inform](strategy/inform.md) — Manifestor strategy; what to inform, children vs adults, peace as signature
+- [Wait for the Invitation](strategy/wait-for-invitation.md) — Projector strategy; what counts as an invitation, four major invitations, recognition
+- [Wait the Lunar Cycle](strategy/wait-lunar-cycle.md) — Reflector strategy; 28-day sampling, mapping the cycle, demanding the time
+- [Mind vs Body Decision-Making](strategy/mind-vs-body.md) — why the mind fails at decisions, what the body does, the time problem
+- [Strategy and Signature](strategy/strategy-and-signature.md) — the feedback loop, four signatures by type, Ra on daily measurement
+
+### Inner Authority
+- [Inner Authority Overview](inner-authority/inner-authority-overview.md) — the body knows, the seven authorities, how to find yours
+- [The Authority Hierarchy](inner-authority/authority-hierarchy.md) — the strict order of centers, how to read your chart, edge cases
+- [Emotional Authority](inner-authority/emotional-authority.md) — no truth in the now, the four waves, ~50% of population
+- [Sacral Authority](inner-authority/sacral-authority.md) — gut sounds, binary questions, Generators and MGs without SP
+- [Splenic Authority](inner-authority/splenic-authority.md) — intuition vs fear, in-the-now, seven fear gates
+- [Ego Authority](inner-authority/ego-authority.md) — heart center, will, genuine commitment, Manifestors and some Projectors
+- [Self-Projected Authority](inner-authority/self-projected-authority.md) — G center to throat, knowing through speaking
+- [Mental Authority](inner-authority/mental-authority.md) — no inner authority, sounding board, Mental Projectors
+- [Lunar Authority](inner-authority/lunar-authority.md) — Reflectors only, 28-day cycle, sampling the full wheel
+- [No Direct Inner Authority](inner-authority/no-direct-inner-authority.md) — Reflectors and Mental Projectors; courage of conviction
+- [Minor Authorities](inner-authority/minor-authorities.md) — Ego-Manifested, Ego-Projected, Self-Projected configurations (~4% of population)
+- [Making Decisions in Practice](inner-authority/making-decisions.md) — navigation as the frame, waiting, building trust, daily practice
 
 ### Types
 - [Generator](types/generator.md) — sacral defined, respond strategy, satisfaction signature, frustration not-self
@@ -25,15 +46,6 @@ The **concepts/** section covers foundational ideas. **types/** and **authoritie
 - [Manifestor](types/manifestor.md) — non-sacral, motor-to-throat, inform strategy, peace signature, anger not-self
 - [Projector](types/projector.md) — non-sacral, penetrating aura, wait for invitation, success signature, bitterness not-self
 - [Reflector](types/reflector.md) — no definition, Teflon aura, lunar cycle, surprise signature, disappointment not-self
-
-### Authorities
-- [Sacral Authority](authorities/sacral-authority.md) — gut sounds, binary questions, generators/MGs without SP
-- [Emotional Authority](authorities/emotional-authority.md) — solar plexus wave, no truth in the now, waiting for clarity
-- [Splenic Authority](authorities/splenic-authority.md) — in-the-now, does not repeat, fear gates, intuition vs anxiety
-- [Ego Authority](authorities/ego-authority.md) — heart center, will, genuine commitment, Manifestors and some Projectors
-- [Self-Projected Authority](authorities/self-projected-authority.md) — G center to throat, knowing through speaking
-- [Mental Authority](authorities/mental-authority.md) — no inner authority, environment and others, Mental Projectors
-- [Lunar Authority](authorities/lunar-authority.md) — Reflectors only, 28-day cycle, sampling the full wheel
 
 ### Centers
 - [Nine Centers](centers/nine-centers.md) — overview of all nine, defined vs undefined, type determination

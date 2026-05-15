@@ -3,7 +3,7 @@ title: Sacral Authority
 type: authority
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Inner Authority]]", "[[Generator]]", "[[Manifesting Generator]]", "[[Sacral Center]]", "[[Emotional Authority]]", "[[Strategy]]"]
+related: ["[[Inner Authority Overview]]", "[[Generator]]", "[[Manifesting Generator]]", "[[Sacral Center]]", "[[Emotional Authority]]", "[[Strategy Overview]]"]
 sources: ["380a757a47c7", "e0613bcfe533", "183523f9f9e3"]
 ---
 
@@ -49,4 +49,4 @@ Common practices for developing sacral authority:
 
 ## Related Articles
 
-[[Inner Authority]] | [[Generator]] | [[Manifesting Generator]] | [[Sacral Center]] | [[Emotional Authority]] | [[Strategy]] | [[Not-Self]]
+[[Inner Authority Overview]] | [[Generator]] | [[Manifesting Generator]] | [[Sacral Center]] | [[Emotional Authority]] | [[Strategy Overview]] | [[Not-Self]]

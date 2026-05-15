@@ -3,7 +3,7 @@ title: Self-Projected Authority
 type: authority
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Inner Authority]]", "[[G Center]]", "[[Projector]]", "[[Mental Authority]]", "[[Throat Center]]", "[[Strategy]]"]
+related: ["[[Inner Authority Overview]]", "[[G Center]]", "[[Projector]]", "[[Mental Authority]]", "[[Throat Center]]", "[[Strategy Overview]]"]
 sources: ["6a62f04db7c6", "c4ee334b644a"]
 ---
 
@@ -29,4 +29,4 @@ People with Self-Projected Authority may benefit from journaling aloud (speaking
 
 ## Related Articles
 
-[[Inner Authority]] | [[G Center]] | [[Projector]] | [[Mental Authority]] | [[Throat Center]] | [[Strategy]] | [[Human Design System]]
+[[Inner Authority Overview]] | [[G Center]] | [[Projector]] | [[Mental Authority]] | [[Throat Center]] | [[Strategy Overview]] | [[Human Design System]]

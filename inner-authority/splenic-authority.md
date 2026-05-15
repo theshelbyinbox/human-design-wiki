@@ -3,7 +3,7 @@ title: Splenic Authority
 type: authority
 created: 2026-05-15
 last_updated: 2026-05-15
-related: ["[[Inner Authority]]", "[[Splenic Center]]", "[[Projector]]", "[[Manifestor]]", "[[Generator]]", "[[Emotional Authority]]", "[[Strategy]]"]
+related: ["[[Inner Authority Overview]]", "[[Splenic Center]]", "[[Projector]]", "[[Manifestor]]", "[[Generator]]", "[[Emotional Authority]]", "[[Strategy Overview]]"]
 sources: ["97e84985184a", "e9bd3fafb145", "b1fcb8be674d"]
 ---
 
@@ -57,4 +57,4 @@ The spleen governs the body's immune function in Human Design. People with Splen
 
 ## Related Articles
 
-[[Inner Authority]] | [[Splenic Center]] | [[Projector]] | [[Manifestor]] | [[Emotional Authority]] | [[Sacral Authority]] | [[Strategy]] | [[Human Design System]]
+[[Inner Authority Overview]] | [[Splenic Center]] | [[Projector]] | [[Manifestor]] | [[Emotional Authority]] | [[Sacral Authority]] | [[Strategy Overview]] | [[Human Design System]]
