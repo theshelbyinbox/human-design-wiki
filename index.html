@@ -5275,30 +5275,11 @@ function renderArticle(key, article) {
   const body = renderMarkdown(article.content);
   const breadcrumb = getBreadcrumb(key, article);
 
-  // Related links
-  let relatedHtml = '';
-  if (article.related && article.related.length > 0) {
-    const pills = article.related.map(r => {
-      // Strip [[ ]] if present
-      const text = r.replace(/^\[\[/, '').replace(/\]\]$/, '');
-      const href = resolveWikilink(text);
-      if (href) return `<a class="related-pill" href="${href}">${text}</a>`;
-      return `<span class="related-pill" style="opacity:0.6">${text}</span>`;
-    }).join('');
-    if (pills) {
-      relatedHtml = `<div id="related-section">
-        <h3>Related Articles</h3>
-        <div class="related-pills">${pills}</div>
-      </div>`;
-    }
-  }
-
   content.innerHTML = `
     <div id="breadcrumb">${breadcrumb}</div>
     <h1 class="article-title">${article.title}</h1>
     ${toc}
     <div id="article-body">${body}</div>
-    ${relatedHtml}
   `;
 }
 
