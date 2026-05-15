@@ -471,7 +471,12 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   color: var(--text-primary);
   border-bottom: 1px solid var(--heading-border);
   padding-bottom: 6px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
+}
+.home-section-subtitle {
+  color: var(--text-secondary);
+  font-size: 14px;
+  margin: 0 0 18px;
 }
 
 .cards-grid {
@@ -512,7 +517,10 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   font-weight: 600;
   color: var(--text-primary);
   margin-bottom: 4px;
+  display: block;
+  text-decoration: none;
 }
+.section-card .card-title:hover { color: var(--accent); }
 .section-card .card-count {
   font-size: 12px;
   color: var(--text-secondary);
@@ -5008,6 +5016,10 @@ function renderMarkdown(text) {
 }
 
 // ── TABLE OF CONTENTS ──
+function navigateTo(href) {
+  window.location.hash = href.replace(/^#/, '');
+}
+
 function scrollToSection(slug) {
   const el = document.getElementById(slug);
   if (!el) return;
@@ -5123,21 +5135,21 @@ function renderHome() {
 
   const sectionCards = navSections.map(sec => {
     const icons = {
-      concepts: '&#9670;', types: '&#9775;', authorities: '&#10022;',
-      centers: '&#9711;', profiles: '&#9670;', gates: '&#9776;',
-      channels: '&#9135;', 'incarnation-crosses': '&#9775;',
-      variables: '&#9670;', teachers: '&#9786;', applications: '&#9671;'
+      concepts: '&#9670;', strategy: '&#10148;', 'inner-authority': '&#10022;',
+      types: '&#9775;', centers: '&#9711;', profiles: '&#9670;',
+      gates: '&#9776;', channels: '&#9135;', 'incarnation-crosses': '&#10038;',
+      variables: '&#9670;'
     };
     const icon = icons[sec.key] || '&#9670;';
     const links = sec.articles.slice(0, 4).map(a =>
-      `<a href="#/${a.key}">${a.label}</a>`
+      `<a href="#/${a.key}" onclick="event.stopPropagation()">${a.label}</a>`
     ).join('');
-    return `<a class="section-card" href="#/${sec.articles[0].key}">
+    return `<div class="section-card" onclick="navigateTo('#/${sec.key}')" role="link" tabindex="0">
       <div class="card-icon">${icon}</div>
-      <div class="card-title">${sec.label}</div>
+      <a class="card-title" href="#/${sec.key}">${sec.label}</a>
       <div class="card-count">${sec.articles.length} article${sec.articles.length !== 1 ? 's' : ''}</div>
       <div class="card-links">${links}</div>
-    </a>`;
+    </div>`;
   }).join('');
 
   content.innerHTML = `
@@ -5168,8 +5180,8 @@ function renderHome() {
         <div class="quick-nav-group">
           <h3>Core Concepts</h3>
           <ul>
-            <li><a href="#/concepts/strategy">Strategy</a></li>
-            <li><a href="#/concepts/inner-authority">Inner Authority</a></li>
+            <li><a href="#/strategy">Strategy</a></li>
+            <li><a href="#/inner-authority">Inner Authority</a></li>
             <li><a href="#/concepts/not-self">Not-Self Theme</a></li>
             <li><a href="#/concepts/deconditioning">Deconditioning</a></li>
           </ul>
@@ -5185,7 +5197,8 @@ function renderHome() {
       </div>
     </div>
 
-    <h2 class="home-section-title">Browse by Section</h2>
+    <h2 class="home-section-title">View All Sections</h2>
+    <p class="home-section-subtitle">Click any section card to open its landing page, or jump directly to a sub-page via the links inside each card.</p>
     <div class="cards-grid">
       ${sectionCards}
     </div>
