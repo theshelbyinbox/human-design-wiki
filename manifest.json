@@ -1,0 +1,3483 @@
+{
+ "generated": "2026-08-22",
+ "wiki": {
+  "name": "Human Design Wiki",
+  "tagline": "The comprehensive reference for the Human Design System — synthesized from primary sources"
+ },
+ "navSections": [
+  {
+   "key": "concepts",
+   "label": "Core Concepts",
+   "articles": [
+    {
+     "key": "concepts/human-design-system",
+     "label": "Human Design System"
+    },
+    {
+     "key": "concepts/signature",
+     "label": "Signature"
+    },
+    {
+     "key": "concepts/not-self",
+     "label": "Not-Self"
+    },
+    {
+     "key": "concepts/conditioning",
+     "label": "Conditioning"
+    },
+    {
+     "key": "concepts/deconditioning",
+     "label": "Deconditioning"
+    }
+   ]
+  },
+  {
+   "key": "strategy",
+   "label": "Strategy",
+   "articles": [
+    {
+     "key": "strategy/strategy-overview",
+     "label": "Strategy Overview"
+    },
+    {
+     "key": "strategy/respond",
+     "label": "Respond"
+    },
+    {
+     "key": "strategy/inform",
+     "label": "Inform"
+    },
+    {
+     "key": "strategy/wait-for-invitation",
+     "label": "Wait for the Invitation"
+    },
+    {
+     "key": "strategy/wait-lunar-cycle",
+     "label": "Wait the Lunar Cycle"
+    },
+    {
+     "key": "strategy/mind-vs-body",
+     "label": "Mind vs Body Decision-Making"
+    },
+    {
+     "key": "strategy/strategy-and-signature",
+     "label": "Strategy and Signature"
+    }
+   ]
+  },
+  {
+   "key": "inner-authority",
+   "label": "Inner Authority",
+   "articles": [
+    {
+     "key": "inner-authority/inner-authority-overview",
+     "label": "Inner Authority Overview"
+    },
+    {
+     "key": "inner-authority/authority-hierarchy",
+     "label": "The Authority Hierarchy"
+    },
+    {
+     "key": "inner-authority/emotional-authority",
+     "label": "Emotional Authority"
+    },
+    {
+     "key": "inner-authority/sacral-authority",
+     "label": "Sacral Authority"
+    },
+    {
+     "key": "inner-authority/splenic-authority",
+     "label": "Splenic Authority"
+    },
+    {
+     "key": "inner-authority/ego-authority",
+     "label": "Ego Authority"
+    },
+    {
+     "key": "inner-authority/self-projected-authority",
+     "label": "Self-Projected Authority"
+    },
+    {
+     "key": "inner-authority/mental-authority",
+     "label": "Mental Authority"
+    },
+    {
+     "key": "inner-authority/lunar-authority",
+     "label": "Lunar Authority"
+    },
+    {
+     "key": "inner-authority/no-direct-inner-authority",
+     "label": "No Direct Inner Authority"
+    },
+    {
+     "key": "inner-authority/minor-authorities",
+     "label": "Minor Authorities"
+    },
+    {
+     "key": "inner-authority/making-decisions",
+     "label": "Making Decisions in Practice"
+    }
+   ]
+  },
+  {
+   "key": "types",
+   "label": "Energy Types",
+   "articles": [
+    {
+     "key": "types/generator",
+     "label": "Generator"
+    },
+    {
+     "key": "types/manifesting-generator",
+     "label": "Manifesting Generator"
+    },
+    {
+     "key": "types/manifestor",
+     "label": "Manifestor"
+    },
+    {
+     "key": "types/projector",
+     "label": "Projector"
+    },
+    {
+     "key": "types/reflector",
+     "label": "Reflector"
+    }
+   ]
+  },
+  {
+   "key": "centers",
+   "label": "Centers",
+   "articles": [
+    {
+     "key": "centers/nine-centers",
+     "label": "Nine Centers (Overview)"
+    },
+    {
+     "key": "centers/sacral-center",
+     "label": "Sacral Center"
+    },
+    {
+     "key": "centers/solar-plexus-center",
+     "label": "Solar Plexus Center"
+    },
+    {
+     "key": "centers/splenic-center",
+     "label": "Splenic Center"
+    },
+    {
+     "key": "centers/throat-center",
+     "label": "Throat Center"
+    },
+    {
+     "key": "centers/g-center",
+     "label": "G Center"
+    },
+    {
+     "key": "centers/root-center",
+     "label": "Root Center"
+    },
+    {
+     "key": "centers/head-center",
+     "label": "Head Center"
+    },
+    {
+     "key": "centers/ajna-center",
+     "label": "Ajna Center"
+    },
+    {
+     "key": "centers/heart-center",
+     "label": "Heart Center"
+    }
+   ]
+  },
+  {
+   "key": "profiles",
+   "label": "Profiles & Lines",
+   "articles": [
+    {
+     "divider": "Lines"
+    },
+    {
+     "key": "profiles/lines-overview",
+     "label": "Lines Overview"
+    },
+    {
+     "key": "profiles/line-1",
+     "label": "Line 1 — Investigator"
+    },
+    {
+     "key": "profiles/line-2",
+     "label": "Line 2 — Hermit"
+    },
+    {
+     "key": "profiles/line-3",
+     "label": "Line 3 — Martyr"
+    },
+    {
+     "key": "profiles/line-4",
+     "label": "Line 4 — Opportunist"
+    },
+    {
+     "key": "profiles/line-5",
+     "label": "Line 5 — Heretic"
+    },
+    {
+     "key": "profiles/line-6",
+     "label": "Line 6 — Role Model"
+    },
+    {
+     "divider": "Profiles"
+    },
+    {
+     "key": "profiles/angles-overview",
+     "label": "Angles Overview"
+    },
+    {
+     "key": "profiles/profile-1-3",
+     "label": "Profile 1/3"
+    },
+    {
+     "key": "profiles/profile-1-4",
+     "label": "Profile 1/4"
+    },
+    {
+     "key": "profiles/profile-2-4",
+     "label": "Profile 2/4"
+    },
+    {
+     "key": "profiles/profile-2-5",
+     "label": "Profile 2/5"
+    },
+    {
+     "key": "profiles/profile-3-5",
+     "label": "Profile 3/5"
+    },
+    {
+     "key": "profiles/profile-3-6",
+     "label": "Profile 3/6"
+    },
+    {
+     "key": "profiles/profile-4-1",
+     "label": "Profile 4/1"
+    },
+    {
+     "key": "profiles/profile-4-6",
+     "label": "Profile 4/6"
+    },
+    {
+     "key": "profiles/profile-5-1",
+     "label": "Profile 5/1"
+    },
+    {
+     "key": "profiles/profile-5-2",
+     "label": "Profile 5/2"
+    },
+    {
+     "key": "profiles/profile-6-2",
+     "label": "Profile 6/2"
+    },
+    {
+     "key": "profiles/profile-6-3",
+     "label": "Profile 6/3"
+    }
+   ]
+  },
+  {
+   "key": "gates",
+   "label": "Gates (64)",
+   "articles": [
+    {
+     "key": "gates/gates-overview",
+     "label": "Gates Overview"
+    },
+    {
+     "key": "gates/gate-reference",
+     "label": "Gate Reference (all 64)"
+    },
+    {
+     "key": "gates/gate-1",
+     "label": "Gate 1"
+    },
+    {
+     "key": "gates/gate-2",
+     "label": "Gate 2"
+    },
+    {
+     "key": "gates/gate-3",
+     "label": "Gate 3"
+    },
+    {
+     "key": "gates/gate-4",
+     "label": "Gate 4"
+    },
+    {
+     "key": "gates/gate-5",
+     "label": "Gate 5"
+    },
+    {
+     "key": "gates/gate-6",
+     "label": "Gate 6"
+    },
+    {
+     "key": "gates/gate-7",
+     "label": "Gate 7"
+    },
+    {
+     "key": "gates/gate-8",
+     "label": "Gate 8"
+    },
+    {
+     "key": "gates/gate-9",
+     "label": "Gate 9"
+    },
+    {
+     "key": "gates/gate-10",
+     "label": "Gate 10"
+    },
+    {
+     "key": "gates/gate-11",
+     "label": "Gate 11"
+    },
+    {
+     "key": "gates/gate-12",
+     "label": "Gate 12"
+    },
+    {
+     "key": "gates/gate-13",
+     "label": "Gate 13"
+    },
+    {
+     "key": "gates/gate-14",
+     "label": "Gate 14"
+    },
+    {
+     "key": "gates/gate-15",
+     "label": "Gate 15"
+    },
+    {
+     "key": "gates/gate-16",
+     "label": "Gate 16"
+    },
+    {
+     "key": "gates/gate-17",
+     "label": "Gate 17"
+    },
+    {
+     "key": "gates/gate-18",
+     "label": "Gate 18"
+    },
+    {
+     "key": "gates/gate-19",
+     "label": "Gate 19"
+    },
+    {
+     "key": "gates/gate-20",
+     "label": "Gate 20"
+    },
+    {
+     "key": "gates/gate-21",
+     "label": "Gate 21"
+    },
+    {
+     "key": "gates/gate-22",
+     "label": "Gate 22"
+    },
+    {
+     "key": "gates/gate-23",
+     "label": "Gate 23"
+    },
+    {
+     "key": "gates/gate-24",
+     "label": "Gate 24"
+    },
+    {
+     "key": "gates/gate-25",
+     "label": "Gate 25"
+    },
+    {
+     "key": "gates/gate-26",
+     "label": "Gate 26"
+    },
+    {
+     "key": "gates/gate-27",
+     "label": "Gate 27"
+    },
+    {
+     "key": "gates/gate-28",
+     "label": "Gate 28"
+    },
+    {
+     "key": "gates/gate-29",
+     "label": "Gate 29"
+    },
+    {
+     "key": "gates/gate-30",
+     "label": "Gate 30"
+    },
+    {
+     "key": "gates/gate-31",
+     "label": "Gate 31"
+    },
+    {
+     "key": "gates/gate-32",
+     "label": "Gate 32"
+    },
+    {
+     "key": "gates/gate-33",
+     "label": "Gate 33"
+    },
+    {
+     "key": "gates/gate-34",
+     "label": "Gate 34"
+    },
+    {
+     "key": "gates/gate-35",
+     "label": "Gate 35"
+    },
+    {
+     "key": "gates/gate-36",
+     "label": "Gate 36"
+    },
+    {
+     "key": "gates/gate-37",
+     "label": "Gate 37"
+    },
+    {
+     "key": "gates/gate-38",
+     "label": "Gate 38"
+    },
+    {
+     "key": "gates/gate-39",
+     "label": "Gate 39"
+    },
+    {
+     "key": "gates/gate-40",
+     "label": "Gate 40"
+    },
+    {
+     "key": "gates/gate-41",
+     "label": "Gate 41"
+    },
+    {
+     "key": "gates/gate-42",
+     "label": "Gate 42"
+    },
+    {
+     "key": "gates/gate-43",
+     "label": "Gate 43"
+    },
+    {
+     "key": "gates/gate-44",
+     "label": "Gate 44"
+    },
+    {
+     "key": "gates/gate-45",
+     "label": "Gate 45"
+    },
+    {
+     "key": "gates/gate-46",
+     "label": "Gate 46"
+    },
+    {
+     "key": "gates/gate-47",
+     "label": "Gate 47"
+    },
+    {
+     "key": "gates/gate-48",
+     "label": "Gate 48"
+    },
+    {
+     "key": "gates/gate-49",
+     "label": "Gate 49"
+    },
+    {
+     "key": "gates/gate-50",
+     "label": "Gate 50"
+    },
+    {
+     "key": "gates/gate-51",
+     "label": "Gate 51"
+    },
+    {
+     "key": "gates/gate-52",
+     "label": "Gate 52"
+    },
+    {
+     "key": "gates/gate-53",
+     "label": "Gate 53"
+    },
+    {
+     "key": "gates/gate-54",
+     "label": "Gate 54"
+    },
+    {
+     "key": "gates/gate-55",
+     "label": "Gate 55"
+    },
+    {
+     "key": "gates/gate-56",
+     "label": "Gate 56"
+    },
+    {
+     "key": "gates/gate-57",
+     "label": "Gate 57"
+    },
+    {
+     "key": "gates/gate-58",
+     "label": "Gate 58"
+    },
+    {
+     "key": "gates/gate-59",
+     "label": "Gate 59"
+    },
+    {
+     "key": "gates/gate-60",
+     "label": "Gate 60"
+    },
+    {
+     "key": "gates/gate-61",
+     "label": "Gate 61"
+    },
+    {
+     "key": "gates/gate-62",
+     "label": "Gate 62"
+    },
+    {
+     "key": "gates/gate-63",
+     "label": "Gate 63"
+    },
+    {
+     "key": "gates/gate-64",
+     "label": "Gate 64"
+    }
+   ]
+  },
+  {
+   "key": "channels",
+   "label": "Channels (36)",
+   "articles": [
+    {
+     "key": "channels/channels-overview",
+     "label": "Channels Overview"
+    },
+    {
+     "key": "channels/1-8",
+     "label": "Channel 1/8"
+    },
+    {
+     "key": "channels/2-14",
+     "label": "Channel 2/14"
+    },
+    {
+     "key": "channels/3-60",
+     "label": "Channel 3/60"
+    },
+    {
+     "key": "channels/4-63",
+     "label": "Channel 4/63"
+    },
+    {
+     "key": "channels/5-15",
+     "label": "Channel 5/15"
+    },
+    {
+     "key": "channels/6-59",
+     "label": "Channel 6/59"
+    },
+    {
+     "key": "channels/7-31",
+     "label": "Channel 7/31"
+    },
+    {
+     "key": "channels/9-52",
+     "label": "Channel 9/52"
+    },
+    {
+     "key": "channels/10-20",
+     "label": "Channel 10/20"
+    },
+    {
+     "key": "channels/10-34",
+     "label": "Channel 10/34"
+    },
+    {
+     "key": "channels/10-57",
+     "label": "Channel 10/57"
+    },
+    {
+     "key": "channels/11-56",
+     "label": "Channel 11/56"
+    },
+    {
+     "key": "channels/12-22",
+     "label": "Channel 12/22"
+    },
+    {
+     "key": "channels/13-33",
+     "label": "Channel 13/33"
+    },
+    {
+     "key": "channels/16-48",
+     "label": "Channel 16/48"
+    },
+    {
+     "key": "channels/17-62",
+     "label": "Channel 17/62"
+    },
+    {
+     "key": "channels/18-58",
+     "label": "Channel 18/58"
+    },
+    {
+     "key": "channels/19-49",
+     "label": "Channel 19/49"
+    },
+    {
+     "key": "channels/20-34",
+     "label": "Channel 20/34"
+    },
+    {
+     "key": "channels/20-57",
+     "label": "Channel 20/57"
+    },
+    {
+     "key": "channels/21-45",
+     "label": "Channel 21/45"
+    },
+    {
+     "key": "channels/23-43",
+     "label": "Channel 23/43"
+    },
+    {
+     "key": "channels/24-61",
+     "label": "Channel 24/61"
+    },
+    {
+     "key": "channels/25-51",
+     "label": "Channel 25/51"
+    },
+    {
+     "key": "channels/26-44",
+     "label": "Channel 26/44"
+    },
+    {
+     "key": "channels/27-50",
+     "label": "Channel 27/50"
+    },
+    {
+     "key": "channels/28-38",
+     "label": "Channel 28/38"
+    },
+    {
+     "key": "channels/29-46",
+     "label": "Channel 29/46"
+    },
+    {
+     "key": "channels/30-41",
+     "label": "Channel 30/41"
+    },
+    {
+     "key": "channels/32-54",
+     "label": "Channel 32/54"
+    },
+    {
+     "key": "channels/34-57",
+     "label": "Channel 34/57"
+    },
+    {
+     "key": "channels/35-36",
+     "label": "Channel 35/36"
+    },
+    {
+     "key": "channels/37-40",
+     "label": "Channel 37/40"
+    },
+    {
+     "key": "channels/39-55",
+     "label": "Channel 39/55"
+    },
+    {
+     "key": "channels/42-53",
+     "label": "Channel 42/53"
+    },
+    {
+     "key": "channels/47-64",
+     "label": "Channel 47/64"
+    }
+   ]
+  },
+  {
+   "key": "circuits",
+   "label": "Circuits",
+   "articles": [
+    {
+     "key": "circuits/individual",
+     "label": "Individual Circuit"
+    },
+    {
+     "key": "circuits/tribal",
+     "label": "Tribal Circuit"
+    },
+    {
+     "key": "circuits/collective",
+     "label": "Collective Circuit"
+    },
+    {
+     "key": "circuits/integration",
+     "label": "Integration Circuit"
+    },
+    {
+     "key": "circuits/ego",
+     "label": "Ego Circuit"
+    }
+   ]
+  },
+  {
+   "key": "incarnation-crosses",
+   "label": "Incarnation Cross",
+   "articles": [
+    {
+     "key": "incarnation-crosses/cross-of-the-sphinx",
+     "label": "Cross of the Sphinx"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-explanation",
+     "label": "Cross of Explanation"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-contagion",
+     "label": "Cross of Contagion"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-the-sleeping-phoenix",
+     "label": "Cross of the Sleeping Phoenix"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-planning",
+     "label": "Cross of Planning"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-consciousness",
+     "label": "Cross of Consciousness"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-rulership",
+     "label": "Cross of Rulership"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-eden",
+     "label": "Cross of Eden"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-the-vessel-of-love",
+     "label": "Cross of the Vessel of Love"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-service",
+     "label": "Cross of Service"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-tension",
+     "label": "Cross of Tension"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-penetration",
+     "label": "Cross of Penetration"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-maya",
+     "label": "Cross of Maya"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-laws",
+     "label": "Cross of Laws"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-the-unexpected",
+     "label": "Cross of the Unexpected"
+    },
+    {
+     "key": "incarnation-crosses/cross-of-the-four-ways",
+     "label": "Cross of the Four Ways"
+    }
+   ]
+  },
+  {
+   "key": "variables",
+   "label": "Variables & PHS",
+   "articles": [
+    {
+     "key": "variables/variables-overview",
+     "label": "Variables Overview"
+    },
+    {
+     "key": "variables/phs-diet",
+     "label": "PHS & Diet"
+    },
+    {
+     "key": "variables/definition-types",
+     "label": "Definition Types"
+    }
+   ]
+  }
+ ],
+ "articles": {
+  "centers/ajna-center": {
+   "title": "Ajna Center",
+   "section": "Centers"
+  },
+  "centers/g-center": {
+   "title": "G Center",
+   "section": "Centers"
+  },
+  "centers/head-center": {
+   "title": "Head Center",
+   "section": "Centers"
+  },
+  "centers/heart-center": {
+   "title": "Heart Center",
+   "section": "Centers"
+  },
+  "centers/nine-centers": {
+   "title": "Nine Centers",
+   "section": "Centers"
+  },
+  "centers/root-center": {
+   "title": "Root Center",
+   "section": "Centers"
+  },
+  "centers/sacral-center": {
+   "title": "Sacral Center",
+   "section": "Centers"
+  },
+  "centers/solar-plexus-center": {
+   "title": "Solar Plexus Center",
+   "section": "Centers"
+  },
+  "centers/splenic-center": {
+   "title": "Splenic Center",
+   "section": "Centers"
+  },
+  "centers/throat-center": {
+   "title": "Throat Center",
+   "section": "Centers"
+  },
+  "centers": {
+   "title": "Centers",
+   "section": "Centers"
+  },
+  "channels/1-8": {
+   "title": "Channel 1/8 — The Channel of Inspiration",
+   "section": "Channels"
+  },
+  "channels/10-20": {
+   "title": "Channel 10/20 — The Channel of Awakening",
+   "section": "Channels"
+  },
+  "channels/10-34": {
+   "title": "Channel 10/34 — The Channel of Exploration",
+   "section": "Channels"
+  },
+  "channels/10-57": {
+   "title": "Channel 10/57 — The Channel of Perfected Form",
+   "section": "Channels"
+  },
+  "channels/11-56": {
+   "title": "Channel 11/56 — The Channel of Curiosity",
+   "section": "Channels"
+  },
+  "channels/12-22": {
+   "title": "Channel 12/22 — The Channel of Openness",
+   "section": "Channels"
+  },
+  "channels/13-33": {
+   "title": "Channel 13/33 — The Channel of The Prodigal / The Witness",
+   "section": "Channels"
+  },
+  "channels/16-48": {
+   "title": "Channel 16/48 — The Channel of The Wavelength (Talent)",
+   "section": "Channels"
+  },
+  "channels/17-62": {
+   "title": "Channel 17/62 — The Channel of Acceptance / Organization",
+   "section": "Channels"
+  },
+  "channels/18-58": {
+   "title": "Channel 18/58 — The Channel of Judgment",
+   "section": "Channels"
+  },
+  "channels/19-49": {
+   "title": "Channel 19/49 — The Channel of Synthesis",
+   "section": "Channels"
+  },
+  "channels/2-14": {
+   "title": "Channel 2/14 — The Channel of the Beat",
+   "section": "Channels"
+  },
+  "channels/20-34": {
+   "title": "Channel 20/34 — The Channel of Charisma",
+   "section": "Channels"
+  },
+  "channels/20-57": {
+   "title": "Channel 20/57 — The Channel of The Brainwave",
+   "section": "Channels"
+  },
+  "channels/21-45": {
+   "title": "Channel 21/45 — The Channel of Money (The Materialist)",
+   "section": "Channels"
+  },
+  "channels/23-43": {
+   "title": "Channel 23/43 — The Channel of Structuring",
+   "section": "Channels"
+  },
+  "channels/24-61": {
+   "title": "Channel 24/61 — The Channel of Awareness",
+   "section": "Channels"
+  },
+  "channels/25-51": {
+   "title": "Channel 25/51 — The Channel of Initiation",
+   "section": "Channels"
+  },
+  "channels/26-44": {
+   "title": "Channel 26/44 — The Channel of Surrender",
+   "section": "Channels"
+  },
+  "channels/27-50": {
+   "title": "Channel 27/50 — The Channel of Preservation",
+   "section": "Channels"
+  },
+  "channels/28-38": {
+   "title": "Channel 28/38 — The Channel of Struggle",
+   "section": "Channels"
+  },
+  "channels/29-46": {
+   "title": "Channel 29/46 — The Channel of Discovery / Determination",
+   "section": "Channels"
+  },
+  "channels/3-60": {
+   "title": "Channel 3/60 — The Channel of Mutation",
+   "section": "Channels"
+  },
+  "channels/30-41": {
+   "title": "Channel 30/41 — The Channel of Recognition",
+   "section": "Channels"
+  },
+  "channels/32-54": {
+   "title": "Channel 32/54 — The Channel of Transformation",
+   "section": "Channels"
+  },
+  "channels/34-57": {
+   "title": "Channel 34/57 — The Channel of Power",
+   "section": "Channels"
+  },
+  "channels/35-36": {
+   "title": "Channel 35/36 — The Channel of Transitoriness",
+   "section": "Channels"
+  },
+  "channels/37-40": {
+   "title": "Channel 37/40 — The Channel of Community",
+   "section": "Channels"
+  },
+  "channels/39-55": {
+   "title": "Channel 39/55 — The Channel of Emoting",
+   "section": "Channels"
+  },
+  "channels/4-63": {
+   "title": "Channel 4/63 — The Channel of Logic",
+   "section": "Channels"
+  },
+  "channels/42-53": {
+   "title": "Channel 42/53 — The Channel of Maturation",
+   "section": "Channels"
+  },
+  "channels/47-64": {
+   "title": "Channel 47/64 — The Channel of Abstraction",
+   "section": "Channels"
+  },
+  "channels/5-15": {
+   "title": "Channel 5/15 — The Channel of Rhythm",
+   "section": "Channels"
+  },
+  "channels/6-59": {
+   "title": "Channel 6/59 — The Channel of Mating (Intimacy)",
+   "section": "Channels"
+  },
+  "channels/7-31": {
+   "title": "Channel 7/31 — The Channel of The Alpha / Leadership",
+   "section": "Channels"
+  },
+  "channels/9-52": {
+   "title": "Channel 9/52 — The Channel of Concentration",
+   "section": "Channels"
+  },
+  "channels/channels-overview": {
+   "title": "Channels Overview",
+   "section": "Channels (36)"
+  },
+  "channels": {
+   "title": "Channels (36)",
+   "section": "Channels (36)"
+  },
+  "circuits/collective": {
+   "title": "Collective Circuit",
+   "section": "Circuits"
+  },
+  "circuits/ego": {
+   "title": "Ego Circuit",
+   "section": "Circuits"
+  },
+  "circuits/individual": {
+   "title": "Individual Circuit",
+   "section": "Circuits"
+  },
+  "circuits/integration": {
+   "title": "Integration Circuit",
+   "section": "Circuits"
+  },
+  "circuits/tribal": {
+   "title": "Tribal Circuit",
+   "section": "Circuits"
+  },
+  "circuits": {
+   "title": "Circuits",
+   "section": "Circuits"
+  },
+  "concepts/conditioning": {
+   "title": "Conditioning",
+   "section": "Core Concepts"
+  },
+  "concepts/deconditioning": {
+   "title": "Deconditioning",
+   "section": "Core Concepts"
+  },
+  "concepts/human-design-system": {
+   "title": "Human Design System",
+   "section": "Core Concepts"
+  },
+  "concepts/not-self": {
+   "title": "Not-Self",
+   "section": "Core Concepts"
+  },
+  "concepts/signature": {
+   "title": "Signature",
+   "section": "Core Concepts"
+  },
+  "concepts": {
+   "title": "Core Concepts",
+   "section": "Core Concepts"
+  },
+  "gates/gate-1": {
+   "title": "Gate 1 — The Creative (Self-Expression)",
+   "section": "Gates"
+  },
+  "gates/gate-10": {
+   "title": "Gate 10 — Behavior of the Self (Treading)",
+   "section": "Gates"
+  },
+  "gates/gate-11": {
+   "title": "Gate 11 — Ideas (Peace)",
+   "section": "Gates"
+  },
+  "gates/gate-12": {
+   "title": "Gate 12 — Caution (Standstill)",
+   "section": "Gates"
+  },
+  "gates/gate-13": {
+   "title": "Gate 13 — The Listener (The Fellowship of Man)",
+   "section": "Gates"
+  },
+  "gates/gate-14": {
+   "title": "Gate 14 — Power Skills (Possession in Great Measure)",
+   "section": "Gates"
+  },
+  "gates/gate-15": {
+   "title": "Gate 15 — Extremes (Modesty)",
+   "section": "Gates"
+  },
+  "gates/gate-16": {
+   "title": "Gate 16 — Skills (Enthusiasm)",
+   "section": "Gates"
+  },
+  "gates/gate-17": {
+   "title": "Gate 17 — Following / The Gate of Opinion",
+   "section": "Gates"
+  },
+  "gates/gate-18": {
+   "title": "Gate 18 — Work on What Has Been Spoiled / The Gate of Correction",
+   "section": "Gates"
+  },
+  "gates/gate-19": {
+   "title": "Gate 19 — Approach / The Gate of Wanting",
+   "section": "Gates"
+  },
+  "gates/gate-2": {
+   "title": "Gate 2 — The Receptive (Higher Knowing / The Driver)",
+   "section": "Gates"
+  },
+  "gates/gate-20": {
+   "title": "Gate 20 — Contemplation / The Gate of the Now",
+   "section": "Gates"
+  },
+  "gates/gate-21": {
+   "title": "Gate 21 — Biting Through / The Gate of the Hunter/Huntress",
+   "section": "Gates"
+  },
+  "gates/gate-22": {
+   "title": "Gate 22 — Grace / The Gate of Openness",
+   "section": "Gates"
+  },
+  "gates/gate-23": {
+   "title": "Gate 23 — Splitting Apart / The Gate of Assimilation",
+   "section": "Gates"
+  },
+  "gates/gate-24": {
+   "title": "Gate 24 — The Return / The Gate of Rationalization",
+   "section": "Gates"
+  },
+  "gates/gate-25": {
+   "title": "Gate 25 — Innocence (The Spirit of the Self)",
+   "section": "Gates"
+  },
+  "gates/gate-26": {
+   "title": "Gate 26 — The Taming Power of the Great (The Egoist)",
+   "section": "Gates"
+  },
+  "gates/gate-27": {
+   "title": "Gate 27 — Nourishment (Caring)",
+   "section": "Gates"
+  },
+  "gates/gate-28": {
+   "title": "Gate 28 — Preponderance of the Great (The Game Player)",
+   "section": "Gates"
+  },
+  "gates/gate-29": {
+   "title": "Gate 29 — The Abysmal (Perseverance, The Yes)",
+   "section": "Gates"
+  },
+  "gates/gate-3": {
+   "title": "Gate 3 — Difficulty at the Beginning (Ordering / Innovation / Mutation)",
+   "section": "Gates"
+  },
+  "gates/gate-30": {
+   "title": "Gate 30 — The Clinging Fire (Feelings, Desire)",
+   "section": "Gates"
+  },
+  "gates/gate-31": {
+   "title": "Gate 31 — Influence (Leading, The Alpha)",
+   "section": "Gates"
+  },
+  "gates/gate-32": {
+   "title": "Gate 32 — Continuity (Duration, The Conservator)",
+   "section": "Gates"
+  },
+  "gates/gate-33": {
+   "title": "Gate 33 — Retreat",
+   "section": "Gates"
+  },
+  "gates/gate-34": {
+   "title": "Gate 34 — The Power of the Great",
+   "section": "Gates"
+  },
+  "gates/gate-35": {
+   "title": "Gate 35 — Progress",
+   "section": "Gates"
+  },
+  "gates/gate-36": {
+   "title": "Gate 36 — Darkening of the Light",
+   "section": "Gates"
+  },
+  "gates/gate-37": {
+   "title": "Gate 37 — The Family",
+   "section": "Gates"
+  },
+  "gates/gate-38": {
+   "title": "Gate 38 — Opposition",
+   "section": "Gates"
+  },
+  "gates/gate-39": {
+   "title": "Gate 39 — Provocation",
+   "section": "Gates"
+  },
+  "gates/gate-4": {
+   "title": "Gate 4 — Youthful Folly (Formulization / Possibility)",
+   "section": "Gates"
+  },
+  "gates/gate-40": {
+   "title": "Gate 40 — Deliverance",
+   "section": "Gates"
+  },
+  "gates/gate-41": {
+   "title": "Gate 41 — Decrease / Contraction",
+   "section": "Gates"
+  },
+  "gates/gate-42": {
+   "title": "Gate 42 — Increase / Growth",
+   "section": "Gates"
+  },
+  "gates/gate-43": {
+   "title": "Gate 43 — Insight / Breakthrough",
+   "section": "Gates"
+  },
+  "gates/gate-44": {
+   "title": "Gate 44 — Alertness / Coming to Meet",
+   "section": "Gates"
+  },
+  "gates/gate-45": {
+   "title": "Gate 45 — The Gatherer / Gathering Together",
+   "section": "Gates"
+  },
+  "gates/gate-46": {
+   "title": "Gate 46 — Determination of the Self / Pushing Upward",
+   "section": "Gates"
+  },
+  "gates/gate-47": {
+   "title": "Gate 47 — Realization / Oppression",
+   "section": "Gates"
+  },
+  "gates/gate-48": {
+   "title": "Gate 48 — Depth / The Well",
+   "section": "Gates"
+  },
+  "gates/gate-49": {
+   "title": "Gate 49 — Revolution / The Gate of Principles",
+   "section": "Gates"
+  },
+  "gates/gate-5": {
+   "title": "Gate 5 — Waiting (Fixed Patterns / Rhythm)",
+   "section": "Gates"
+  },
+  "gates/gate-50": {
+   "title": "Gate 50 — The Cauldron / The Gate of Values",
+   "section": "Gates"
+  },
+  "gates/gate-51": {
+   "title": "Gate 51 — The Arousing / The Gate of Shock",
+   "section": "Gates"
+  },
+  "gates/gate-52": {
+   "title": "Gate 52 — Keeping Still / The Gate of Stillness",
+   "section": "Gates"
+  },
+  "gates/gate-53": {
+   "title": "Gate 53 — Development / The Gate of Beginnings",
+   "section": "Gates"
+  },
+  "gates/gate-54": {
+   "title": "Gate 54 — The Marrying Maiden / The Gate of Ambition",
+   "section": "Gates"
+  },
+  "gates/gate-55": {
+   "title": "Gate 55 — Abundance / The Gate of Spirit",
+   "section": "Gates"
+  },
+  "gates/gate-56": {
+   "title": "Gate 56 — The Wanderer / The Gate of Stimulation",
+   "section": "Gates"
+  },
+  "gates/gate-57": {
+   "title": "Gate 57 — The Gentle / The Gate of Intuitive Clarity",
+   "section": "Gates"
+  },
+  "gates/gate-58": {
+   "title": "Gate 58 — The Joyous / The Gate of Vitality",
+   "section": "Gates"
+  },
+  "gates/gate-59": {
+   "title": "Gate 59 — Dispersion / The Gate of Intimacy",
+   "section": "Gates"
+  },
+  "gates/gate-6": {
+   "title": "Gate 6 — Conflict (Friction / Intimacy / Impact)",
+   "section": "Gates"
+  },
+  "gates/gate-60": {
+   "title": "Gate 60 — Limitation / The Gate of Acceptance",
+   "section": "Gates"
+  },
+  "gates/gate-61": {
+   "title": "Gate 61 — Inner Truth / The Gate of Mystery",
+   "section": "Gates"
+  },
+  "gates/gate-62": {
+   "title": "Gate 62 — Preponderance of the Small / The Gate of Detail",
+   "section": "Gates"
+  },
+  "gates/gate-63": {
+   "title": "Gate 63 — After Completion / The Gate of Doubt",
+   "section": "Gates"
+  },
+  "gates/gate-64": {
+   "title": "Gate 64 — Before Completion / The Gate of Confusion",
+   "section": "Gates"
+  },
+  "gates/gate-7": {
+   "title": "Gate 7 — The Army (The Role of the Self / Collaboration)",
+   "section": "Gates"
+  },
+  "gates/gate-8": {
+   "title": "Gate 8 — Holding Together (Contribution / Fulfillment)",
+   "section": "Gates"
+  },
+  "gates/gate-9": {
+   "title": "Gate 9 — Focus (The Taming Power of the Small)",
+   "section": "Gates"
+  },
+  "gates/gate-reference": {
+   "title": "Gate Reference",
+   "section": "Gates (64)"
+  },
+  "gates/gates-overview": {
+   "title": "Gates Overview",
+   "section": "Gates (64)"
+  },
+  "gates": {
+   "title": "Gates (64)",
+   "section": "Gates (64)"
+  },
+  "incarnation-crosses/cross-of-consciousness": {
+   "title": "Cross of Consciousness",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-contagion": {
+   "title": "Cross of Contagion",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-eden": {
+   "title": "Cross of Eden",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-explanation": {
+   "title": "Cross of Explanation",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-laws": {
+   "title": "Cross of Laws",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-maya": {
+   "title": "Cross of Maya",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-penetration": {
+   "title": "Cross of Penetration",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-planning": {
+   "title": "Cross of Planning",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-rulership": {
+   "title": "Cross of Rulership",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-service": {
+   "title": "Cross of Service",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-tension": {
+   "title": "Cross of Tension",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-the-four-ways": {
+   "title": "Cross of the Four Ways",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-the-sleeping-phoenix": {
+   "title": "Cross of the Sleeping Phoenix",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-the-sphinx": {
+   "title": "Cross of the Sphinx",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-the-unexpected": {
+   "title": "Cross of the Unexpected",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/cross-of-the-vessel-of-love": {
+   "title": "Cross of the Vessel of Love",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/incarnation-cross-overview": {
+   "title": "Incarnation Cross Overview",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-consciousness-1": {
+   "title": "Juxtaposition Cross of Doubts",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-consciousness-2": {
+   "title": "Juxtaposition Cross of Experience",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-consciousness-3": {
+   "title": "Juxtaposition Cross of Confusion",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-consciousness-4": {
+   "title": "Juxtaposition Cross of Habits",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-contagion-1": {
+   "title": "Juxtaposition Cross of Contagion 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-contagion-2": {
+   "title": "Juxtaposition Cross of Contagion 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-contagion-3": {
+   "title": "Juxtaposition Cross of Contagion 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-contagion-4": {
+   "title": "Juxtaposition Cross of Contagion 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-eden-1": {
+   "title": "Juxtaposition Cross of Crisis",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-eden-2": {
+   "title": "Juxtaposition Cross of Articulation",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-eden-3": {
+   "title": "Juxtaposition Cross of Conflict",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-eden-4": {
+   "title": "Juxtaposition Cross of Ideas",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-explanation-1": {
+   "title": "Juxtaposition Cross of Explanation 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-explanation-2": {
+   "title": "Juxtaposition Cross of Explanation 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-explanation-3": {
+   "title": "Juxtaposition Cross of Explanation 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-explanation-4": {
+   "title": "Juxtaposition Cross of Explanation 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-laws-1": {
+   "title": "Juxtaposition Cross of Laws 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-laws-2": {
+   "title": "Juxtaposition Cross of Laws 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-laws-3": {
+   "title": "Juxtaposition Cross of Laws 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-laws-4": {
+   "title": "Juxtaposition Cross of Laws 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-maya-1": {
+   "title": "Juxtaposition Cross of Maya 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-maya-2": {
+   "title": "Juxtaposition Cross of Maya 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-maya-3": {
+   "title": "Juxtaposition Cross of Maya 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-maya-4": {
+   "title": "Juxtaposition Cross of Maya 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-penetration-1": {
+   "title": "Juxtaposition Cross of Penetration 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-penetration-2": {
+   "title": "Juxtaposition Cross of Penetration 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-penetration-3": {
+   "title": "Juxtaposition Cross of Penetration 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-penetration-4": {
+   "title": "Juxtaposition Cross of Penetration 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-planning-1": {
+   "title": "Juxtaposition Cross of Bargains",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-planning-2": {
+   "title": "Juxtaposition Cross of Experimentation",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-planning-3": {
+   "title": "Juxtaposition Cross of Denial",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-planning-4": {
+   "title": "Juxtaposition Cross of Focus",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-rulership-1": {
+   "title": "Juxtaposition Cross of Grace",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-rulership-2": {
+   "title": "Juxtaposition Cross of Possession",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-rulership-3": {
+   "title": "Juxtaposition Cross of Oppression",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-rulership-4": {
+   "title": "Juxtaposition Cross of the Trickster",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-service-1": {
+   "title": "Juxtaposition Cross of Service 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-service-2": {
+   "title": "Juxtaposition Cross of Service 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-service-3": {
+   "title": "Juxtaposition Cross of Service 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-service-4": {
+   "title": "Juxtaposition Cross of Service 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-tension-1": {
+   "title": "Juxtaposition Cross of Tension 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-tension-2": {
+   "title": "Juxtaposition Cross of Tension 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-tension-3": {
+   "title": "Juxtaposition Cross of Tension 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-tension-4": {
+   "title": "Juxtaposition Cross of Tension 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-four-ways-1": {
+   "title": "Juxtaposition Cross of the Four Ways 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-four-ways-2": {
+   "title": "Juxtaposition Cross of the Four Ways 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-four-ways-3": {
+   "title": "Juxtaposition Cross of the Four Ways 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-four-ways-4": {
+   "title": "Juxtaposition Cross of the Four Ways 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-1": {
+   "title": "Juxtaposition Cross of the Sleeping Phoenix 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-2": {
+   "title": "Juxtaposition Cross of the Sleeping Phoenix 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-3": {
+   "title": "Juxtaposition Cross of the Sleeping Phoenix 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-4": {
+   "title": "Juxtaposition Cross of the Sleeping Phoenix 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sphinx-1": {
+   "title": "Juxtaposition Cross of the Sphinx 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sphinx-2": {
+   "title": "Juxtaposition Cross of the Sphinx 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sphinx-3": {
+   "title": "Juxtaposition Cross of the Sphinx 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-sphinx-4": {
+   "title": "Juxtaposition Cross of the Sphinx 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-unexpected-1": {
+   "title": "Juxtaposition Cross of the Unexpected 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-unexpected-2": {
+   "title": "Juxtaposition Cross of the Unexpected 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-unexpected-3": {
+   "title": "Juxtaposition Cross of the Unexpected 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-unexpected-4": {
+   "title": "Juxtaposition Cross of the Unexpected 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-1": {
+   "title": "Juxtaposition Cross of the Vessel of Love 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-2": {
+   "title": "Juxtaposition Cross of the Vessel of Love 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-3": {
+   "title": "Juxtaposition Cross of the Vessel of Love 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-4": {
+   "title": "Juxtaposition Cross of the Vessel of Love 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-consciousness-1": {
+   "title": "Left Angle Cross of Dominion 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-consciousness-2": {
+   "title": "Left Angle Cross of Separation 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-consciousness-3": {
+   "title": "Left Angle Cross of Dominion 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-consciousness-4": {
+   "title": "Left Angle Cross of Separation 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-contagion-1": {
+   "title": "Left Angle Cross of Contagion 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-contagion-2": {
+   "title": "Left Angle Cross of Contagion 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-contagion-3": {
+   "title": "Left Angle Cross of Contagion 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-contagion-4": {
+   "title": "Left Angle Cross of Contagion 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-eden-1": {
+   "title": "Left Angle Cross of the Plane 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-eden-2": {
+   "title": "Left Angle Cross of Education 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-eden-3": {
+   "title": "Left Angle Cross of the Plane 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-eden-4": {
+   "title": "Left Angle Cross of Education 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-explanation-1": {
+   "title": "Left Angle Cross of Explanation 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-explanation-2": {
+   "title": "Left Angle Cross of Explanation 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-explanation-3": {
+   "title": "Left Angle Cross of Explanation 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-explanation-4": {
+   "title": "Left Angle Cross of Explanation 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-laws-1": {
+   "title": "Left Angle Cross of Laws 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-laws-2": {
+   "title": "Left Angle Cross of Laws 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-laws-3": {
+   "title": "Left Angle Cross of Laws 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-laws-4": {
+   "title": "Left Angle Cross of Laws 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-maya-1": {
+   "title": "Left Angle Cross of Maya 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-maya-2": {
+   "title": "Left Angle Cross of Maya 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-maya-3": {
+   "title": "Left Angle Cross of Maya 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-maya-4": {
+   "title": "Left Angle Cross of Maya 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-penetration-1": {
+   "title": "Left Angle Cross of Penetration 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-penetration-2": {
+   "title": "Left Angle Cross of Penetration 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-penetration-3": {
+   "title": "Left Angle Cross of Penetration 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-penetration-4": {
+   "title": "Left Angle Cross of Penetration 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-planning-1": {
+   "title": "Left Angle Cross of Migration 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-planning-2": {
+   "title": "Left Angle Cross of Identification 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-planning-3": {
+   "title": "Left Angle Cross of Migration 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-planning-4": {
+   "title": "Left Angle Cross of Identification 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-rulership-1": {
+   "title": "Left Angle Cross of Informing 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-rulership-2": {
+   "title": "Left Angle Cross of Confrontation 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-rulership-3": {
+   "title": "Left Angle Cross of Informing 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-rulership-4": {
+   "title": "Left Angle Cross of Confrontation 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-service-1": {
+   "title": "Left Angle Cross of Service 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-service-2": {
+   "title": "Left Angle Cross of Service 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-service-3": {
+   "title": "Left Angle Cross of Service 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-service-4": {
+   "title": "Left Angle Cross of Service 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-tension-1": {
+   "title": "Left Angle Cross of Tension 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-tension-2": {
+   "title": "Left Angle Cross of Tension 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-tension-3": {
+   "title": "Left Angle Cross of Tension 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-tension-4": {
+   "title": "Left Angle Cross of Tension 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-four-ways-1": {
+   "title": "Left Angle Cross of the Four Ways 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-four-ways-2": {
+   "title": "Left Angle Cross of the Four Ways 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-four-ways-3": {
+   "title": "Left Angle Cross of the Four Ways 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-four-ways-4": {
+   "title": "Left Angle Cross of the Four Ways 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-1": {
+   "title": "Left Angle Cross of the Sleeping Phoenix 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-2": {
+   "title": "Left Angle Cross of the Sleeping Phoenix 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-3": {
+   "title": "Left Angle Cross of the Sleeping Phoenix 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-4": {
+   "title": "Left Angle Cross of the Sleeping Phoenix 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sphinx-1": {
+   "title": "Left Angle Cross of the Sphinx 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sphinx-2": {
+   "title": "Left Angle Cross of the Sphinx 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sphinx-3": {
+   "title": "Left Angle Cross of the Sphinx 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-sphinx-4": {
+   "title": "Left Angle Cross of the Sphinx 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-unexpected-1": {
+   "title": "Left Angle Cross of the Unexpected 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-unexpected-2": {
+   "title": "Left Angle Cross of the Unexpected 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-unexpected-3": {
+   "title": "Left Angle Cross of the Unexpected 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-unexpected-4": {
+   "title": "Left Angle Cross of the Unexpected 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-1": {
+   "title": "Left Angle Cross of the Vessel of Love 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-2": {
+   "title": "Left Angle Cross of the Vessel of Love 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-3": {
+   "title": "Left Angle Cross of the Vessel of Love 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-4": {
+   "title": "Left Angle Cross of the Vessel of Love 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/quarters": {
+   "title": "Quarters",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-consciousness-1": {
+   "title": "Right Angle Cross of Consciousness 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-consciousness-2": {
+   "title": "Right Angle Cross of Consciousness 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-consciousness-3": {
+   "title": "Right Angle Cross of Consciousness 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-consciousness-4": {
+   "title": "Right Angle Cross of Consciousness 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-contagion-1": {
+   "title": "Right Angle Cross of Contagion 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-contagion-2": {
+   "title": "Right Angle Cross of Contagion 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-contagion-3": {
+   "title": "Right Angle Cross of Contagion 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-contagion-4": {
+   "title": "Right Angle Cross of Contagion 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-eden-1": {
+   "title": "Right Angle Cross of Eden 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-eden-2": {
+   "title": "Right Angle Cross of Eden 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-eden-3": {
+   "title": "Right Angle Cross of Eden 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-eden-4": {
+   "title": "Right Angle Cross of Eden 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-explanation-1": {
+   "title": "Right Angle Cross of Explanation 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-explanation-2": {
+   "title": "Right Angle Cross of Explanation 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-explanation-3": {
+   "title": "Right Angle Cross of Explanation 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-explanation-4": {
+   "title": "Right Angle Cross of Explanation 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-laws-1": {
+   "title": "Right Angle Cross of Laws 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-laws-2": {
+   "title": "Right Angle Cross of Laws 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-laws-3": {
+   "title": "Right Angle Cross of Laws 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-laws-4": {
+   "title": "Right Angle Cross of Laws 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-maya-1": {
+   "title": "Right Angle Cross of Maya 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-maya-2": {
+   "title": "Right Angle Cross of Maya 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-maya-3": {
+   "title": "Right Angle Cross of Maya 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-maya-4": {
+   "title": "Right Angle Cross of Maya 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-penetration-1": {
+   "title": "Right Angle Cross of Penetration 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-penetration-2": {
+   "title": "Right Angle Cross of Penetration 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-penetration-3": {
+   "title": "Right Angle Cross of Penetration 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-penetration-4": {
+   "title": "Right Angle Cross of Penetration 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-planning-1": {
+   "title": "Right Angle Cross of Planning 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-planning-2": {
+   "title": "Right Angle Cross of Planning 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-planning-3": {
+   "title": "Right Angle Cross of Planning 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-planning-4": {
+   "title": "Right Angle Cross of Planning 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-rulership-1": {
+   "title": "Right Angle Cross of Rulership 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-rulership-2": {
+   "title": "Right Angle Cross of Rulership 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-rulership-3": {
+   "title": "Right Angle Cross of Rulership 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-rulership-4": {
+   "title": "Right Angle Cross of Rulership 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-service-1": {
+   "title": "Right Angle Cross of Service 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-service-2": {
+   "title": "Right Angle Cross of Service 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-service-3": {
+   "title": "Right Angle Cross of Service 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-service-4": {
+   "title": "Right Angle Cross of Service 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-tension-1": {
+   "title": "Right Angle Cross of Tension 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-tension-2": {
+   "title": "Right Angle Cross of Tension 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-tension-3": {
+   "title": "Right Angle Cross of Tension 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-tension-4": {
+   "title": "Right Angle Cross of Tension 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-four-ways-1": {
+   "title": "Right Angle Cross of the Four Ways 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-four-ways-2": {
+   "title": "Right Angle Cross of the Four Ways 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-four-ways-3": {
+   "title": "Right Angle Cross of the Four Ways 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-four-ways-4": {
+   "title": "Right Angle Cross of the Four Ways 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-1": {
+   "title": "Right Angle Cross of the Sleeping Phoenix 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-2": {
+   "title": "Right Angle Cross of the Sleeping Phoenix 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-3": {
+   "title": "Right Angle Cross of the Sleeping Phoenix 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-4": {
+   "title": "Right Angle Cross of the Sleeping Phoenix 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sphinx-1": {
+   "title": "Right Angle Cross of the Sphinx 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sphinx-2": {
+   "title": "Right Angle Cross of the Sphinx 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sphinx-3": {
+   "title": "Right Angle Cross of the Sphinx 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-sphinx-4": {
+   "title": "Right Angle Cross of the Sphinx 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-unexpected-1": {
+   "title": "Right Angle Cross of the Unexpected 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-unexpected-2": {
+   "title": "Right Angle Cross of the Unexpected 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-unexpected-3": {
+   "title": "Right Angle Cross of the Unexpected 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-unexpected-4": {
+   "title": "Right Angle Cross of the Unexpected 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-1": {
+   "title": "Right Angle Cross of the Vessel of Love 1",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-2": {
+   "title": "Right Angle Cross of the Vessel of Love 2",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-3": {
+   "title": "Right Angle Cross of the Vessel of Love 3",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-4": {
+   "title": "Right Angle Cross of the Vessel of Love 4",
+   "section": "Incarnation Cross"
+  },
+  "incarnation-crosses": {
+   "title": "Incarnation Cross",
+   "section": "Incarnation Cross"
+  },
+  "inner-authority/authority-hierarchy": {
+   "title": "The Authority Hierarchy",
+   "section": "Inner Authority"
+  },
+  "inner-authority/ego-authority": {
+   "title": "Ego Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority/emotional-authority": {
+   "title": "Emotional Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority/inner-authority-overview": {
+   "title": "Inner Authority Overview",
+   "section": "Inner Authority"
+  },
+  "inner-authority/lunar-authority": {
+   "title": "Lunar Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority/making-decisions": {
+   "title": "Making Decisions in Practice",
+   "section": "Inner Authority"
+  },
+  "inner-authority/mental-authority": {
+   "title": "Mental Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority/minor-authorities": {
+   "title": "Minor Authorities",
+   "section": "Inner Authority"
+  },
+  "inner-authority/no-direct-inner-authority": {
+   "title": "No Direct Inner Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority/sacral-authority": {
+   "title": "Sacral Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority/self-projected-authority": {
+   "title": "Self-Projected Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority/splenic-authority": {
+   "title": "Splenic Authority",
+   "section": "Inner Authority"
+  },
+  "inner-authority": {
+   "title": "Inner Authority",
+   "section": "Inner Authority"
+  },
+  "profiles/angles-overview": {
+   "title": "Angles Overview",
+   "section": "Profiles & Lines"
+  },
+  "profiles/line-1": {
+   "title": "Line 1 — The Investigator",
+   "section": "Profiles & Lines"
+  },
+  "profiles/line-2": {
+   "title": "Line 2 — The Hermit",
+   "section": "Profiles & Lines"
+  },
+  "profiles/line-3": {
+   "title": "Line 3 — The Martyr",
+   "section": "Profiles & Lines"
+  },
+  "profiles/line-4": {
+   "title": "Line 4 — The Opportunist",
+   "section": "Profiles & Lines"
+  },
+  "profiles/line-5": {
+   "title": "Line 5 — The Heretic",
+   "section": "Profiles & Lines"
+  },
+  "profiles/line-6": {
+   "title": "Line 6 — The Role Model",
+   "section": "Profiles & Lines"
+  },
+  "profiles/lines-overview": {
+   "title": "Lines Overview",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-1-3": {
+   "title": "Profile 1/3 - Investigator/Martyr",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-1-4": {
+   "title": "Profile 1/4 - Investigator/Opportunist",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-2-4": {
+   "title": "Profile 2/4 - Hermit/Opportunist",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-2-5": {
+   "title": "Profile 2/5 - Hermit/Heretic",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-3-5": {
+   "title": "Profile 3/5 - Martyr/Heretic",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-3-6": {
+   "title": "Profile 3/6 - Martyr/Role Model",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-4-1": {
+   "title": "Profile 4/1 - Opportunist/Investigator",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-4-6": {
+   "title": "Profile 4/6 - Opportunist/Role Model",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-5-1": {
+   "title": "Profile 5/1 - Heretic/Investigator",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-5-2": {
+   "title": "Profile 5/2 - Heretic/Hermit",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-6-2": {
+   "title": "Profile 6/2 - Role Model/Hermit",
+   "section": "Profiles & Lines"
+  },
+  "profiles/profile-6-3": {
+   "title": "Profile 6/3 - Role Model/Martyr",
+   "section": "Profiles & Lines"
+  },
+  "profiles": {
+   "title": "Profiles & Lines",
+   "section": "Profiles & Lines"
+  },
+  "strategy/inform": {
+   "title": "Inform",
+   "section": "Strategy"
+  },
+  "strategy/mind-vs-body": {
+   "title": "Mind vs Body Decision-Making",
+   "section": "Strategy"
+  },
+  "strategy/respond": {
+   "title": "Respond",
+   "section": "Strategy"
+  },
+  "strategy/strategy-and-signature": {
+   "title": "Strategy and Signature",
+   "section": "Strategy"
+  },
+  "strategy/strategy-overview": {
+   "title": "Strategy Overview",
+   "section": "Strategy"
+  },
+  "strategy/wait-for-invitation": {
+   "title": "Wait for the Invitation",
+   "section": "Strategy"
+  },
+  "strategy/wait-lunar-cycle": {
+   "title": "Wait the Lunar Cycle",
+   "section": "Strategy"
+  },
+  "strategy": {
+   "title": "Strategy",
+   "section": "Strategy"
+  },
+  "types/generator": {
+   "title": "Generator",
+   "section": "Energy Types"
+  },
+  "types/manifesting-generator": {
+   "title": "Manifesting Generator",
+   "section": "Energy Types"
+  },
+  "types/manifestor": {
+   "title": "Manifestor",
+   "section": "Energy Types"
+  },
+  "types/projector": {
+   "title": "Projector",
+   "section": "Energy Types"
+  },
+  "types/reflector": {
+   "title": "Reflector",
+   "section": "Energy Types"
+  },
+  "types": {
+   "title": "Energy Types",
+   "section": "Energy Types"
+  },
+  "variables/definition-types": {
+   "title": "Definition Types",
+   "section": "Variables & PHS"
+  },
+  "variables/phs-diet": {
+   "title": "PHS Diet (Primary Health System)",
+   "section": "Variables & PHS"
+  },
+  "variables/variables-overview": {
+   "title": "Variables Overview",
+   "section": "Variables & PHS"
+  },
+  "variables": {
+   "title": "Variables & PHS",
+   "section": "Variables & PHS"
+  }
+ },
+ "wikilinkMap": {
+  "ajna center": "centers/ajna-center",
+  "g center": "centers/g-center",
+  "head center": "centers/head-center",
+  "heart center": "centers/heart-center",
+  "nine centers": "centers/nine-centers",
+  "root center": "centers/root-center",
+  "sacral center": "centers/sacral-center",
+  "solar plexus center": "centers/solar-plexus-center",
+  "splenic center": "centers/splenic-center",
+  "throat center": "centers/throat-center",
+  "centers": "centers",
+  "channel 1/8 — the channel of inspiration": "channels/1-8",
+  "channel 10/20 — the channel of awakening": "channels/10-20",
+  "channel 10/34 — the channel of exploration": "channels/10-34",
+  "channel 10/57 — the channel of perfected form": "channels/10-57",
+  "channel 11/56 — the channel of curiosity": "channels/11-56",
+  "channel 12/22 — the channel of openness": "channels/12-22",
+  "channel 13/33 — the channel of the prodigal / the witness": "channels/13-33",
+  "channel 16/48 — the channel of the wavelength (talent)": "channels/16-48",
+  "channel 17/62 — the channel of acceptance / organization": "channels/17-62",
+  "channel 18/58 — the channel of judgment": "channels/18-58",
+  "channel 19/49 — the channel of synthesis": "channels/19-49",
+  "channel 2/14 — the channel of the beat": "channels/2-14",
+  "channel 20/34 — the channel of charisma": "channels/20-34",
+  "channel 20/57 — the channel of the brainwave": "channels/20-57",
+  "channel 21/45 — the channel of money (the materialist)": "channels/21-45",
+  "channel 23/43 — the channel of structuring": "channels/23-43",
+  "channel 24/61 — the channel of awareness": "channels/24-61",
+  "channel 25/51 — the channel of initiation": "channels/25-51",
+  "channel 26/44 — the channel of surrender": "channels/26-44",
+  "channel 27/50 — the channel of preservation": "channels/27-50",
+  "channel 28/38 — the channel of struggle": "channels/28-38",
+  "channel 29/46 — the channel of discovery / determination": "channels/29-46",
+  "channel 3/60 — the channel of mutation": "channels/3-60",
+  "channel 30/41 — the channel of recognition": "channels/30-41",
+  "channel 32/54 — the channel of transformation": "channels/32-54",
+  "channel 34/57 — the channel of power": "channels/34-57",
+  "channel 35/36 — the channel of transitoriness": "channels/35-36",
+  "channel 37/40 — the channel of community": "channels/37-40",
+  "channel 39/55 — the channel of emoting": "channels/39-55",
+  "channel 4/63 — the channel of logic": "channels/4-63",
+  "channel 42/53 — the channel of maturation": "channels/42-53",
+  "channel 47/64 — the channel of abstraction": "channels/47-64",
+  "channel 5/15 — the channel of rhythm": "channels/5-15",
+  "channel 6/59 — the channel of mating (intimacy)": "channels/6-59",
+  "channel 7/31 — the channel of the alpha / leadership": "channels/7-31",
+  "channel 9/52 — the channel of concentration": "channels/9-52",
+  "channels overview": "channels/channels-overview",
+  "channels (36)": "channels",
+  "collective circuit": "circuits/collective",
+  "ego circuit": "circuits/ego",
+  "individual circuit": "circuits/individual",
+  "integration circuit": "circuits/integration",
+  "tribal circuit": "circuits/tribal",
+  "circuits": "circuits",
+  "conditioning": "concepts/conditioning",
+  "deconditioning": "concepts/deconditioning",
+  "human design system": "concepts/human-design-system",
+  "not-self": "concepts/not-self",
+  "signature": "concepts/signature",
+  "core concepts": "concepts",
+  "gate 1 — the creative (self-expression)": "gates/gate-1",
+  "gate 10 — behavior of the self (treading)": "gates/gate-10",
+  "gate 11 — ideas (peace)": "gates/gate-11",
+  "gate 12 — caution (standstill)": "gates/gate-12",
+  "gate 13 — the listener (the fellowship of man)": "gates/gate-13",
+  "gate 14 — power skills (possession in great measure)": "gates/gate-14",
+  "gate 15 — extremes (modesty)": "gates/gate-15",
+  "gate 16 — skills (enthusiasm)": "gates/gate-16",
+  "gate 17 — following / the gate of opinion": "gates/gate-17",
+  "gate 18 — work on what has been spoiled / the gate of correction": "gates/gate-18",
+  "gate 19 — approach / the gate of wanting": "gates/gate-19",
+  "gate 2 — the receptive (higher knowing / the driver)": "gates/gate-2",
+  "gate 20 — contemplation / the gate of the now": "gates/gate-20",
+  "gate 21 — biting through / the gate of the hunter/huntress": "gates/gate-21",
+  "gate 22 — grace / the gate of openness": "gates/gate-22",
+  "gate 23 — splitting apart / the gate of assimilation": "gates/gate-23",
+  "gate 24 — the return / the gate of rationalization": "gates/gate-24",
+  "gate 25 — innocence (the spirit of the self)": "gates/gate-25",
+  "gate 26 — the taming power of the great (the egoist)": "gates/gate-26",
+  "gate 27 — nourishment (caring)": "gates/gate-27",
+  "gate 28 — preponderance of the great (the game player)": "gates/gate-28",
+  "gate 29 — the abysmal (perseverance, the yes)": "gates/gate-29",
+  "gate 3 — difficulty at the beginning (ordering / innovation / mutation)": "gates/gate-3",
+  "gate 30 — the clinging fire (feelings, desire)": "gates/gate-30",
+  "gate 31 — influence (leading, the alpha)": "gates/gate-31",
+  "gate 32 — continuity (duration, the conservator)": "gates/gate-32",
+  "gate 33 — retreat": "gates/gate-33",
+  "gate 34 — the power of the great": "gates/gate-34",
+  "gate 35 — progress": "gates/gate-35",
+  "gate 36 — darkening of the light": "gates/gate-36",
+  "gate 37 — the family": "gates/gate-37",
+  "gate 38 — opposition": "gates/gate-38",
+  "gate 39 — provocation": "gates/gate-39",
+  "gate 4 — youthful folly (formulization / possibility)": "gates/gate-4",
+  "gate 40 — deliverance": "gates/gate-40",
+  "gate 41 — decrease / contraction": "gates/gate-41",
+  "gate 42 — increase / growth": "gates/gate-42",
+  "gate 43 — insight / breakthrough": "gates/gate-43",
+  "gate 44 — alertness / coming to meet": "gates/gate-44",
+  "gate 45 — the gatherer / gathering together": "gates/gate-45",
+  "gate 46 — determination of the self / pushing upward": "gates/gate-46",
+  "gate 47 — realization / oppression": "gates/gate-47",
+  "gate 48 — depth / the well": "gates/gate-48",
+  "gate 49 — revolution / the gate of principles": "gates/gate-49",
+  "gate 5 — waiting (fixed patterns / rhythm)": "gates/gate-5",
+  "gate 50 — the cauldron / the gate of values": "gates/gate-50",
+  "gate 51 — the arousing / the gate of shock": "gates/gate-51",
+  "gate 52 — keeping still / the gate of stillness": "gates/gate-52",
+  "gate 53 — development / the gate of beginnings": "gates/gate-53",
+  "gate 54 — the marrying maiden / the gate of ambition": "gates/gate-54",
+  "gate 55 — abundance / the gate of spirit": "gates/gate-55",
+  "gate 56 — the wanderer / the gate of stimulation": "gates/gate-56",
+  "gate 57 — the gentle / the gate of intuitive clarity": "gates/gate-57",
+  "gate 58 — the joyous / the gate of vitality": "gates/gate-58",
+  "gate 59 — dispersion / the gate of intimacy": "gates/gate-59",
+  "gate 6 — conflict (friction / intimacy / impact)": "gates/gate-6",
+  "gate 60 — limitation / the gate of acceptance": "gates/gate-60",
+  "gate 61 — inner truth / the gate of mystery": "gates/gate-61",
+  "gate 62 — preponderance of the small / the gate of detail": "gates/gate-62",
+  "gate 63 — after completion / the gate of doubt": "gates/gate-63",
+  "gate 64 — before completion / the gate of confusion": "gates/gate-64",
+  "gate 7 — the army (the role of the self / collaboration)": "gates/gate-7",
+  "gate 8 — holding together (contribution / fulfillment)": "gates/gate-8",
+  "gate 9 — focus (the taming power of the small)": "gates/gate-9",
+  "gate reference": "gates/gate-reference",
+  "gates overview": "gates/gates-overview",
+  "gates (64)": "gates",
+  "cross of consciousness": "incarnation-crosses/cross-of-consciousness",
+  "cross of contagion": "incarnation-crosses/cross-of-contagion",
+  "cross of eden": "incarnation-crosses/cross-of-eden",
+  "cross of explanation": "incarnation-crosses/cross-of-explanation",
+  "cross of laws": "incarnation-crosses/cross-of-laws",
+  "cross of maya": "incarnation-crosses/cross-of-maya",
+  "cross of penetration": "incarnation-crosses/cross-of-penetration",
+  "cross of planning": "incarnation-crosses/cross-of-planning",
+  "cross of rulership": "incarnation-crosses/cross-of-rulership",
+  "cross of service": "incarnation-crosses/cross-of-service",
+  "cross of tension": "incarnation-crosses/cross-of-tension",
+  "cross of the four ways": "incarnation-crosses/cross-of-the-four-ways",
+  "cross of the sleeping phoenix": "incarnation-crosses/cross-of-the-sleeping-phoenix",
+  "cross of the sphinx": "incarnation-crosses/cross-of-the-sphinx",
+  "cross of the unexpected": "incarnation-crosses/cross-of-the-unexpected",
+  "cross of the vessel of love": "incarnation-crosses/cross-of-the-vessel-of-love",
+  "incarnation cross overview": "incarnation-crosses/incarnation-cross-overview",
+  "juxtaposition cross of doubts": "incarnation-crosses/juxtaposition-cross-of-consciousness-1",
+  "juxtaposition cross of experience": "incarnation-crosses/juxtaposition-cross-of-consciousness-2",
+  "juxtaposition cross of confusion": "incarnation-crosses/juxtaposition-cross-of-consciousness-3",
+  "juxtaposition cross of habits": "incarnation-crosses/juxtaposition-cross-of-consciousness-4",
+  "juxtaposition cross of contagion 1": "incarnation-crosses/juxtaposition-cross-of-contagion-1",
+  "juxtaposition cross of contagion 2": "incarnation-crosses/juxtaposition-cross-of-contagion-2",
+  "juxtaposition cross of contagion 3": "incarnation-crosses/juxtaposition-cross-of-contagion-3",
+  "juxtaposition cross of contagion 4": "incarnation-crosses/juxtaposition-cross-of-contagion-4",
+  "juxtaposition cross of crisis": "incarnation-crosses/juxtaposition-cross-of-eden-1",
+  "juxtaposition cross of articulation": "incarnation-crosses/juxtaposition-cross-of-eden-2",
+  "juxtaposition cross of conflict": "incarnation-crosses/juxtaposition-cross-of-eden-3",
+  "juxtaposition cross of ideas": "incarnation-crosses/juxtaposition-cross-of-eden-4",
+  "juxtaposition cross of explanation 1": "incarnation-crosses/juxtaposition-cross-of-explanation-1",
+  "juxtaposition cross of explanation 2": "incarnation-crosses/juxtaposition-cross-of-explanation-2",
+  "juxtaposition cross of explanation 3": "incarnation-crosses/juxtaposition-cross-of-explanation-3",
+  "juxtaposition cross of explanation 4": "incarnation-crosses/juxtaposition-cross-of-explanation-4",
+  "juxtaposition cross of laws 1": "incarnation-crosses/juxtaposition-cross-of-laws-1",
+  "juxtaposition cross of laws 2": "incarnation-crosses/juxtaposition-cross-of-laws-2",
+  "juxtaposition cross of laws 3": "incarnation-crosses/juxtaposition-cross-of-laws-3",
+  "juxtaposition cross of laws 4": "incarnation-crosses/juxtaposition-cross-of-laws-4",
+  "juxtaposition cross of maya 1": "incarnation-crosses/juxtaposition-cross-of-maya-1",
+  "juxtaposition cross of maya 2": "incarnation-crosses/juxtaposition-cross-of-maya-2",
+  "juxtaposition cross of maya 3": "incarnation-crosses/juxtaposition-cross-of-maya-3",
+  "juxtaposition cross of maya 4": "incarnation-crosses/juxtaposition-cross-of-maya-4",
+  "juxtaposition cross of penetration 1": "incarnation-crosses/juxtaposition-cross-of-penetration-1",
+  "juxtaposition cross of penetration 2": "incarnation-crosses/juxtaposition-cross-of-penetration-2",
+  "juxtaposition cross of penetration 3": "incarnation-crosses/juxtaposition-cross-of-penetration-3",
+  "juxtaposition cross of penetration 4": "incarnation-crosses/juxtaposition-cross-of-penetration-4",
+  "juxtaposition cross of bargains": "incarnation-crosses/juxtaposition-cross-of-planning-1",
+  "juxtaposition cross of experimentation": "incarnation-crosses/juxtaposition-cross-of-planning-2",
+  "juxtaposition cross of denial": "incarnation-crosses/juxtaposition-cross-of-planning-3",
+  "juxtaposition cross of focus": "incarnation-crosses/juxtaposition-cross-of-planning-4",
+  "juxtaposition cross of grace": "incarnation-crosses/juxtaposition-cross-of-rulership-1",
+  "juxtaposition cross of possession": "incarnation-crosses/juxtaposition-cross-of-rulership-2",
+  "juxtaposition cross of oppression": "incarnation-crosses/juxtaposition-cross-of-rulership-3",
+  "juxtaposition cross of the trickster": "incarnation-crosses/juxtaposition-cross-of-rulership-4",
+  "juxtaposition cross of service 1": "incarnation-crosses/juxtaposition-cross-of-service-1",
+  "juxtaposition cross of service 2": "incarnation-crosses/juxtaposition-cross-of-service-2",
+  "juxtaposition cross of service 3": "incarnation-crosses/juxtaposition-cross-of-service-3",
+  "juxtaposition cross of service 4": "incarnation-crosses/juxtaposition-cross-of-service-4",
+  "juxtaposition cross of tension 1": "incarnation-crosses/juxtaposition-cross-of-tension-1",
+  "juxtaposition cross of tension 2": "incarnation-crosses/juxtaposition-cross-of-tension-2",
+  "juxtaposition cross of tension 3": "incarnation-crosses/juxtaposition-cross-of-tension-3",
+  "juxtaposition cross of tension 4": "incarnation-crosses/juxtaposition-cross-of-tension-4",
+  "juxtaposition cross of the four ways 1": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-1",
+  "juxtaposition cross of the four ways 2": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-2",
+  "juxtaposition cross of the four ways 3": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-3",
+  "juxtaposition cross of the four ways 4": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-4",
+  "juxtaposition cross of the sleeping phoenix 1": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-1",
+  "juxtaposition cross of the sleeping phoenix 2": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-2",
+  "juxtaposition cross of the sleeping phoenix 3": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-3",
+  "juxtaposition cross of the sleeping phoenix 4": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-4",
+  "juxtaposition cross of the sphinx 1": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-1",
+  "juxtaposition cross of the sphinx 2": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-2",
+  "juxtaposition cross of the sphinx 3": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-3",
+  "juxtaposition cross of the sphinx 4": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-4",
+  "juxtaposition cross of the unexpected 1": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-1",
+  "juxtaposition cross of the unexpected 2": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-2",
+  "juxtaposition cross of the unexpected 3": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-3",
+  "juxtaposition cross of the unexpected 4": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-4",
+  "juxtaposition cross of the vessel of love 1": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-1",
+  "juxtaposition cross of the vessel of love 2": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-2",
+  "juxtaposition cross of the vessel of love 3": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-3",
+  "juxtaposition cross of the vessel of love 4": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-4",
+  "left angle cross of dominion 1": "incarnation-crosses/left-angle-cross-of-consciousness-1",
+  "left angle cross of separation 1": "incarnation-crosses/left-angle-cross-of-consciousness-2",
+  "left angle cross of dominion 2": "incarnation-crosses/left-angle-cross-of-consciousness-3",
+  "left angle cross of separation 2": "incarnation-crosses/left-angle-cross-of-consciousness-4",
+  "left angle cross of contagion 1": "incarnation-crosses/left-angle-cross-of-contagion-1",
+  "left angle cross of contagion 2": "incarnation-crosses/left-angle-cross-of-contagion-2",
+  "left angle cross of contagion 3": "incarnation-crosses/left-angle-cross-of-contagion-3",
+  "left angle cross of contagion 4": "incarnation-crosses/left-angle-cross-of-contagion-4",
+  "left angle cross of the plane 1": "incarnation-crosses/left-angle-cross-of-eden-1",
+  "left angle cross of education 1": "incarnation-crosses/left-angle-cross-of-eden-2",
+  "left angle cross of the plane 2": "incarnation-crosses/left-angle-cross-of-eden-3",
+  "left angle cross of education 2": "incarnation-crosses/left-angle-cross-of-eden-4",
+  "left angle cross of explanation 1": "incarnation-crosses/left-angle-cross-of-explanation-1",
+  "left angle cross of explanation 2": "incarnation-crosses/left-angle-cross-of-explanation-2",
+  "left angle cross of explanation 3": "incarnation-crosses/left-angle-cross-of-explanation-3",
+  "left angle cross of explanation 4": "incarnation-crosses/left-angle-cross-of-explanation-4",
+  "left angle cross of laws 1": "incarnation-crosses/left-angle-cross-of-laws-1",
+  "left angle cross of laws 2": "incarnation-crosses/left-angle-cross-of-laws-2",
+  "left angle cross of laws 3": "incarnation-crosses/left-angle-cross-of-laws-3",
+  "left angle cross of laws 4": "incarnation-crosses/left-angle-cross-of-laws-4",
+  "left angle cross of maya 1": "incarnation-crosses/left-angle-cross-of-maya-1",
+  "left angle cross of maya 2": "incarnation-crosses/left-angle-cross-of-maya-2",
+  "left angle cross of maya 3": "incarnation-crosses/left-angle-cross-of-maya-3",
+  "left angle cross of maya 4": "incarnation-crosses/left-angle-cross-of-maya-4",
+  "left angle cross of penetration 1": "incarnation-crosses/left-angle-cross-of-penetration-1",
+  "left angle cross of penetration 2": "incarnation-crosses/left-angle-cross-of-penetration-2",
+  "left angle cross of penetration 3": "incarnation-crosses/left-angle-cross-of-penetration-3",
+  "left angle cross of penetration 4": "incarnation-crosses/left-angle-cross-of-penetration-4",
+  "left angle cross of migration 1": "incarnation-crosses/left-angle-cross-of-planning-1",
+  "left angle cross of identification 1": "incarnation-crosses/left-angle-cross-of-planning-2",
+  "left angle cross of migration 2": "incarnation-crosses/left-angle-cross-of-planning-3",
+  "left angle cross of identification 2": "incarnation-crosses/left-angle-cross-of-planning-4",
+  "left angle cross of informing 1": "incarnation-crosses/left-angle-cross-of-rulership-1",
+  "left angle cross of confrontation 1": "incarnation-crosses/left-angle-cross-of-rulership-2",
+  "left angle cross of informing 2": "incarnation-crosses/left-angle-cross-of-rulership-3",
+  "left angle cross of confrontation 2": "incarnation-crosses/left-angle-cross-of-rulership-4",
+  "left angle cross of service 1": "incarnation-crosses/left-angle-cross-of-service-1",
+  "left angle cross of service 2": "incarnation-crosses/left-angle-cross-of-service-2",
+  "left angle cross of service 3": "incarnation-crosses/left-angle-cross-of-service-3",
+  "left angle cross of service 4": "incarnation-crosses/left-angle-cross-of-service-4",
+  "left angle cross of tension 1": "incarnation-crosses/left-angle-cross-of-tension-1",
+  "left angle cross of tension 2": "incarnation-crosses/left-angle-cross-of-tension-2",
+  "left angle cross of tension 3": "incarnation-crosses/left-angle-cross-of-tension-3",
+  "left angle cross of tension 4": "incarnation-crosses/left-angle-cross-of-tension-4",
+  "left angle cross of the four ways 1": "incarnation-crosses/left-angle-cross-of-the-four-ways-1",
+  "left angle cross of the four ways 2": "incarnation-crosses/left-angle-cross-of-the-four-ways-2",
+  "left angle cross of the four ways 3": "incarnation-crosses/left-angle-cross-of-the-four-ways-3",
+  "left angle cross of the four ways 4": "incarnation-crosses/left-angle-cross-of-the-four-ways-4",
+  "left angle cross of the sleeping phoenix 1": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-1",
+  "left angle cross of the sleeping phoenix 2": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-2",
+  "left angle cross of the sleeping phoenix 3": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-3",
+  "left angle cross of the sleeping phoenix 4": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-4",
+  "left angle cross of the sphinx 1": "incarnation-crosses/left-angle-cross-of-the-sphinx-1",
+  "left angle cross of the sphinx 2": "incarnation-crosses/left-angle-cross-of-the-sphinx-2",
+  "left angle cross of the sphinx 3": "incarnation-crosses/left-angle-cross-of-the-sphinx-3",
+  "left angle cross of the sphinx 4": "incarnation-crosses/left-angle-cross-of-the-sphinx-4",
+  "left angle cross of the unexpected 1": "incarnation-crosses/left-angle-cross-of-the-unexpected-1",
+  "left angle cross of the unexpected 2": "incarnation-crosses/left-angle-cross-of-the-unexpected-2",
+  "left angle cross of the unexpected 3": "incarnation-crosses/left-angle-cross-of-the-unexpected-3",
+  "left angle cross of the unexpected 4": "incarnation-crosses/left-angle-cross-of-the-unexpected-4",
+  "left angle cross of the vessel of love 1": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-1",
+  "left angle cross of the vessel of love 2": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-2",
+  "left angle cross of the vessel of love 3": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-3",
+  "left angle cross of the vessel of love 4": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-4",
+  "quarters": "incarnation-crosses/quarters",
+  "right angle cross of consciousness 1": "incarnation-crosses/right-angle-cross-of-consciousness-1",
+  "right angle cross of consciousness 2": "incarnation-crosses/right-angle-cross-of-consciousness-2",
+  "right angle cross of consciousness 3": "incarnation-crosses/right-angle-cross-of-consciousness-3",
+  "right angle cross of consciousness 4": "incarnation-crosses/right-angle-cross-of-consciousness-4",
+  "right angle cross of contagion 1": "incarnation-crosses/right-angle-cross-of-contagion-1",
+  "right angle cross of contagion 2": "incarnation-crosses/right-angle-cross-of-contagion-2",
+  "right angle cross of contagion 3": "incarnation-crosses/right-angle-cross-of-contagion-3",
+  "right angle cross of contagion 4": "incarnation-crosses/right-angle-cross-of-contagion-4",
+  "right angle cross of eden 1": "incarnation-crosses/right-angle-cross-of-eden-1",
+  "right angle cross of eden 2": "incarnation-crosses/right-angle-cross-of-eden-2",
+  "right angle cross of eden 3": "incarnation-crosses/right-angle-cross-of-eden-3",
+  "right angle cross of eden 4": "incarnation-crosses/right-angle-cross-of-eden-4",
+  "right angle cross of explanation 1": "incarnation-crosses/right-angle-cross-of-explanation-1",
+  "right angle cross of explanation 2": "incarnation-crosses/right-angle-cross-of-explanation-2",
+  "right angle cross of explanation 3": "incarnation-crosses/right-angle-cross-of-explanation-3",
+  "right angle cross of explanation 4": "incarnation-crosses/right-angle-cross-of-explanation-4",
+  "right angle cross of laws 1": "incarnation-crosses/right-angle-cross-of-laws-1",
+  "right angle cross of laws 2": "incarnation-crosses/right-angle-cross-of-laws-2",
+  "right angle cross of laws 3": "incarnation-crosses/right-angle-cross-of-laws-3",
+  "right angle cross of laws 4": "incarnation-crosses/right-angle-cross-of-laws-4",
+  "right angle cross of maya 1": "incarnation-crosses/right-angle-cross-of-maya-1",
+  "right angle cross of maya 2": "incarnation-crosses/right-angle-cross-of-maya-2",
+  "right angle cross of maya 3": "incarnation-crosses/right-angle-cross-of-maya-3",
+  "right angle cross of maya 4": "incarnation-crosses/right-angle-cross-of-maya-4",
+  "right angle cross of penetration 1": "incarnation-crosses/right-angle-cross-of-penetration-1",
+  "right angle cross of penetration 2": "incarnation-crosses/right-angle-cross-of-penetration-2",
+  "right angle cross of penetration 3": "incarnation-crosses/right-angle-cross-of-penetration-3",
+  "right angle cross of penetration 4": "incarnation-crosses/right-angle-cross-of-penetration-4",
+  "right angle cross of planning 1": "incarnation-crosses/right-angle-cross-of-planning-1",
+  "right angle cross of planning 2": "incarnation-crosses/right-angle-cross-of-planning-2",
+  "right angle cross of planning 3": "incarnation-crosses/right-angle-cross-of-planning-3",
+  "right angle cross of planning 4": "incarnation-crosses/right-angle-cross-of-planning-4",
+  "right angle cross of rulership 1": "incarnation-crosses/right-angle-cross-of-rulership-1",
+  "right angle cross of rulership 2": "incarnation-crosses/right-angle-cross-of-rulership-2",
+  "right angle cross of rulership 3": "incarnation-crosses/right-angle-cross-of-rulership-3",
+  "right angle cross of rulership 4": "incarnation-crosses/right-angle-cross-of-rulership-4",
+  "right angle cross of service 1": "incarnation-crosses/right-angle-cross-of-service-1",
+  "right angle cross of service 2": "incarnation-crosses/right-angle-cross-of-service-2",
+  "right angle cross of service 3": "incarnation-crosses/right-angle-cross-of-service-3",
+  "right angle cross of service 4": "incarnation-crosses/right-angle-cross-of-service-4",
+  "right angle cross of tension 1": "incarnation-crosses/right-angle-cross-of-tension-1",
+  "right angle cross of tension 2": "incarnation-crosses/right-angle-cross-of-tension-2",
+  "right angle cross of tension 3": "incarnation-crosses/right-angle-cross-of-tension-3",
+  "right angle cross of tension 4": "incarnation-crosses/right-angle-cross-of-tension-4",
+  "right angle cross of the four ways 1": "incarnation-crosses/right-angle-cross-of-the-four-ways-1",
+  "right angle cross of the four ways 2": "incarnation-crosses/right-angle-cross-of-the-four-ways-2",
+  "right angle cross of the four ways 3": "incarnation-crosses/right-angle-cross-of-the-four-ways-3",
+  "right angle cross of the four ways 4": "incarnation-crosses/right-angle-cross-of-the-four-ways-4",
+  "right angle cross of the sleeping phoenix 1": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-1",
+  "right angle cross of the sleeping phoenix 2": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-2",
+  "right angle cross of the sleeping phoenix 3": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-3",
+  "right angle cross of the sleeping phoenix 4": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-4",
+  "right angle cross of the sphinx 1": "incarnation-crosses/right-angle-cross-of-the-sphinx-1",
+  "right angle cross of the sphinx 2": "incarnation-crosses/right-angle-cross-of-the-sphinx-2",
+  "right angle cross of the sphinx 3": "incarnation-crosses/right-angle-cross-of-the-sphinx-3",
+  "right angle cross of the sphinx 4": "incarnation-crosses/right-angle-cross-of-the-sphinx-4",
+  "right angle cross of the unexpected 1": "incarnation-crosses/right-angle-cross-of-the-unexpected-1",
+  "right angle cross of the unexpected 2": "incarnation-crosses/right-angle-cross-of-the-unexpected-2",
+  "right angle cross of the unexpected 3": "incarnation-crosses/right-angle-cross-of-the-unexpected-3",
+  "right angle cross of the unexpected 4": "incarnation-crosses/right-angle-cross-of-the-unexpected-4",
+  "right angle cross of the vessel of love 1": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-1",
+  "right angle cross of the vessel of love 2": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-2",
+  "right angle cross of the vessel of love 3": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-3",
+  "right angle cross of the vessel of love 4": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-4",
+  "incarnation cross": "incarnation-crosses",
+  "the authority hierarchy": "inner-authority/authority-hierarchy",
+  "ego authority": "inner-authority/ego-authority",
+  "emotional authority": "inner-authority/emotional-authority",
+  "inner authority overview": "inner-authority/inner-authority-overview",
+  "lunar authority": "inner-authority/lunar-authority",
+  "making decisions in practice": "inner-authority/making-decisions",
+  "mental authority": "inner-authority/mental-authority",
+  "minor authorities": "inner-authority/minor-authorities",
+  "no direct inner authority": "inner-authority/no-direct-inner-authority",
+  "sacral authority": "inner-authority/sacral-authority",
+  "self-projected authority": "inner-authority/self-projected-authority",
+  "splenic authority": "inner-authority/splenic-authority",
+  "inner authority": "inner-authority",
+  "angles overview": "profiles/angles-overview",
+  "line 1 — the investigator": "profiles/line-1",
+  "line 2 — the hermit": "profiles/line-2",
+  "line 3 — the martyr": "profiles/line-3",
+  "line 4 — the opportunist": "profiles/line-4",
+  "line 5 — the heretic": "profiles/line-5",
+  "line 6 — the role model": "profiles/line-6",
+  "lines overview": "profiles/lines-overview",
+  "profile 1/3 - investigator/martyr": "profiles/profile-1-3",
+  "profile 1/4 - investigator/opportunist": "profiles/profile-1-4",
+  "profile 2/4 - hermit/opportunist": "profiles/profile-2-4",
+  "profile 2/5 - hermit/heretic": "profiles/profile-2-5",
+  "profile 3/5 - martyr/heretic": "profiles/profile-3-5",
+  "profile 3/6 - martyr/role model": "profiles/profile-3-6",
+  "profile 4/1 - opportunist/investigator": "profiles/profile-4-1",
+  "profile 4/6 - opportunist/role model": "profiles/profile-4-6",
+  "profile 5/1 - heretic/investigator": "profiles/profile-5-1",
+  "profile 5/2 - heretic/hermit": "profiles/profile-5-2",
+  "profile 6/2 - role model/hermit": "profiles/profile-6-2",
+  "profile 6/3 - role model/martyr": "profiles/profile-6-3",
+  "profiles & lines": "profiles",
+  "inform": "strategy/inform",
+  "mind vs body decision-making": "strategy/mind-vs-body",
+  "respond": "strategy/respond",
+  "strategy and signature": "strategy/strategy-and-signature",
+  "strategy overview": "strategy/strategy-overview",
+  "wait for the invitation": "strategy/wait-for-invitation",
+  "wait the lunar cycle": "strategy/wait-lunar-cycle",
+  "strategy": "strategy",
+  "generator": "types/generator",
+  "manifesting generator": "types/manifesting-generator",
+  "manifestor": "types/manifestor",
+  "projector": "types/projector",
+  "reflector": "types/reflector",
+  "energy types": "types",
+  "definition types": "variables/definition-types",
+  "phs diet (primary health system)": "variables/phs-diet",
+  "variables overview": "variables/variables-overview",
+  "variables & phs": "variables",
+  "concepts": "concepts",
+  "types": "types",
+  "profiles": "profiles",
+  "profiles and lines": "profiles",
+  "gates": "gates",
+  "channels": "channels",
+  "incarnation crosses": "incarnation-crosses",
+  "variables": "variables",
+  "variables and phs": "variables",
+  "wait for invitation": "strategy/wait-for-invitation",
+  "wait for the lunar cycle": "strategy/wait-lunar-cycle",
+  "mind vs body": "strategy/mind-vs-body",
+  "authority hierarchy": "inner-authority/authority-hierarchy",
+  "making decisions": "inner-authority/making-decisions",
+  "human design": "concepts/human-design-system",
+  "open centers": "centers/nine-centers",
+  "ego center": "centers/heart-center",
+  "will center": "centers/heart-center",
+  "phs & diet": "variables/phs-diet",
+  "phs": "variables/phs-diet",
+  "profile 1-3": "profiles/profile-1-3",
+  "profile 1-4": "profiles/profile-1-4",
+  "profile 2-4": "profiles/profile-2-4",
+  "profile 2-5": "profiles/profile-2-5",
+  "profile 3-5": "profiles/profile-3-5",
+  "profile 3-6": "profiles/profile-3-6",
+  "profile 4-1": "profiles/profile-4-1",
+  "profile 4-6": "profiles/profile-4-6",
+  "profile 5-1": "profiles/profile-5-1",
+  "profile 5-2": "profiles/profile-5-2",
+  "profile 6-2": "profiles/profile-6-2",
+  "profile 6-3": "profiles/profile-6-3",
+  "profile 1/3": "profiles/profile-1-3",
+  "profile 1/4": "profiles/profile-1-4",
+  "profile 2/4": "profiles/profile-2-4",
+  "profile 2/5": "profiles/profile-2-5",
+  "profile 3/5": "profiles/profile-3-5",
+  "profile 3/6": "profiles/profile-3-6",
+  "profile 4/1": "profiles/profile-4-1",
+  "profile 4/6": "profiles/profile-4-6",
+  "profile 5/1": "profiles/profile-5-1",
+  "profile 5/2": "profiles/profile-5-2",
+  "profile 6/2": "profiles/profile-6-2",
+  "profile 6/3": "profiles/profile-6-3",
+  "channel 1/8": "channels/1-8",
+  "channel 8/1": "channels/1-8",
+  "1/8": "channels/1-8",
+  "8/1": "channels/1-8",
+  "the channel of inspiration": "channels/1-8",
+  "inspiration": "channels/1-8",
+  "channel 2/14": "channels/2-14",
+  "channel 14/2": "channels/2-14",
+  "2/14": "channels/2-14",
+  "14/2": "channels/2-14",
+  "the channel of the beat": "channels/2-14",
+  "the beat": "channels/2-14",
+  "channel 3/60": "channels/3-60",
+  "channel 60/3": "channels/3-60",
+  "3/60": "channels/3-60",
+  "60/3": "channels/3-60",
+  "the channel of mutation": "channels/3-60",
+  "mutation": "channels/3-60",
+  "channel 4/63": "channels/4-63",
+  "channel 63/4": "channels/4-63",
+  "4/63": "channels/4-63",
+  "63/4": "channels/4-63",
+  "the channel of logic": "channels/4-63",
+  "logic": "channels/4-63",
+  "channel 5/15": "channels/5-15",
+  "channel 15/5": "channels/5-15",
+  "5/15": "channels/5-15",
+  "15/5": "channels/5-15",
+  "the channel of rhythm": "channels/5-15",
+  "rhythm": "channels/5-15",
+  "channel 6/59": "channels/6-59",
+  "channel 59/6": "channels/6-59",
+  "6/59": "channels/6-59",
+  "59/6": "channels/6-59",
+  "the channel of mating (intimacy)": "channels/6-59",
+  "mating (intimacy)": "channels/6-59",
+  "channel 7/31": "channels/7-31",
+  "channel 31/7": "channels/7-31",
+  "7/31": "channels/7-31",
+  "31/7": "channels/7-31",
+  "the channel of the alpha / leadership": "channels/7-31",
+  "alpha / leadership": "channels/7-31",
+  "channel 9/52": "channels/9-52",
+  "channel 52/9": "channels/9-52",
+  "9/52": "channels/9-52",
+  "52/9": "channels/9-52",
+  "the channel of concentration": "channels/9-52",
+  "concentration": "channels/9-52",
+  "channel 10/20": "channels/10-20",
+  "channel 20/10": "channels/10-20",
+  "10/20": "channels/10-20",
+  "20/10": "channels/10-20",
+  "the channel of awakening": "channels/10-20",
+  "awakening": "channels/10-20",
+  "channel 10/34": "channels/10-34",
+  "channel 34/10": "channels/10-34",
+  "10/34": "channels/10-34",
+  "34/10": "channels/10-34",
+  "the channel of exploration": "channels/10-34",
+  "exploration": "channels/10-34",
+  "channel 10/57": "channels/10-57",
+  "channel 57/10": "channels/10-57",
+  "10/57": "channels/10-57",
+  "57/10": "channels/10-57",
+  "the channel of perfected form": "channels/10-57",
+  "perfected form": "channels/10-57",
+  "channel 11/56": "channels/11-56",
+  "channel 56/11": "channels/11-56",
+  "11/56": "channels/11-56",
+  "56/11": "channels/11-56",
+  "the channel of curiosity": "channels/11-56",
+  "curiosity": "channels/11-56",
+  "channel 12/22": "channels/12-22",
+  "channel 22/12": "channels/12-22",
+  "12/22": "channels/12-22",
+  "22/12": "channels/12-22",
+  "the channel of openness": "channels/12-22",
+  "openness": "channels/12-22",
+  "channel 13/33": "channels/13-33",
+  "channel 33/13": "channels/13-33",
+  "13/33": "channels/13-33",
+  "33/13": "channels/13-33",
+  "the channel of the prodigal / the witness": "channels/13-33",
+  "prodigal / the witness": "channels/13-33",
+  "channel 16/48": "channels/16-48",
+  "channel 48/16": "channels/16-48",
+  "16/48": "channels/16-48",
+  "48/16": "channels/16-48",
+  "the channel of the wavelength (talent)": "channels/16-48",
+  "wavelength (talent)": "channels/16-48",
+  "channel 17/62": "channels/17-62",
+  "channel 62/17": "channels/17-62",
+  "17/62": "channels/17-62",
+  "62/17": "channels/17-62",
+  "the channel of acceptance / organization": "channels/17-62",
+  "acceptance / organization": "channels/17-62",
+  "channel 18/58": "channels/18-58",
+  "channel 58/18": "channels/18-58",
+  "18/58": "channels/18-58",
+  "58/18": "channels/18-58",
+  "the channel of judgment": "channels/18-58",
+  "judgment": "channels/18-58",
+  "channel 19/49": "channels/19-49",
+  "channel 49/19": "channels/19-49",
+  "19/49": "channels/19-49",
+  "49/19": "channels/19-49",
+  "the channel of synthesis": "channels/19-49",
+  "synthesis": "channels/19-49",
+  "channel 20/34": "channels/20-34",
+  "channel 34/20": "channels/20-34",
+  "20/34": "channels/20-34",
+  "34/20": "channels/20-34",
+  "the channel of charisma": "channels/20-34",
+  "charisma": "channels/20-34",
+  "channel 20/57": "channels/20-57",
+  "channel 57/20": "channels/20-57",
+  "20/57": "channels/20-57",
+  "57/20": "channels/20-57",
+  "the channel of the brainwave": "channels/20-57",
+  "brainwave": "channels/20-57",
+  "channel 21/45": "channels/21-45",
+  "channel 45/21": "channels/21-45",
+  "21/45": "channels/21-45",
+  "45/21": "channels/21-45",
+  "the channel of money (the materialist)": "channels/21-45",
+  "money (the materialist)": "channels/21-45",
+  "channel 23/43": "channels/23-43",
+  "channel 43/23": "channels/23-43",
+  "23/43": "channels/23-43",
+  "43/23": "channels/23-43",
+  "the channel of structuring": "channels/23-43",
+  "structuring": "channels/23-43",
+  "channel 24/61": "channels/24-61",
+  "channel 61/24": "channels/24-61",
+  "24/61": "channels/24-61",
+  "61/24": "channels/24-61",
+  "the channel of awareness": "channels/24-61",
+  "awareness": "channels/24-61",
+  "channel 25/51": "channels/25-51",
+  "channel 51/25": "channels/25-51",
+  "25/51": "channels/25-51",
+  "51/25": "channels/25-51",
+  "the channel of initiation": "channels/25-51",
+  "initiation": "channels/25-51",
+  "channel 26/44": "channels/26-44",
+  "channel 44/26": "channels/26-44",
+  "26/44": "channels/26-44",
+  "44/26": "channels/26-44",
+  "the channel of surrender": "channels/26-44",
+  "surrender": "channels/26-44",
+  "channel 27/50": "channels/27-50",
+  "channel 50/27": "channels/27-50",
+  "27/50": "channels/27-50",
+  "50/27": "channels/27-50",
+  "the channel of preservation": "channels/27-50",
+  "preservation": "channels/27-50",
+  "channel 28/38": "channels/28-38",
+  "channel 38/28": "channels/28-38",
+  "28/38": "channels/28-38",
+  "38/28": "channels/28-38",
+  "the channel of struggle": "channels/28-38",
+  "struggle": "channels/28-38",
+  "channel 29/46": "channels/29-46",
+  "channel 46/29": "channels/29-46",
+  "29/46": "channels/29-46",
+  "46/29": "channels/29-46",
+  "the channel of discovery / determination": "channels/29-46",
+  "discovery / determination": "channels/29-46",
+  "channel 30/41": "channels/30-41",
+  "channel 41/30": "channels/30-41",
+  "30/41": "channels/30-41",
+  "41/30": "channels/30-41",
+  "the channel of recognition": "channels/30-41",
+  "recognition": "channels/30-41",
+  "channel 32/54": "channels/32-54",
+  "channel 54/32": "channels/32-54",
+  "32/54": "channels/32-54",
+  "54/32": "channels/32-54",
+  "the channel of transformation": "channels/32-54",
+  "transformation": "channels/32-54",
+  "channel 34/57": "channels/34-57",
+  "channel 57/34": "channels/34-57",
+  "34/57": "channels/34-57",
+  "57/34": "channels/34-57",
+  "the channel of power": "channels/34-57",
+  "power": "channels/34-57",
+  "channel 35/36": "channels/35-36",
+  "channel 36/35": "channels/35-36",
+  "35/36": "channels/35-36",
+  "36/35": "channels/35-36",
+  "the channel of transitoriness": "channels/35-36",
+  "transitoriness": "channels/35-36",
+  "channel 37/40": "channels/37-40",
+  "channel 40/37": "channels/37-40",
+  "37/40": "channels/37-40",
+  "40/37": "channels/37-40",
+  "the channel of community": "channels/37-40",
+  "community": "channels/37-40",
+  "channel 39/55": "channels/39-55",
+  "channel 55/39": "channels/39-55",
+  "39/55": "channels/39-55",
+  "55/39": "channels/39-55",
+  "the channel of emoting": "channels/39-55",
+  "emoting": "channels/39-55",
+  "channel 42/53": "channels/42-53",
+  "channel 53/42": "channels/42-53",
+  "42/53": "channels/42-53",
+  "53/42": "channels/42-53",
+  "the channel of maturation": "channels/42-53",
+  "maturation": "channels/42-53",
+  "channel 47/64": "channels/47-64",
+  "channel 64/47": "channels/47-64",
+  "47/64": "channels/47-64",
+  "64/47": "channels/47-64",
+  "the channel of abstraction": "channels/47-64",
+  "abstraction": "channels/47-64",
+  "individual circuit group": "circuits/individual",
+  "tribal circuit group": "circuits/tribal",
+  "collective circuit group": "circuits/collective",
+  "gate 1": "gates/gate-1",
+  "the creative (self-expression)": "gates/gate-1",
+  "creative (self-expression)": "gates/gate-1",
+  "gate 2": "gates/gate-2",
+  "the receptive (higher knowing / the driver)": "gates/gate-2",
+  "receptive (higher knowing / the driver)": "gates/gate-2",
+  "the receptive (higher knowing": "gates/gate-2",
+  "receptive (higher knowing": "gates/gate-2",
+  "the driver)": "gates/gate-2",
+  "driver)": "gates/gate-2",
+  "gate 3": "gates/gate-3",
+  "difficulty at the beginning (ordering / innovation / mutation)": "gates/gate-3",
+  "difficulty at the beginning (ordering": "gates/gate-3",
+  "innovation": "gates/gate-3",
+  "mutation)": "gates/gate-3",
+  "gate 4": "gates/gate-4",
+  "youthful folly (formulization / possibility)": "gates/gate-4",
+  "youthful folly (formulization": "gates/gate-4",
+  "possibility)": "gates/gate-4",
+  "gate 5": "gates/gate-5",
+  "waiting (fixed patterns / rhythm)": "gates/gate-5",
+  "waiting (fixed patterns": "gates/gate-5",
+  "rhythm)": "gates/gate-5",
+  "gate 6": "gates/gate-6",
+  "conflict (friction / intimacy / impact)": "gates/gate-6",
+  "conflict (friction": "gates/gate-6",
+  "intimacy": "gates/gate-6",
+  "impact)": "gates/gate-6",
+  "gate 7": "gates/gate-7",
+  "the army (the role of the self / collaboration)": "gates/gate-7",
+  "army (the role of the self / collaboration)": "gates/gate-7",
+  "the army (the role of the self": "gates/gate-7",
+  "army (the role of the self": "gates/gate-7",
+  "collaboration)": "gates/gate-7",
+  "gate 8": "gates/gate-8",
+  "holding together (contribution / fulfillment)": "gates/gate-8",
+  "holding together (contribution": "gates/gate-8",
+  "fulfillment)": "gates/gate-8",
+  "gate 9": "gates/gate-9",
+  "focus (the taming power of the small)": "gates/gate-9",
+  "gate 10": "gates/gate-10",
+  "behavior of the self (treading)": "gates/gate-10",
+  "gate 11": "gates/gate-11",
+  "ideas (peace)": "gates/gate-11",
+  "gate 12": "gates/gate-12",
+  "caution (standstill)": "gates/gate-12",
+  "gate 13": "gates/gate-13",
+  "the listener (the fellowship of man)": "gates/gate-13",
+  "listener (the fellowship of man)": "gates/gate-13",
+  "gate 14": "gates/gate-14",
+  "power skills (possession in great measure)": "gates/gate-14",
+  "gate 15": "gates/gate-15",
+  "extremes (modesty)": "gates/gate-15",
+  "gate 16": "gates/gate-16",
+  "skills (enthusiasm)": "gates/gate-16",
+  "gate 17": "gates/gate-17",
+  "following / the gate of opinion": "gates/gate-17",
+  "following": "gates/gate-17",
+  "the gate of opinion": "gates/gate-17",
+  "gate of opinion": "gates/gate-17",
+  "gate 18": "gates/gate-18",
+  "work on what has been spoiled / the gate of correction": "gates/gate-18",
+  "work on what has been spoiled": "gates/gate-18",
+  "the gate of correction": "gates/gate-18",
+  "gate of correction": "gates/gate-18",
+  "gate 19": "gates/gate-19",
+  "approach / the gate of wanting": "gates/gate-19",
+  "approach": "gates/gate-19",
+  "the gate of wanting": "gates/gate-19",
+  "gate of wanting": "gates/gate-19",
+  "gate 20": "gates/gate-20",
+  "contemplation / the gate of the now": "gates/gate-20",
+  "contemplation": "gates/gate-20",
+  "the gate of the now": "gates/gate-20",
+  "gate of the now": "gates/gate-20",
+  "gate 21": "gates/gate-21",
+  "biting through / the gate of the hunter/huntress": "gates/gate-21",
+  "biting through": "gates/gate-21",
+  "the gate of the hunter/huntress": "gates/gate-21",
+  "gate of the hunter/huntress": "gates/gate-21",
+  "gate 22": "gates/gate-22",
+  "grace / the gate of openness": "gates/gate-22",
+  "grace": "gates/gate-22",
+  "the gate of openness": "gates/gate-22",
+  "gate of openness": "gates/gate-22",
+  "gate 23": "gates/gate-23",
+  "splitting apart / the gate of assimilation": "gates/gate-23",
+  "splitting apart": "gates/gate-23",
+  "the gate of assimilation": "gates/gate-23",
+  "gate of assimilation": "gates/gate-23",
+  "gate 24": "gates/gate-24",
+  "the return / the gate of rationalization": "gates/gate-24",
+  "return / the gate of rationalization": "gates/gate-24",
+  "the return": "gates/gate-24",
+  "return": "gates/gate-24",
+  "the gate of rationalization": "gates/gate-24",
+  "gate of rationalization": "gates/gate-24",
+  "gate 25": "gates/gate-25",
+  "innocence (the spirit of the self)": "gates/gate-25",
+  "gate 26": "gates/gate-26",
+  "the taming power of the great (the egoist)": "gates/gate-26",
+  "taming power of the great (the egoist)": "gates/gate-26",
+  "gate 27": "gates/gate-27",
+  "nourishment (caring)": "gates/gate-27",
+  "gate 28": "gates/gate-28",
+  "preponderance of the great (the game player)": "gates/gate-28",
+  "gate 29": "gates/gate-29",
+  "the abysmal (perseverance, the yes)": "gates/gate-29",
+  "abysmal (perseverance, the yes)": "gates/gate-29",
+  "gate 30": "gates/gate-30",
+  "the clinging fire (feelings, desire)": "gates/gate-30",
+  "clinging fire (feelings, desire)": "gates/gate-30",
+  "gate 31": "gates/gate-31",
+  "influence (leading, the alpha)": "gates/gate-31",
+  "gate 32": "gates/gate-32",
+  "continuity (duration, the conservator)": "gates/gate-32",
+  "gate 33": "gates/gate-33",
+  "retreat": "gates/gate-33",
+  "gate 34": "gates/gate-34",
+  "the power of the great": "gates/gate-34",
+  "power of the great": "gates/gate-34",
+  "gate 35": "gates/gate-35",
+  "progress": "gates/gate-35",
+  "gate 36": "gates/gate-36",
+  "darkening of the light": "gates/gate-36",
+  "gate 37": "gates/gate-37",
+  "the family": "gates/gate-37",
+  "family": "gates/gate-37",
+  "gate 38": "gates/gate-38",
+  "opposition": "gates/gate-38",
+  "gate 39": "gates/gate-39",
+  "provocation": "gates/gate-39",
+  "gate 40": "gates/gate-40",
+  "deliverance": "gates/gate-40",
+  "gate 41": "gates/gate-41",
+  "decrease / contraction": "gates/gate-41",
+  "decrease": "gates/gate-41",
+  "contraction": "gates/gate-41",
+  "gate 42": "gates/gate-42",
+  "increase / growth": "gates/gate-42",
+  "increase": "gates/gate-42",
+  "growth": "gates/gate-42",
+  "gate 43": "gates/gate-43",
+  "insight / breakthrough": "gates/gate-43",
+  "insight": "gates/gate-43",
+  "breakthrough": "gates/gate-43",
+  "gate 44": "gates/gate-44",
+  "alertness / coming to meet": "gates/gate-44",
+  "alertness": "gates/gate-44",
+  "coming to meet": "gates/gate-44",
+  "gate 45": "gates/gate-45",
+  "the gatherer / gathering together": "gates/gate-45",
+  "gatherer / gathering together": "gates/gate-45",
+  "the gatherer": "gates/gate-45",
+  "gatherer": "gates/gate-45",
+  "gathering together": "gates/gate-45",
+  "gate 46": "gates/gate-46",
+  "determination of the self / pushing upward": "gates/gate-46",
+  "determination of the self": "gates/gate-46",
+  "pushing upward": "gates/gate-46",
+  "gate 47": "gates/gate-47",
+  "realization / oppression": "gates/gate-47",
+  "realization": "gates/gate-47",
+  "oppression": "gates/gate-47",
+  "gate 48": "gates/gate-48",
+  "depth / the well": "gates/gate-48",
+  "depth": "gates/gate-48",
+  "the well": "gates/gate-48",
+  "well": "gates/gate-48",
+  "gate 49": "gates/gate-49",
+  "revolution / the gate of principles": "gates/gate-49",
+  "revolution": "gates/gate-49",
+  "the gate of principles": "gates/gate-49",
+  "gate of principles": "gates/gate-49",
+  "gate 50": "gates/gate-50",
+  "the cauldron / the gate of values": "gates/gate-50",
+  "cauldron / the gate of values": "gates/gate-50",
+  "the cauldron": "gates/gate-50",
+  "cauldron": "gates/gate-50",
+  "the gate of values": "gates/gate-50",
+  "gate of values": "gates/gate-50",
+  "gate 51": "gates/gate-51",
+  "the arousing / the gate of shock": "gates/gate-51",
+  "arousing / the gate of shock": "gates/gate-51",
+  "the arousing": "gates/gate-51",
+  "arousing": "gates/gate-51",
+  "the gate of shock": "gates/gate-51",
+  "gate of shock": "gates/gate-51",
+  "gate 52": "gates/gate-52",
+  "keeping still / the gate of stillness": "gates/gate-52",
+  "keeping still": "gates/gate-52",
+  "the gate of stillness": "gates/gate-52",
+  "gate of stillness": "gates/gate-52",
+  "gate 53": "gates/gate-53",
+  "development / the gate of beginnings": "gates/gate-53",
+  "development": "gates/gate-53",
+  "the gate of beginnings": "gates/gate-53",
+  "gate of beginnings": "gates/gate-53",
+  "gate 54": "gates/gate-54",
+  "the marrying maiden / the gate of ambition": "gates/gate-54",
+  "marrying maiden / the gate of ambition": "gates/gate-54",
+  "the marrying maiden": "gates/gate-54",
+  "marrying maiden": "gates/gate-54",
+  "the gate of ambition": "gates/gate-54",
+  "gate of ambition": "gates/gate-54",
+  "gate 55": "gates/gate-55",
+  "abundance / the gate of spirit": "gates/gate-55",
+  "abundance": "gates/gate-55",
+  "the gate of spirit": "gates/gate-55",
+  "gate of spirit": "gates/gate-55",
+  "gate 56": "gates/gate-56",
+  "the wanderer / the gate of stimulation": "gates/gate-56",
+  "wanderer / the gate of stimulation": "gates/gate-56",
+  "the wanderer": "gates/gate-56",
+  "wanderer": "gates/gate-56",
+  "the gate of stimulation": "gates/gate-56",
+  "gate of stimulation": "gates/gate-56",
+  "gate 57": "gates/gate-57",
+  "the gentle / the gate of intuitive clarity": "gates/gate-57",
+  "gentle / the gate of intuitive clarity": "gates/gate-57",
+  "the gentle": "gates/gate-57",
+  "gentle": "gates/gate-57",
+  "the gate of intuitive clarity": "gates/gate-57",
+  "gate of intuitive clarity": "gates/gate-57",
+  "gate 58": "gates/gate-58",
+  "the joyous / the gate of vitality": "gates/gate-58",
+  "joyous / the gate of vitality": "gates/gate-58",
+  "the joyous": "gates/gate-58",
+  "joyous": "gates/gate-58",
+  "the gate of vitality": "gates/gate-58",
+  "gate of vitality": "gates/gate-58",
+  "gate 59": "gates/gate-59",
+  "dispersion / the gate of intimacy": "gates/gate-59",
+  "dispersion": "gates/gate-59",
+  "the gate of intimacy": "gates/gate-59",
+  "gate of intimacy": "gates/gate-59",
+  "gate 60": "gates/gate-60",
+  "limitation / the gate of acceptance": "gates/gate-60",
+  "limitation": "gates/gate-60",
+  "the gate of acceptance": "gates/gate-60",
+  "gate of acceptance": "gates/gate-60",
+  "gate 61": "gates/gate-61",
+  "inner truth / the gate of mystery": "gates/gate-61",
+  "inner truth": "gates/gate-61",
+  "the gate of mystery": "gates/gate-61",
+  "gate of mystery": "gates/gate-61",
+  "gate 62": "gates/gate-62",
+  "preponderance of the small / the gate of detail": "gates/gate-62",
+  "preponderance of the small": "gates/gate-62",
+  "the gate of detail": "gates/gate-62",
+  "gate of detail": "gates/gate-62",
+  "gate 63": "gates/gate-63",
+  "after completion / the gate of doubt": "gates/gate-63",
+  "after completion": "gates/gate-63",
+  "the gate of doubt": "gates/gate-63",
+  "gate of doubt": "gates/gate-63",
+  "gate 64": "gates/gate-64",
+  "before completion / the gate of confusion": "gates/gate-64",
+  "before completion": "gates/gate-64",
+  "the gate of confusion": "gates/gate-64",
+  "gate of confusion": "gates/gate-64",
+  "line 1": "profiles/line-1",
+  "line-1": "profiles/line-1",
+  "the investigator": "profiles/line-1",
+  "line 2": "profiles/line-2",
+  "line-2": "profiles/line-2",
+  "the hermit": "profiles/line-2",
+  "line 3": "profiles/line-3",
+  "line-3": "profiles/line-3",
+  "the martyr": "profiles/line-3",
+  "line 4": "profiles/line-4",
+  "line-4": "profiles/line-4",
+  "the opportunist": "profiles/line-4",
+  "line 5": "profiles/line-5",
+  "line-5": "profiles/line-5",
+  "the heretic": "profiles/line-5",
+  "line 6": "profiles/line-6",
+  "line-6": "profiles/line-6",
+  "the role model": "profiles/line-6",
+  "role model": "profiles/line-6",
+  "right angle cross of sphinx 1": "incarnation-crosses/right-angle-cross-of-the-sphinx-1",
+  "cross of sphinx 1": "incarnation-crosses/right-angle-cross-of-the-sphinx-1",
+  "right angle cross of sphinx 2": "incarnation-crosses/right-angle-cross-of-the-sphinx-2",
+  "cross of sphinx 2": "incarnation-crosses/right-angle-cross-of-the-sphinx-2",
+  "right angle cross of sphinx 3": "incarnation-crosses/right-angle-cross-of-the-sphinx-3",
+  "cross of sphinx 3": "incarnation-crosses/right-angle-cross-of-the-sphinx-3",
+  "right angle cross of sphinx 4": "incarnation-crosses/right-angle-cross-of-the-sphinx-4",
+  "cross of sphinx 4": "incarnation-crosses/right-angle-cross-of-the-sphinx-4",
+  "left angle cross of sphinx 1": "incarnation-crosses/left-angle-cross-of-the-sphinx-1",
+  "left angle cross of sphinx 2": "incarnation-crosses/left-angle-cross-of-the-sphinx-2",
+  "left angle cross of sphinx 3": "incarnation-crosses/left-angle-cross-of-the-sphinx-3",
+  "left angle cross of sphinx 4": "incarnation-crosses/left-angle-cross-of-the-sphinx-4",
+  "juxtaposition cross of sphinx 1": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-1",
+  "juxtaposition cross of sphinx 2": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-2",
+  "juxtaposition cross of sphinx 3": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-3",
+  "juxtaposition cross of sphinx 4": "incarnation-crosses/juxtaposition-cross-of-the-sphinx-4",
+  "cross of explanation 1": "incarnation-crosses/right-angle-cross-of-explanation-1",
+  "cross of explanation 2": "incarnation-crosses/right-angle-cross-of-explanation-2",
+  "cross of explanation 3": "incarnation-crosses/right-angle-cross-of-explanation-3",
+  "cross of explanation 4": "incarnation-crosses/right-angle-cross-of-explanation-4",
+  "cross of contagion 1": "incarnation-crosses/right-angle-cross-of-contagion-1",
+  "cross of contagion 2": "incarnation-crosses/right-angle-cross-of-contagion-2",
+  "cross of contagion 3": "incarnation-crosses/right-angle-cross-of-contagion-3",
+  "cross of contagion 4": "incarnation-crosses/right-angle-cross-of-contagion-4",
+  "right angle cross of sleeping phoenix 1": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-1",
+  "cross of sleeping phoenix 1": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-1",
+  "right angle cross of sleeping phoenix 2": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-2",
+  "cross of sleeping phoenix 2": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-2",
+  "right angle cross of sleeping phoenix 3": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-3",
+  "cross of sleeping phoenix 3": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-3",
+  "right angle cross of sleeping phoenix 4": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-4",
+  "cross of sleeping phoenix 4": "incarnation-crosses/right-angle-cross-of-the-sleeping-phoenix-4",
+  "left angle cross of sleeping phoenix 1": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-1",
+  "left angle cross of sleeping phoenix 2": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-2",
+  "left angle cross of sleeping phoenix 3": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-3",
+  "left angle cross of sleeping phoenix 4": "incarnation-crosses/left-angle-cross-of-the-sleeping-phoenix-4",
+  "juxtaposition cross of sleeping phoenix 1": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-1",
+  "juxtaposition cross of sleeping phoenix 2": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-2",
+  "juxtaposition cross of sleeping phoenix 3": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-3",
+  "juxtaposition cross of sleeping phoenix 4": "incarnation-crosses/juxtaposition-cross-of-the-sleeping-phoenix-4",
+  "cross of planning 1": "incarnation-crosses/right-angle-cross-of-planning-1",
+  "cross of planning 2": "incarnation-crosses/right-angle-cross-of-planning-2",
+  "cross of planning 3": "incarnation-crosses/right-angle-cross-of-planning-3",
+  "cross of planning 4": "incarnation-crosses/right-angle-cross-of-planning-4",
+  "left angle cross of planning 1": "incarnation-crosses/left-angle-cross-of-planning-1",
+  "left angle cross of planning 2": "incarnation-crosses/left-angle-cross-of-planning-2",
+  "left angle cross of planning 3": "incarnation-crosses/left-angle-cross-of-planning-3",
+  "left angle cross of planning 4": "incarnation-crosses/left-angle-cross-of-planning-4",
+  "juxtaposition cross of planning 1": "incarnation-crosses/juxtaposition-cross-of-planning-1",
+  "juxtaposition cross of planning 2": "incarnation-crosses/juxtaposition-cross-of-planning-2",
+  "juxtaposition cross of planning 3": "incarnation-crosses/juxtaposition-cross-of-planning-3",
+  "juxtaposition cross of planning 4": "incarnation-crosses/juxtaposition-cross-of-planning-4",
+  "cross of consciousness 1": "incarnation-crosses/right-angle-cross-of-consciousness-1",
+  "cross of consciousness 2": "incarnation-crosses/right-angle-cross-of-consciousness-2",
+  "cross of consciousness 3": "incarnation-crosses/right-angle-cross-of-consciousness-3",
+  "cross of consciousness 4": "incarnation-crosses/right-angle-cross-of-consciousness-4",
+  "left angle cross of consciousness 1": "incarnation-crosses/left-angle-cross-of-consciousness-1",
+  "left angle cross of consciousness 2": "incarnation-crosses/left-angle-cross-of-consciousness-2",
+  "left angle cross of consciousness 3": "incarnation-crosses/left-angle-cross-of-consciousness-3",
+  "left angle cross of consciousness 4": "incarnation-crosses/left-angle-cross-of-consciousness-4",
+  "juxtaposition cross of consciousness 1": "incarnation-crosses/juxtaposition-cross-of-consciousness-1",
+  "juxtaposition cross of consciousness 2": "incarnation-crosses/juxtaposition-cross-of-consciousness-2",
+  "juxtaposition cross of consciousness 3": "incarnation-crosses/juxtaposition-cross-of-consciousness-3",
+  "juxtaposition cross of consciousness 4": "incarnation-crosses/juxtaposition-cross-of-consciousness-4",
+  "cross of rulership 1": "incarnation-crosses/right-angle-cross-of-rulership-1",
+  "cross of rulership 2": "incarnation-crosses/right-angle-cross-of-rulership-2",
+  "cross of rulership 3": "incarnation-crosses/right-angle-cross-of-rulership-3",
+  "cross of rulership 4": "incarnation-crosses/right-angle-cross-of-rulership-4",
+  "left angle cross of rulership 1": "incarnation-crosses/left-angle-cross-of-rulership-1",
+  "left angle cross of rulership 2": "incarnation-crosses/left-angle-cross-of-rulership-2",
+  "left angle cross of rulership 3": "incarnation-crosses/left-angle-cross-of-rulership-3",
+  "left angle cross of rulership 4": "incarnation-crosses/left-angle-cross-of-rulership-4",
+  "juxtaposition cross of rulership 1": "incarnation-crosses/juxtaposition-cross-of-rulership-1",
+  "juxtaposition cross of rulership 2": "incarnation-crosses/juxtaposition-cross-of-rulership-2",
+  "juxtaposition cross of rulership 3": "incarnation-crosses/juxtaposition-cross-of-rulership-3",
+  "juxtaposition cross of rulership 4": "incarnation-crosses/juxtaposition-cross-of-rulership-4",
+  "cross of eden 1": "incarnation-crosses/right-angle-cross-of-eden-1",
+  "cross of eden 2": "incarnation-crosses/right-angle-cross-of-eden-2",
+  "cross of eden 3": "incarnation-crosses/right-angle-cross-of-eden-3",
+  "cross of eden 4": "incarnation-crosses/right-angle-cross-of-eden-4",
+  "left angle cross of eden 1": "incarnation-crosses/left-angle-cross-of-eden-1",
+  "left angle cross of eden 2": "incarnation-crosses/left-angle-cross-of-eden-2",
+  "left angle cross of eden 3": "incarnation-crosses/left-angle-cross-of-eden-3",
+  "left angle cross of eden 4": "incarnation-crosses/left-angle-cross-of-eden-4",
+  "juxtaposition cross of eden 1": "incarnation-crosses/juxtaposition-cross-of-eden-1",
+  "juxtaposition cross of eden 2": "incarnation-crosses/juxtaposition-cross-of-eden-2",
+  "juxtaposition cross of eden 3": "incarnation-crosses/juxtaposition-cross-of-eden-3",
+  "juxtaposition cross of eden 4": "incarnation-crosses/juxtaposition-cross-of-eden-4",
+  "right angle cross of vessel of love 1": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-1",
+  "cross of vessel of love 1": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-1",
+  "right angle cross of vessel of love 2": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-2",
+  "cross of vessel of love 2": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-2",
+  "right angle cross of vessel of love 3": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-3",
+  "cross of vessel of love 3": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-3",
+  "right angle cross of vessel of love 4": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-4",
+  "cross of vessel of love 4": "incarnation-crosses/right-angle-cross-of-the-vessel-of-love-4",
+  "left angle cross of vessel of love 1": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-1",
+  "left angle cross of vessel of love 2": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-2",
+  "left angle cross of vessel of love 3": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-3",
+  "left angle cross of vessel of love 4": "incarnation-crosses/left-angle-cross-of-the-vessel-of-love-4",
+  "juxtaposition cross of vessel of love 1": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-1",
+  "juxtaposition cross of vessel of love 2": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-2",
+  "juxtaposition cross of vessel of love 3": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-3",
+  "juxtaposition cross of vessel of love 4": "incarnation-crosses/juxtaposition-cross-of-the-vessel-of-love-4",
+  "cross of service 1": "incarnation-crosses/right-angle-cross-of-service-1",
+  "cross of service 2": "incarnation-crosses/right-angle-cross-of-service-2",
+  "cross of service 3": "incarnation-crosses/right-angle-cross-of-service-3",
+  "cross of service 4": "incarnation-crosses/right-angle-cross-of-service-4",
+  "cross of tension 1": "incarnation-crosses/right-angle-cross-of-tension-1",
+  "cross of tension 2": "incarnation-crosses/right-angle-cross-of-tension-2",
+  "cross of tension 3": "incarnation-crosses/right-angle-cross-of-tension-3",
+  "cross of tension 4": "incarnation-crosses/right-angle-cross-of-tension-4",
+  "cross of penetration 1": "incarnation-crosses/right-angle-cross-of-penetration-1",
+  "cross of penetration 2": "incarnation-crosses/right-angle-cross-of-penetration-2",
+  "cross of penetration 3": "incarnation-crosses/right-angle-cross-of-penetration-3",
+  "cross of penetration 4": "incarnation-crosses/right-angle-cross-of-penetration-4",
+  "cross of maya 1": "incarnation-crosses/right-angle-cross-of-maya-1",
+  "cross of maya 2": "incarnation-crosses/right-angle-cross-of-maya-2",
+  "cross of maya 3": "incarnation-crosses/right-angle-cross-of-maya-3",
+  "cross of maya 4": "incarnation-crosses/right-angle-cross-of-maya-4",
+  "cross of laws 1": "incarnation-crosses/right-angle-cross-of-laws-1",
+  "cross of laws 2": "incarnation-crosses/right-angle-cross-of-laws-2",
+  "cross of laws 3": "incarnation-crosses/right-angle-cross-of-laws-3",
+  "cross of laws 4": "incarnation-crosses/right-angle-cross-of-laws-4",
+  "right angle cross of unexpected 1": "incarnation-crosses/right-angle-cross-of-the-unexpected-1",
+  "cross of unexpected 1": "incarnation-crosses/right-angle-cross-of-the-unexpected-1",
+  "right angle cross of unexpected 2": "incarnation-crosses/right-angle-cross-of-the-unexpected-2",
+  "cross of unexpected 2": "incarnation-crosses/right-angle-cross-of-the-unexpected-2",
+  "right angle cross of unexpected 3": "incarnation-crosses/right-angle-cross-of-the-unexpected-3",
+  "cross of unexpected 3": "incarnation-crosses/right-angle-cross-of-the-unexpected-3",
+  "right angle cross of unexpected 4": "incarnation-crosses/right-angle-cross-of-the-unexpected-4",
+  "cross of unexpected 4": "incarnation-crosses/right-angle-cross-of-the-unexpected-4",
+  "left angle cross of unexpected 1": "incarnation-crosses/left-angle-cross-of-the-unexpected-1",
+  "left angle cross of unexpected 2": "incarnation-crosses/left-angle-cross-of-the-unexpected-2",
+  "left angle cross of unexpected 3": "incarnation-crosses/left-angle-cross-of-the-unexpected-3",
+  "left angle cross of unexpected 4": "incarnation-crosses/left-angle-cross-of-the-unexpected-4",
+  "juxtaposition cross of unexpected 1": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-1",
+  "juxtaposition cross of unexpected 2": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-2",
+  "juxtaposition cross of unexpected 3": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-3",
+  "juxtaposition cross of unexpected 4": "incarnation-crosses/juxtaposition-cross-of-the-unexpected-4",
+  "right angle cross of four ways 1": "incarnation-crosses/right-angle-cross-of-the-four-ways-1",
+  "cross of four ways 1": "incarnation-crosses/right-angle-cross-of-the-four-ways-1",
+  "right angle cross of four ways 2": "incarnation-crosses/right-angle-cross-of-the-four-ways-2",
+  "cross of four ways 2": "incarnation-crosses/right-angle-cross-of-the-four-ways-2",
+  "right angle cross of four ways 3": "incarnation-crosses/right-angle-cross-of-the-four-ways-3",
+  "cross of four ways 3": "incarnation-crosses/right-angle-cross-of-the-four-ways-3",
+  "right angle cross of four ways 4": "incarnation-crosses/right-angle-cross-of-the-four-ways-4",
+  "cross of four ways 4": "incarnation-crosses/right-angle-cross-of-the-four-ways-4",
+  "left angle cross of four ways 1": "incarnation-crosses/left-angle-cross-of-the-four-ways-1",
+  "left angle cross of four ways 2": "incarnation-crosses/left-angle-cross-of-the-four-ways-2",
+  "left angle cross of four ways 3": "incarnation-crosses/left-angle-cross-of-the-four-ways-3",
+  "left angle cross of four ways 4": "incarnation-crosses/left-angle-cross-of-the-four-ways-4",
+  "juxtaposition cross of four ways 1": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-1",
+  "juxtaposition cross of four ways 2": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-2",
+  "juxtaposition cross of four ways 3": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-3",
+  "juxtaposition cross of four ways 4": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-4"
+ }
+}
