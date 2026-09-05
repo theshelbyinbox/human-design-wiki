@@ -28,6 +28,12 @@ A comprehensive, navigable knowledge base for the Human Design System — synthe
 - Live site: https://theshelbyinbox.github.io/human-design-wiki
 - Local preview: `python3 -m http.server` in this folder, then open http://localhost:8000 (opening index.html directly won't load content — browsers block local fetch)
 
+## Where this repo lives
+
+`~/Developer/human-design-wiki` on local disk.
+
+Do not move it into Google Drive, Dropbox, iCloud, or any other synced folder. It lived in Google Drive until 09.05.26 and sync corrupted the git database repeatedly: `.git/HEAD` was deleted, loose objects went missing so commits failed outright, and the zero-byte `.nojekyll` file was silently removed. The source material it is written from still lives in Drive, and that is fine, because nothing there is a git repository.
+
 ## Legacy note
 
 The top-level folders (gates/, channels/, concepts/, etc.) are the original source-material markdown library and are not used by the site. The site reads only from `content/`.
