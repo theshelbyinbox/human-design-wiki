@@ -2,3 +2,5 @@
 Icon
 *.swp
 *.swo
+
+.corpus-variables/

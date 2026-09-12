@@ -1,47 +1,82 @@
 ---
 title: "Variables Overview"
 section: "Variables & PHS"
-related: ["[[Human Design System"]
+related: ["[[The Four Arrows]]", "[[The Four Transformations]]", "[[Determination]]", "[[Environment]]", "[[Perspective]]", "[[Motivation]]"]
 ---
 
 # Variables Overview
 
-Variables are an advanced layer of the [[Human Design System]] that describes the specific conditioning and expression patterns for each person's body and mind. They appear in the BodyGraph as four arrows surrounding the head and ajna centers -- two on each side -- and are derived from the color (tone substructure) of the Personality and Design Sun and Earth positions.
+Variable is the advanced layer of Human Design that describes how a particular body and a particular mind are configured to take in, process and orient awareness. It appears in the BodyGraph as four arrows at the top of the chart, each pointing either left or right, and it is derived from the substructure that sits beneath gate and line.
+
+Variable does not replace Type, Strategy, Authority or Profile, and it is not a shortcut around them. Ra Uru Hu was explicit that Strategy and Authority are the catalyst and the precondition: "first the catalyzation and then you enter into the variable itself." Attempting to work with Variable before that foundation is established produces labels rather than transformation.
+
+This page is the front door to the section. The mechanics are set out in full in [[The Four Arrows]], and the process the arrows describe is set out in [[The Four Transformations]].
+
+## Where Variable Comes From
+
+Beneath each activated gate and line sit three further layers: colour, tone and base. Variable is read from the first two.
+
+Colour gives the four arrow categories:
+
+- [[Determination]], from the Design Sun and Earth colour
+- [[Environment]], from the Design Nodes colour
+- [[Motivation]], from the Personality Sun and Earth colour
+- [[Perspective]], from the Personality Nodes colour
+
+Tone gives [[Cognition]], the senses as modes of knowing, and tone is also what decides which way each arrow points. Ra: "It's tone that establishes whether something is to the left or something is to the right."
+
+Because Variable is read this deep into the substructure, it depends on an accurate birth time. Small differences in recorded time can change an arrow's direction.
 
 ## The Four Arrows
 
-The four arrows are grouped into two pairs:
+- Top left: [[Determination]]. Active on the left, passive on the right. Body side.
+- Top right: [[Motivation]]. Strategic on the left, receptive on the right. Mind side.
+- Bottom left: [[Environment]]. Body side.
+- Bottom right: [[Perspective]]. Focused on the left, peripheral on the right. Mind side.
 
-**Right-side arrows (top and bottom right)**:
-- **Top right**: Governs the nature of the Personality (mind) -- whether the mind is active or receptive in orientation.
-- **Bottom right**: Governs the nature of the Design (body) -- specifically the primary health system (PHS), which describes how the body best takes in food and information.
+The two left-hand arrows belong to the Design, the body side. The two right-hand arrows belong to the Personality, the mind side.
 
-**Left-side arrows (top and bottom left)**:
-- **Top left**: Governs the person's Motivation -- the underlying drive that shapes their relationship to truth and how they engage with mind.
-- **Bottom left**: Governs the person's Environment -- the type of physical environment that best supports the body's correct functioning.
+Left is not superior to right. Ra described the distinction in terms of mode rather than rank: "the difference between being strategic, which is left, and being receptive, which is right, being active which is left, being passive, which is right, being focused, which is left, being peripheral, which is right."
 
-Each arrow points either left (active/yang orientation) or right (passive/yin orientation), giving 16 possible combinations of the four arrows.
+Four arrows with two directions each give sixteen possible configurations.
 
-## Left and Right Orientation
+## Cognition Is Not a Fifth Arrow
 
-**Left-oriented** arrows indicate an active, single-focused, self-referencing quality. A person with left-oriented arrows in the design position tends toward directness and consistency in their approach.
+[[Cognition]] is frequently listed alongside the four categories as though it were another arrow. It is not. Cognition is read from tone, the layer beneath colour, and the position of a tone in the tonal triangle is precisely what makes an arrow point one way or the other. Cognition therefore sits underneath the whole arrow system rather than beside it. The six cognitions are Smell, Taste, Outer Vision, Inner Vision, Feeling and Touch.
 
-**Right-oriented** arrows indicate a receptive, multi-focused, other-referencing quality. A person with right-oriented arrows tends toward more fluid, contextual engagement.
+## The Chain
 
-The combination of left/right across the four positions creates the specific Variable profile. Ra Uru Hu described Variables as the most advanced layer of Human Design -- the level beyond type, strategy, authority, and profile that addresses the unique conditioning and expression needs of the individual body and mind.
+The arrows are not four independent labels. They describe a sequence in which each stage depends on the one before it. Ra put the dependency plainly:
 
-## Primary Health System (PHS)
+"If the mind does not have access to correct perspective, then the mind can never, ever, ever, ever, ever be correct. And you cannot have the correct perspective if you're not in the right place. And if you're not in the right place, and you're not eating correctly, then there is no way that you're going to go through any of these transformations."
 
-The most practically applied element of Variables is the [[PHS Diet]] -- the digestion type derived from the tone of the Design Sun/Earth. PHS describes not only how the body optimally takes in food, but how it best takes in information and environment. There are six PHS types.
+Correct nourishment supports the brain. A sound brain finds the correct environment. The correct environment makes correct seeing possible. Correct seeing gives the mind material worth working with. That is the order of [[The Four Transformations]].
 
-## Cognition
+## Transference and Distraction
 
-The top-right arrow relates to cognitive style -- how the mind best processes and operates. The six cognition types (associated with the six tones) describe the person's optimal mental environment and information-processing style.
+Under conditioning, a colour slips to its harmonic partner: one to four, two to five, three to six, and back again. At the Sun and Earth this slippage is called transference. At the nodes it is called distraction. Ra: "Transference is a movement in in a harmonic ... In a sense, one's motivation is always being pulled away ... by conditioning. This same pulling away with the nodes is called distraction."
 
-## Variables and Deconditioning
+Transference is the practical signal that something is off, which is why it is treated in detail on the [[Motivation]] and [[Perspective]] pages rather than here.
 
-Ra Uru Hu taught Variables as the "fourth line" of the deconditioning process, accessible only after a person has established a foundation in their type, strategy, authority, and profile. Attempting to apply Variables before this foundation is established is described as premature and potentially confusing.
+## Timing
+
+Cellular deconditioning takes seven years, and Variable is a long project rather than a technique. Ra also tied the two middle transformations to a specific developmental window: "It's between 30 and 50 that you establish through the environment its partner perspective and in that develop the foundation for awareness."
+
+## Pages in This Section
+
+Mechanics and process:
+
+- [[The Four Arrows]]
+- [[The Four Transformations]]
+
+The five categories:
+
+- [[Determination]], with [[PHS Diet]]
+- [[Environment]]
+- [[Perspective]]
+- [[Motivation]]
+- [[Cognition]]
 
 ## Related Articles
 
-[[Human Design System]] | [[PHS Diet]] | [[Definition Types]] | [[Deconditioning]]
+[[The Four Arrows]] | [[The Four Transformations]] | [[Determination]] | [[Environment]] | [[Perspective]] | [[Motivation]] | [[Cognition]] | [[Human Design System]] | [[Deconditioning]]

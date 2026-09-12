@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11",
+ "generated": "2026-09-12",
  "wiki": {
   "name": "Human Design Wiki",
   "tagline": "The comprehensive reference for the Human Design System — synthesized from primary sources"
@@ -2371,8 +2371,156 @@
    "title": "Energy Types",
    "section": "Energy Types"
   },
+  "variables/cognition-feeling": {
+   "title": "Cognition: Feeling",
+   "section": "Variables & PHS"
+  },
+  "variables/cognition-inner-vision": {
+   "title": "Cognition: Inner Vision",
+   "section": "Variables & PHS"
+  },
+  "variables/cognition-outer-vision": {
+   "title": "Cognition: Outer Vision",
+   "section": "Variables & PHS"
+  },
+  "variables/cognition-smell": {
+   "title": "Cognition: Smell",
+   "section": "Variables & PHS"
+  },
+  "variables/cognition-taste": {
+   "title": "Cognition: Taste",
+   "section": "Variables & PHS"
+  },
+  "variables/cognition-touch": {
+   "title": "Cognition: Touch",
+   "section": "Variables & PHS"
+  },
+  "variables/cognition": {
+   "title": "Cognition",
+   "section": "Variables & PHS"
+  },
   "variables/definition-types": {
    "title": "Definition Types",
+   "section": "Variables & PHS"
+  },
+  "variables/determination-appetite": {
+   "title": "Determination: Appetite",
+   "section": "Variables & PHS"
+  },
+  "variables/determination-light": {
+   "title": "Determination: Light",
+   "section": "Variables & PHS"
+  },
+  "variables/determination-sound": {
+   "title": "Determination: Sound",
+   "section": "Variables & PHS"
+  },
+  "variables/determination-taste": {
+   "title": "Determination: Taste",
+   "section": "Variables & PHS"
+  },
+  "variables/determination-thirst": {
+   "title": "Determination: Thirst",
+   "section": "Variables & PHS"
+  },
+  "variables/determination-touch": {
+   "title": "Determination: Touch",
+   "section": "Variables & PHS"
+  },
+  "variables/determination": {
+   "title": "Determination",
+   "section": "Variables & PHS"
+  },
+  "variables/environment-caves": {
+   "title": "Environment: Caves",
+   "section": "Variables & PHS"
+  },
+  "variables/environment-kitchens": {
+   "title": "Environment: Kitchens",
+   "section": "Variables & PHS"
+  },
+  "variables/environment-markets": {
+   "title": "Environment: Markets",
+   "section": "Variables & PHS"
+  },
+  "variables/environment-mountains": {
+   "title": "Environment: Mountains",
+   "section": "Variables & PHS"
+  },
+  "variables/environment-shores": {
+   "title": "Environment: Shores",
+   "section": "Variables & PHS"
+  },
+  "variables/environment-valleys": {
+   "title": "Environment: Valleys",
+   "section": "Variables & PHS"
+  },
+  "variables/environment": {
+   "title": "Environment",
+   "section": "Variables & PHS"
+  },
+  "variables/four-arrows": {
+   "title": "The Four Arrows",
+   "section": "Variables & PHS"
+  },
+  "variables/four-transformations": {
+   "title": "The Four Transformations",
+   "section": "Variables & PHS"
+  },
+  "variables/motivation-desire": {
+   "title": "Motivation: Desire",
+   "section": "Variables & PHS"
+  },
+  "variables/motivation-fear": {
+   "title": "Motivation: Fear",
+   "section": "Variables & PHS"
+  },
+  "variables/motivation-guilt": {
+   "title": "Motivation: Guilt",
+   "section": "Variables & PHS"
+  },
+  "variables/motivation-hope": {
+   "title": "Motivation: Hope",
+   "section": "Variables & PHS"
+  },
+  "variables/motivation-innocence": {
+   "title": "Motivation: Innocence",
+   "section": "Variables & PHS"
+  },
+  "variables/motivation-need": {
+   "title": "Motivation: Need",
+   "section": "Variables & PHS"
+  },
+  "variables/motivation": {
+   "title": "Motivation",
+   "section": "Variables & PHS"
+  },
+  "variables/perspective-personal": {
+   "title": "Perspective: Personal",
+   "section": "Variables & PHS"
+  },
+  "variables/perspective-possibility": {
+   "title": "Perspective: Possibility",
+   "section": "Variables & PHS"
+  },
+  "variables/perspective-power": {
+   "title": "Perspective: Power",
+   "section": "Variables & PHS"
+  },
+  "variables/perspective-probability": {
+   "title": "Perspective: Probability",
+   "section": "Variables & PHS"
+  },
+  "variables/perspective-survival": {
+   "title": "Perspective: Survival",
+   "section": "Variables & PHS"
+  },
+  "variables/perspective-wanting": {
+   "title": "Perspective: Wanting",
+   "section": "Variables & PHS"
+  },
+  "variables/perspective": {
+   "title": "Perspective",
    "section": "Variables & PHS"
   },
   "variables/phs-diet": {
@@ -2776,7 +2924,44 @@
   "projector": "types/projector",
   "reflector": "types/reflector",
   "energy types": "types",
+  "cognition: feeling": "variables/cognition-feeling",
+  "cognition: inner vision": "variables/cognition-inner-vision",
+  "cognition: outer vision": "variables/cognition-outer-vision",
+  "cognition: smell": "variables/cognition-smell",
+  "cognition: taste": "variables/cognition-taste",
+  "cognition: touch": "variables/cognition-touch",
+  "cognition": "variables/cognition",
   "definition types": "variables/definition-types",
+  "determination: appetite": "variables/determination-appetite",
+  "determination: light": "variables/determination-light",
+  "determination: sound": "variables/determination-sound",
+  "determination: taste": "variables/determination-taste",
+  "determination: thirst": "variables/determination-thirst",
+  "determination: touch": "variables/determination-touch",
+  "determination": "variables/determination",
+  "environment: caves": "variables/environment-caves",
+  "environment: kitchens": "variables/environment-kitchens",
+  "environment: markets": "variables/environment-markets",
+  "environment: mountains": "variables/environment-mountains",
+  "environment: shores": "variables/environment-shores",
+  "environment: valleys": "variables/environment-valleys",
+  "environment": "variables/environment",
+  "the four arrows": "variables/four-arrows",
+  "the four transformations": "variables/four-transformations",
+  "motivation: desire": "variables/motivation-desire",
+  "motivation: fear": "variables/motivation-fear",
+  "motivation: guilt": "variables/motivation-guilt",
+  "motivation: hope": "variables/motivation-hope",
+  "motivation: innocence": "variables/motivation-innocence",
+  "motivation: need": "variables/motivation-need",
+  "motivation": "variables/motivation",
+  "perspective: personal": "variables/perspective-personal",
+  "perspective: possibility": "variables/perspective-possibility",
+  "perspective: power": "variables/perspective-power",
+  "perspective: probability": "variables/perspective-probability",
+  "perspective: survival": "variables/perspective-survival",
+  "perspective: wanting": "variables/perspective-wanting",
+  "perspective": "variables/perspective",
   "phs diet (primary health system)": "variables/phs-diet",
   "variables overview": "variables/variables-overview",
   "variables & phs": "variables",
@@ -3478,6 +3663,33 @@
   "juxtaposition cross of four ways 1": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-1",
   "juxtaposition cross of four ways 2": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-2",
   "juxtaposition cross of four ways 3": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-3",
-  "juxtaposition cross of four ways 4": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-4"
+  "juxtaposition cross of four ways 4": "incarnation-crosses/juxtaposition-cross-of-the-four-ways-4",
+  "appetite": "variables/determination-appetite",
+  "thirst": "variables/determination-thirst",
+  "caves": "variables/environment-caves",
+  "kitchens": "variables/environment-kitchens",
+  "markets": "variables/environment-markets",
+  "mountains": "variables/environment-mountains",
+  "shores": "variables/environment-shores",
+  "valleys": "variables/environment-valleys",
+  "survival": "variables/perspective-survival",
+  "possibility": "variables/perspective-possibility",
+  "probability": "variables/perspective-probability",
+  "wanting": "variables/perspective-wanting",
+  "personal": "variables/perspective-personal",
+  "desire": "variables/motivation-desire",
+  "guilt": "variables/motivation-guilt",
+  "innocence": "variables/motivation-innocence",
+  "smell": "variables/cognition-smell",
+  "inner vision": "variables/cognition-inner-vision",
+  "outer vision": "variables/cognition-outer-vision",
+  "view": "variables/perspective",
+  "digestion": "variables/determination",
+  "dietary regimen": "variables/determination",
+  "strategic cognition": "variables/cognition",
+  "four arrows": "variables/four-arrows",
+  "four transformations": "variables/four-transformations",
+  "phs diet": "variables/phs-diet",
+  "primary health system": "variables/phs-diet"
  }
 }

@@ -1,7 +1,7 @@
 ---
 title: "PHS Diet (Primary Health System)"
 section: "Variables & PHS"
-related: ["[[Variables Overview"]
+related: ["[[Determination]]", "[[Variables Overview]]"]
 ---
 
 # PHS Diet (Primary Health System)
@@ -11,8 +11,6 @@ The Primary Health System (PHS) is a component of the Variables layer in [[Human
 ## Core Principle
 
 Ra Uru Hu taught that the body's digestion system is individual and specific. What is optimal for one person's body may be counterproductive for another's. The six PHS types describe different modes of engagement with food, environment, and sensory input that best support each person's physical health and cognitive clarity.
-
-"The body has its own intelligence about how to be fed correctly. That intelligence is not the same for everyone." - Ra Uru Hu (paraphrased)
 
 PHS is considered an advanced topic, best explored after establishing a foundation in type, strategy, authority, and profile.
 
@@ -50,4 +48,4 @@ Ra Uru Hu positioned PHS as one of the most direct paths to physical health impr
 
 ## Related Articles
 
-[[Variables Overview]] | [[Human Design System]] | [[Splenic Center]]
+[[Determination]] | [[Variables Overview]] | [[The Four Transformations]] | [[Cognition]] | [[Human Design System]]
