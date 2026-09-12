@@ -57,6 +57,78 @@ RULES
   not site content
 - This wiki was built with the sd-wiki-brain skill - use that skill for standards
 
+STATE AS OF 09.12.26 (third session, Planets build)
+
+PLANETS SECTION BUILT. The wiki went from no Planets section at all to 17
+articles and 29,601 words in one pass. Commit 4ee3154, pushed, Pages build
+confirmed on that sha, live content fetched and checked.
+
+What landed, all in content/planets/ plus content/planets.md as the index:
+- planets-overview, the thirteen, what does not activate a gate, why planets
+  imprint at all, fast versus slow, exaltation and detriment
+- design-and-personality, the two calculations, the 88 degrees of solar arc,
+  red and black, the two Crystals of Consciousness
+- planetary-returns, Solar/Rave Return, Saturn Return, Uranus opposition,
+  Kiron Return
+- one article each for Sun, Earth, Moon, North Node, South Node, Mercury,
+  Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto
+
+NAMING, and why it matters for the binder:
+Titles are the BARE planet names ("Sun", "Pluto", "North Node"). Every one was
+checked against manifest.json and aliases.json first and there were zero
+collisions, so nothing was aliased and nothing was shadowed. The binder's Who
+Has What resolves a planet by looking up the lowercase name, so all thirteen
+should light up with no binder-side change and no alias work. That is the
+opposite of the Variables situation, which needed qualified titles. Verified
+live: wikilinkMap has sun -> planets/sun, pluto -> planets/pluto, north node ->
+planets/north-node.
+
+SOURCE HANDLING, worth carrying into the next section:
+- Keynotes came from two authorities that do not always agree: the Jovian
+  Human Design Dictionary and the Definitive Book's table of the thirteen
+  celestial bodies as teachers. Where they differ, BOTH are given. Venus is
+  "Values and Relating" in one and "Values/Sociology" in the other. Uranus is
+  "Unusualness, Chaos, and Innovation" versus "Unusualness/Chaos and
+  Order/Science". Neptune is "(Transcendence)" versus "Art".
+- Dates that sources disagree on are given as ranges with the disagreement
+  named, never silently resolved: Saturn Return (29 / 29-31 / 28-32), Uranus
+  opposition (38-40 / 38-43 / 38-44), Pluto cycle (248 to 284 years).
+- Classical and contemporary readings are kept apart. Mars is keynoted
+  Immaturity and Energy Dynamics, with the contemporary "core wound and zone of
+  genius" reading labelled contemporary. Jupiter is Law and Protection, with
+  "blessings and abundance" labelled the same way.
+- The library contains a lot of ASTROLOGY (Genetic Matrix astrology pages, Gene
+  Keys). None of it was imported. No signs, houses, rulerships or aspects
+  appear anywhere in the section. Orbital periods were taken as plain fact.
+- Ra's own material contradicts itself once: the Ra.TV "Nodes of the Moon"
+  lecture calls the Nodes "the apogee and the perigee", which is astronomically
+  a different thing from the ecliptic crossings the dictionary defines. The
+  south-node article quotes both and does not adjudicate; north-node uses the
+  dictionary definition and leaves the apogee line out. Flagged, not fixed.
+
+VERIFICATION DONE THIS PASS
+- verify content: 445 files, 0 with problems.
+- An independent quote audit ran all 341 quotations in the section against the
+  live library, normalised to survive OCR spacing. 322 matched verbatim. The
+  remainder are scanning artifacts in the Definitive Book PDF where the wording
+  IS verbatim: chart-column numbers interleaved mid-sentence, "whee1" for
+  "wheel", "1heJudge" for "The Judge".
+- Two real defects were caught by that audit and fixed before commit: a dropped
+  "however" inside the Kiron quote in planets-overview, and a quotation of the
+  Design calculation definition whose source OCR reads "SW1" where it means
+  "Sun". Repairing a WORD inside quote marks is not allowed, so that one is now
+  stated outside quotation. Run this audit on every future section.
+
+CORPUS TOOLING, kept in .corpus-planets/ (gitignored)
+- mine_planets.py, the fixed miner pattern from the Variables session: sliding
+  window over long paragraphs, OSError retry for Drive, explicit read-failure
+  count. It reported 0 read failures over 1,870 files.
+- bundle_planets.py, whole primary documents per planet.
+- audit_quotes.py, the quotation audit described above. Reusable as is: point
+  it at a different content folder.
+- diagnose.py and showsrc.py, for telling an OCR artifact apart from a real
+  alteration when the audit reports a miss.
+
 STATE AS OF 09.12.26 (second session, cleanup pass)
 
 Whole-wiki cleanup landed. `verify content` went from 344 of 428 files with
@@ -131,7 +203,18 @@ prose links elsewhere in the wiki.
 
 STILL OPEN
 
-1. SIDEBAR NAV is DONE. Approved in chat and applied 09.12.26 (commit 906e221).
+0. PLANETS SIDEBAR NAV is NOT APPLIED and needs Shelby's approval. The 17
+   Planets articles are reachable by link and search but are not in the curated
+   sidebar, so build.js now reports 210 unlisted articles rather than 194. The
+   proposed nav is a new "planets" section, placed after variables, with four
+   dividers (Start Here, Sun and Earth, The Nodes, The Personal Planets, The
+   Slow Planets) in the same shape as content/planets.md. Apply it the way the
+   Variables nav was applied: a script modelled on .corpus-variables/apply_nav.py
+   that asserts every key exists, asserts section order is unchanged, and
+   asserts every other section is byte-identical afterwards. Do not bulk-append
+   with --add-nav.
+
+1. SIDEBAR NAV for VARIABLES is DONE. Approved in chat and applied 09.12.26 (commit 906e221).
    The Variables section now has 47 entries: seven dividers (Start Here, the five
    categories, Also Here) and 40 articles, with values numbered 1 to 6. No other
    nav section was touched. 194 articles elsewhere in the wiki are still
