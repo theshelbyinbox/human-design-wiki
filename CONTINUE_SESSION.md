@@ -203,16 +203,21 @@ prose links elsewhere in the wiki.
 
 STILL OPEN
 
-0. PLANETS SIDEBAR NAV is NOT APPLIED and needs Shelby's approval. The 17
-   Planets articles are reachable by link and search but are not in the curated
-   sidebar, so build.js now reports 210 unlisted articles rather than 194. The
-   proposed nav is a new "planets" section, placed after variables, with four
-   dividers (Start Here, Sun and Earth, The Nodes, The Personal Planets, The
-   Slow Planets) in the same shape as content/planets.md. Apply it the way the
-   Variables nav was applied: a script modelled on .corpus-variables/apply_nav.py
-   that asserts every key exists, asserts section order is unchanged, and
-   asserts every other section is byte-identical afterwards. Do not bulk-append
-   with --add-nav.
+0. PLANETS SIDEBAR NAV is DONE. Approved in chat and applied 09.12.26
+   (commit 133c241). The Planets section has 21 entries: five dividers (Start
+   Here, Sun and Earth, The Nodes, The Personal Planets, The Slow Planets) and
+   all 16 articles, in the same shape as content/planets.md. It sits after
+   Variables. Applied with .corpus-planets/apply_planets_nav.py, which asserts
+   before writing that every key is a real article, that the nav covers the
+   section exactly once, that no planets section already existed, that section
+   order is only extended, and that every other nav section plus the articles
+   and wikilink maps are byte-identical afterwards. All assertions passed and
+   the manifest diff was purely additive, 85 lines added and 0 removed.
+   build.js is back to reporting 194 unlisted articles, the long-standing
+   curated number. Live manifest.json confirmed byte-identical to local.
+   Note: the GitHub Pages builds API lagged and kept reporting the previous
+   sha after this push. Do not trust that field alone; compare the served
+   bytes, which is what confirmed the deploy.
 
 1. SIDEBAR NAV for VARIABLES is DONE. Approved in chat and applied 09.12.26 (commit 906e221).
    The Variables section now has 47 entries: seven dividers (Start Here, the five
