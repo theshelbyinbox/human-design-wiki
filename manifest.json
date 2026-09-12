@@ -808,12 +808,181 @@
    "label": "Variables & PHS",
    "articles": [
     {
+     "divider": "Start Here"
+    },
+    {
      "key": "variables/variables-overview",
      "label": "Variables Overview"
     },
     {
+     "key": "variables/four-arrows",
+     "label": "The Four Arrows"
+    },
+    {
+     "key": "variables/four-transformations",
+     "label": "The Four Transformations"
+    },
+    {
+     "divider": "Determination"
+    },
+    {
+     "key": "variables/determination",
+     "label": "Determination (Overview)"
+    },
+    {
      "key": "variables/phs-diet",
      "label": "PHS & Diet"
+    },
+    {
+     "key": "variables/determination-appetite",
+     "label": "1. Appetite"
+    },
+    {
+     "key": "variables/determination-taste",
+     "label": "2. Taste"
+    },
+    {
+     "key": "variables/determination-thirst",
+     "label": "3. Thirst"
+    },
+    {
+     "key": "variables/determination-touch",
+     "label": "4. Touch"
+    },
+    {
+     "key": "variables/determination-sound",
+     "label": "5. Sound"
+    },
+    {
+     "key": "variables/determination-light",
+     "label": "6. Light"
+    },
+    {
+     "divider": "Environment"
+    },
+    {
+     "key": "variables/environment",
+     "label": "Environment (Overview)"
+    },
+    {
+     "key": "variables/environment-caves",
+     "label": "1. Caves"
+    },
+    {
+     "key": "variables/environment-markets",
+     "label": "2. Markets"
+    },
+    {
+     "key": "variables/environment-kitchens",
+     "label": "3. Kitchens"
+    },
+    {
+     "key": "variables/environment-mountains",
+     "label": "4. Mountains"
+    },
+    {
+     "key": "variables/environment-valleys",
+     "label": "5. Valleys"
+    },
+    {
+     "key": "variables/environment-shores",
+     "label": "6. Shores"
+    },
+    {
+     "divider": "Perspective"
+    },
+    {
+     "key": "variables/perspective",
+     "label": "Perspective (Overview)"
+    },
+    {
+     "key": "variables/perspective-survival",
+     "label": "1. Survival"
+    },
+    {
+     "key": "variables/perspective-possibility",
+     "label": "2. Possibility"
+    },
+    {
+     "key": "variables/perspective-power",
+     "label": "3. Power"
+    },
+    {
+     "key": "variables/perspective-wanting",
+     "label": "4. Wanting"
+    },
+    {
+     "key": "variables/perspective-probability",
+     "label": "5. Probability"
+    },
+    {
+     "key": "variables/perspective-personal",
+     "label": "6. Personal"
+    },
+    {
+     "divider": "Motivation"
+    },
+    {
+     "key": "variables/motivation",
+     "label": "Motivation (Overview)"
+    },
+    {
+     "key": "variables/motivation-fear",
+     "label": "1. Fear"
+    },
+    {
+     "key": "variables/motivation-hope",
+     "label": "2. Hope"
+    },
+    {
+     "key": "variables/motivation-desire",
+     "label": "3. Desire"
+    },
+    {
+     "key": "variables/motivation-need",
+     "label": "4. Need"
+    },
+    {
+     "key": "variables/motivation-guilt",
+     "label": "5. Guilt"
+    },
+    {
+     "key": "variables/motivation-innocence",
+     "label": "6. Innocence"
+    },
+    {
+     "divider": "Cognition"
+    },
+    {
+     "key": "variables/cognition",
+     "label": "Cognition (Overview)"
+    },
+    {
+     "key": "variables/cognition-smell",
+     "label": "1. Smell"
+    },
+    {
+     "key": "variables/cognition-taste",
+     "label": "2. Taste"
+    },
+    {
+     "key": "variables/cognition-outer-vision",
+     "label": "3. Outer Vision"
+    },
+    {
+     "key": "variables/cognition-inner-vision",
+     "label": "4. Inner Vision"
+    },
+    {
+     "key": "variables/cognition-feeling",
+     "label": "5. Feeling"
+    },
+    {
+     "key": "variables/cognition-touch",
+     "label": "6. Touch"
+    },
+    {
+     "divider": "Also Here"
     },
     {
      "key": "variables/definition-types",
