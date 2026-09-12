@@ -44,4 +44,4 @@ The Cross of Tension carries the generative tension between depth and chaos -- t
 
 ## Related
 
-[[Incarnation Cross Overview]] | [[The Four Quarters]] | [[Strategy]] | [[Inner Authority]]
+[[Incarnation Cross Overview]] | [[Quarters|The Four Quarters]] | [[Strategy]] | [[Inner Authority]]

@@ -10,7 +10,7 @@ Conditioning is the process through which a person's undefined or open centers a
 
 ## Mechanism of Conditioning
 
-The [[BodyGraph]] contains nine centers. Centers that are not defined in a person's chart are open and receptive to definition from outside. When another person with a defined center enters the aura of someone with that same center undefined, the undefined center becomes temporarily defined and amplified. This amplification is often more intense than anything the person generates on their own.
+The [[Nine Centers|BodyGraph]] contains nine centers. Centers that are not defined in a person's chart are open and receptive to definition from outside. When another person with a defined center enters the aura of someone with that same center undefined, the undefined center becomes temporarily defined and amplified. This amplification is often more intense than anything the person generates on their own.
 
 "These open centers are receptors. They are receptors to anything that can hook them up." - Ra Uru Hu
 

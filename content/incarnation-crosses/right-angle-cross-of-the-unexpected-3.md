@@ -6,42 +6,42 @@ related: []
 
 # Right Angle Cross of the Unexpected 3
 
-The Right Angle Cross of the Unexpected 3 is the cross of the risk-taker — the carrier who finds their purpose by walking into the struggle the rest of the room is avoiding. The Personality Sun sits in Gate 28, the Game Player, and the carrier lives in the Quarter of Duality with a life shaped around the question is this worth dying for. The answer is built from inside experience, not from outside agreement.
+The Right Angle Cross of the Unexpected 3 is the cross of the risk-taker -- the carrier who finds their purpose by walking into the struggle the rest of the room is avoiding. The Personality Sun sits in Gate 28, the Game Player, and the carrier lives in the Quarter of Duality with a life shaped around the question is this worth dying for. The answer is built from inside experience, not from outside agreement.
 
-Ra Uru Hu placed this cross at a particular hinge of the bonded quarter. "There is only one gate in this quarter that knows anything about relationship; the 28th gate, Preponderance of the Great." The Unexpected 3 carrier is the one who brings the awareness of risk into the bonded life — and the cross of the Unexpected guarantees that the risks will not be the ones the carrier planned for. They will be unexpected. They will arrive when the carrier was sure the road was clear.
+Ra Uru Hu placed this cross at a particular hinge of the bonded quarter. "There is only one gate in this quarter that knows anything about relationship; the 28th gate, Preponderance of the Great." The Unexpected 3 carrier is the one who brings the awareness of risk into the bonded life -- and the cross of the Unexpected guarantees that the risks will not be the ones the carrier planned for. They will be unexpected. They will arrive when the carrier was sure the road was clear.
 
 ## Mechanics
 
-- **Personality Sun:** Gate 28 — Preponderance of the Great (The Game Player)
-- **Personality Earth:** Gate 27 — Nourishment / Caring
-- **Design Sun:** Gate 41 — Decrease / Contraction
-- **Design Earth:** Gate 31 — Influence
+- **Personality Sun:** Gate 28 -- Preponderance of the Great (The Game Player)
+- **Personality Earth:** Gate 27 -- Nourishment / Caring
+- **Design Sun:** Gate 41 -- Decrease / Contraction
+- **Design Earth:** Gate 31 -- Influence
 - **Quarter:** Quarter of Duality (Realm of Jupiter, Purpose of Bonding)
-- **Angle:** Right Angle — Personal Destiny
+- **Angle:** Right Angle -- Personal Destiny
 
-The Personality axis 28–27 is the consciousness: the splenic game player partnered with the tribal caring gate. The Design axis 41–31 is the body's vehicle: the contracted starting pressure of all human experience and the voice of leadership it produces.
+The Personality axis 28-27 is the consciousness: the splenic game player partnered with the tribal caring gate. The Design axis 41-31 is the body's vehicle: the contracted starting pressure of all human experience and the voice of leadership it produces.
 
 ## The Four Gates
 
-### Gate 28 (Personality Sun) — The Game Player
+### Gate 28 (Personality Sun) -- The Game Player
 
 The conscious purpose. Gate 28 is the splenic gate of struggle, the part of integration that asks whether a purpose is worth the risk of one's life. As the lead of this cross it gives the carrier a life-long instruction to engage purpose at the level where the stakes are real. The Game Player is not reckless; the Game Player is willing. The carrier is here to take the risks the bonded community needs taken on its behalf.
 
-### Gate 27 (Personality Earth) — Nourishment
+### Gate 27 (Personality Earth) -- Nourishment
 
-The ground beneath the risk-taking. Gate 27 is the sacral gate of caring. As the Earth of this cross it keeps the Game Player tethered to what matters — the people, the children, the resources that are being protected through the risk. Without the 27 the 28 becomes empty thrill-seeking; with it the risk is in service of nourishment.
+The ground beneath the risk-taking. Gate 27 is the sacral gate of caring. As the Earth of this cross it keeps the Game Player tethered to what matters -- the people, the children, the resources that are being protected through the risk. Without the 27 the 28 becomes empty thrill-seeking; with it the risk is in service of nourishment.
 
-### Gate 41 (Design Sun) — Decrease
+### Gate 41 (Design Sun) -- Decrease
 
-The unconscious root pressure. Gate 41 is the seed of every new experiential direction. The body of this carrier keeps generating contracted starting points — small longings, fantasies, urges — from which the next round of risk emerges. The 41 is what keeps the Game Player supplied with new games to play.
+The unconscious root pressure. Gate 41 is the seed of every new experiential direction. The body of this carrier keeps generating contracted starting points -- small longings, fantasies, urges -- from which the next round of risk emerges. The 41 is what keeps the Game Player supplied with new games to play.
 
-### Gate 31 (Design Earth) — Influence
+### Gate 31 (Design Earth) -- Influence
 
 The unconscious leadership ground. Gate 31 is the projected voice of leadership. Beneath the conscious risk-taking, the body of this carrier has been built to be looked to. Other people watch this carrier take the risk and follow the example. The 31 is what makes the Game Player's struggle politically meaningful even when no political claim was intended.
 
 ## The Quarter Theme
 
-The Quarter of Duality is the realm of bonding. Its purpose is to build the relationships, partnerships, and tribal alliances that hold human life together at the body level. Gate 28 is the one gate in this quarter that names the cost of bonding — the fact that loving something means risking it. The Unexpected 3 carrier contributes to the bonded quarter by being the one who walks toward the risk and demonstrates that purpose is found through the willingness to lose.
+The Quarter of Duality is the realm of bonding. Its purpose is to build the relationships, partnerships, and tribal alliances that hold human life together at the body level. Gate 28 is the one gate in this quarter that names the cost of bonding -- the fact that loving something means risking it. The Unexpected 3 carrier contributes to the bonded quarter by being the one who walks toward the risk and demonstrates that purpose is found through the willingness to lose.
 
 ## The Angle Expression
 

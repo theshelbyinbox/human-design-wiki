@@ -44,4 +44,4 @@ The Cross of Explanation carries the frequency of individual breakthrough becomi
 
 ## Related
 
-[[Incarnation Cross Overview]] | [[The Four Quarters]] | [[Strategy]] | [[Inner Authority]]
+[[Incarnation Cross Overview]] | [[Quarters|The Four Quarters]] | [[Strategy]] | [[Inner Authority]]

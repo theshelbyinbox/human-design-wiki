@@ -44,4 +44,4 @@ The Cross of Penetration carries the individual initiative that shocks the triba
 
 ## Related
 
-[[Incarnation Cross Overview]] | [[The Four Quarters]] | [[Strategy]] | [[Inner Authority]]
+[[Incarnation Cross Overview]] | [[Quarters|The Four Quarters]] | [[Strategy]] | [[Inner Authority]]

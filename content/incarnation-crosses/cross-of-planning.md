@@ -44,4 +44,4 @@ The Cross of Planning was the carrier frequency of the 400-year tribal era -- th
 
 ## Related
 
-[[Incarnation Cross Overview]] | [[The Four Quarters]] | [[Strategy]] | [[Inner Authority]]
+[[Incarnation Cross Overview]] | [[Quarters|The Four Quarters]] | [[Strategy]] | [[Inner Authority]]

@@ -14,19 +14,19 @@ Strategy does not operate through mental planning or deliberate intention. It is
 
 There is one Strategy per type, with the Manifesting Generator carrying a hybrid of two. Each Strategy addresses a specific challenge in how that type's aura meets the world.
 
-- **[[Respond]]** — for [[Generator]] and [[Manifesting Generator]]; wait for life to present something, then check the sacral response.
-- **[[Inform]]** — for [[Manifestor]] (and the second half of the Manifesting Generator strategy); notify those who will be impacted before acting.
-- **[[Wait for the Invitation]]** — for [[Projector]]; wait for formal recognition before entering significant life situations.
-- **[[Wait the Lunar Cycle]]** — for [[Reflector]]; wait 28 days for the Moon to transit all 64 gates before deciding.
+- **[[Respond]]** -- for [[Generator]] and [[Manifesting Generator]]; wait for life to present something, then check the sacral response.
+- **[[Inform]]** -- for [[Manifestor]] (and the second half of the Manifesting Generator strategy); notify those who will be impacted before acting.
+- **[[Wait for the Invitation]]** -- for [[Projector]]; wait for formal recognition before entering significant life situations.
+- **[[Wait the Lunar Cycle]]** -- for [[Reflector]]; wait 28 days for the Moon to transit all 64 gates before deciding.
 
 ## Strategy Is About Decision-Making
 
-Ra Uru Hu framed the entire Human Design experiment as a navigation problem. We are objects moving in space, and how we move — what we say yes to, what we say no to, what we wait for — defines whether we are living our own life or someone else's.
+Ra Uru Hu framed the entire Human Design experiment as a navigation problem. We are objects moving in space, and how we move -- what we say yes to, what we say no to, what we wait for -- defines whether we are living our own life or someone else's.
 
 > "It's about decision-making. This is the whole thing to really grasp about strategy and authority: it's about making a decision. It isn't about anything else."
-> — Ra Uru Hu
+> -- Ra Uru Hu
 
-The mind is not the decision-maker. The mind measures, compares, and runs pro/con lists, but those tools, applied to decisions, route a person through their open centers and into the [[Not-Self]]. Strategy is what bypasses this. It anchors the decision in the body's mechanical response — the sacral sound, the emotional wave, the splenic hit, the lunar cycle — rather than in mental analysis.
+The mind is not the decision-maker. The mind measures, compares, and runs pro/con lists, but those tools, applied to decisions, route a person through their open centers and into the [[Not-Self]]. Strategy is what bypasses this. It anchors the decision in the body's mechanical response -- the sacral sound, the emotional wave, the splenic hit, the lunar cycle -- rather than in mental analysis.
 
 ## How Strategy Differs from Authority
 

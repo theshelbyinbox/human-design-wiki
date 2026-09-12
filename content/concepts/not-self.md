@@ -10,7 +10,7 @@ In [[Human Design System]], the Not-Self is the identity and decision-making pat
 
 ## Mechanism
 
-Open centers in the [[BodyGraph]] receive and amplify energy from others. This amplification feels familiar and even pleasurable or powerful, because it is more intense than what the person generates themselves. Over time, the mind begins to interpret this amplified energy as the self, and builds strategies and habits around maintaining it. These mental strategies are the Not-Self in operation.
+Open centers in the [[Nine Centers|BodyGraph]] receive and amplify energy from others. This amplification feels familiar and even pleasurable or powerful, because it is more intense than what the person generates themselves. Over time, the mind begins to interpret this amplified energy as the self, and builds strategies and habits around maintaining it. These mental strategies are the Not-Self in operation.
 
 "We become what in design we call the not-self. We are attracted to what we are not. Having what we don't have becomes who we are." - Ra Uru Hu
 

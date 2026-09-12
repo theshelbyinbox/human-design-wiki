@@ -44,4 +44,4 @@ The Cross of the Vessel of Love sits at the midpoint of every quarter, forming t
 
 ## Related
 
-[[Incarnation Cross Overview]] | [[The Four Quarters]] | [[Strategy]] | [[Inner Authority]]
+[[Incarnation Cross Overview]] | [[Quarters|The Four Quarters]] | [[Strategy]] | [[Inner Authority]]

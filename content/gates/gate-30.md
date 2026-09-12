@@ -4,23 +4,23 @@ section: "Gates"
 related: []
 ---
 
-# Gate 30 — The Clinging Fire (Feelings, Desire)
+# Gate 30 -- The Clinging Fire (Feelings, Desire)
 
-Gate 30 is the gate of desire. It sits in the Solar Plexus Center as a fire that does not go out — the part of a person whose emotional wave is shaped by longing, fantasy, and the burning recognition of what they want from life. In Human Design this is called the Clinging Fire. The keynote is desire as feeling, the emotional pulse of wanting to taste everything that life has to offer. The challenge is that desire, by its nature, clings. The gate's gift and its shadow live in whether the person learns to honor the fire without being burned by it.
+Gate 30 is the gate of desire. It sits in the Solar Plexus Center as a fire that does not go out -- the part of a person whose emotional wave is shaped by longing, fantasy, and the burning recognition of what they want from life. In Human Design this is called the Clinging Fire. The keynote is desire as feeling, the emotional pulse of wanting to taste everything that life has to offer. The challenge is that desire, by its nature, clings. The gate's gift and its shadow live in whether the person learns to honor the fire without being burned by it.
 
 ## Mechanics
 
-Gate 30 is located in the [[Solar Plexus Center]], the center of emotion, awareness, and the wave. It connects downward through Gate 41 in the [[Root Center]] to form [[Channel 30/41]] — the Channel of Recognition, also called the design of focused energy. The channel belongs to the [[Collective Circuit]] in the Abstract sub-circuit. Its function is to fuel the cycle of human experience by producing the desire-pressure that initiates new tasting, new feeling, new emotional adventure.
+Gate 30 is located in the [[Solar Plexus Center]], the center of emotion, awareness, and the wave. It connects downward through Gate 41 in the [[Root Center]] to form [[Channel 30/41]] -- the Channel of Recognition, also called the design of focused energy. The channel belongs to the [[Collective Circuit]] in the Abstract sub-circuit. Its function is to fuel the cycle of human experience by producing the desire-pressure that initiates new tasting, new feeling, new emotional adventure.
 
 The transit period for Gate 30 falls roughly February 13 through 19, when the Sun moves through this position each year. The hexagram is a cusp hexagram between Aquarius and Pisces.
 
 ## The Hexagram
 
-In the I Ching, the corresponding hexagram is The Clinging Fire (Li) — fire above, fire below. The traditional reading describes the nature of fire: it produces light and warmth but requires something to cling to in order to burn. The hexagram counsels that one should let one's clarity cling to what is right, because fire that clings to corruption consumes everything it touches, while fire that clings to truth illuminates a generation. The hexagram acknowledges the inherent paradox of desire — that it must attach to objects, and that attachment to the wrong object is the source of suffering.
+In the I Ching, the corresponding hexagram is The Clinging Fire (Li) -- fire above, fire below. The traditional reading describes the nature of fire: it produces light and warmth but requires something to cling to in order to burn. The hexagram counsels that one should let one's clarity cling to what is right, because fire that clings to corruption consumes everything it touches, while fire that clings to truth illuminates a generation. The hexagram acknowledges the inherent paradox of desire -- that it must attach to objects, and that attachment to the wrong object is the source of suffering.
 
 ## What This Gate Brings
 
-The gift of Gate 30 is the fire that animates a human life. People with this gate active feel their desires deeply — for experience, for connection, for sensation, for variety, for the full spectrum of what it is to be alive. The fire generates motivation, creativity, and the willingness to pursue what most people would never reach for. Ra Uru Hu described the 30 as the gate that initiates the abstract cycle of experience: without desire, no new tasting; without new tasting, no new wisdom.
+The gift of Gate 30 is the fire that animates a human life. People with this gate active feel their desires deeply -- for experience, for connection, for sensation, for variety, for the full spectrum of what it is to be alive. The fire generates motivation, creativity, and the willingness to pursue what most people would never reach for. Ra Uru Hu described the 30 as the gate that initiates the abstract cycle of experience: without desire, no new tasting; without new tasting, no new wisdom.
 
 When this gate operates through Strategy and Authority, the desires that the person commits to are the desires that the emotional wave has confirmed over time. The fire then becomes a generative force in their life and an inspiration to others. People with healthy Gate 30 carry an unmistakable aliveness; they make other people remember that they too once wanted things, and they invite the people around them to taste life rather than spectate.
 
@@ -34,27 +34,27 @@ A third shadow is the consumption of others. Desire that clings to a person rath
 
 ## The Six Lines
 
-### Line 1 — Composure
+### Line 1 -- Composure
 
-The foundational line. The first line meets its own desires with composure rather than urgency. The fire is present but not in charge. The line knows that desire alone is not a mandate for action and that the body and the wave will tell it what to do. In shadow, composure becomes repression — the line refuses to feel the desire and the fire smolders unacknowledged.
+The foundational line. The first line meets its own desires with composure rather than urgency. The fire is present but not in charge. The line knows that desire alone is not a mandate for action and that the body and the wave will tell it what to do. In shadow, composure becomes repression -- the line refuses to feel the desire and the fire smolders unacknowledged.
 
-### Line 2 — Pragmatism
+### Line 2 -- Pragmatism
 
-The second line is the natural pragmatist about its own desires. It feels the longing and it also feels which longings can practically be met. The line is not idealistic; it is realistic. In shadow, pragmatism becomes cynicism — the line dismisses all desires as fantasy and refuses to want anything.
+The second line is the natural pragmatist about its own desires. It feels the longing and it also feels which longings can practically be met. The line is not idealistic; it is realistic. In shadow, pragmatism becomes cynicism -- the line dismisses all desires as fantasy and refuses to want anything.
 
-### Line 3 — Resignation
+### Line 3 -- Resignation
 
 The third line learns through experience the gap between imagined and actual. Each disappointment teaches the line what its fire was actually pointing toward and what was projection. In its healthy expression, this line becomes wise about desire. In shadow, the line gives up entirely and becomes resigned that wanting is pointless.
 
-### Line 4 — Burnout
+### Line 4 -- Burnout
 
 The fourth line is the line of the person who has carried their fire publicly for a long time and is exhausted. The fourth line cares about the bonds it has formed and about delivering on the desires that those bonds depend on. In shadow, the line burns out from the effort of trying to fulfill desires that were never quite its own.
 
-### Line 5 — Irony
+### Line 5 -- Irony
 
-The fifth line carries projection: others look to this line as the one whose desires will be fulfilled, the one whose fire produces results. The line's actual experience is more ironic — the fulfillment that arrives is rarely the one that was expected. In its healthy form, the line teaches others to release expectation. In shadow, the line resents the projection and stops sharing what it actually feels.
+The fifth line carries projection: others look to this line as the one whose desires will be fulfilled, the one whose fire produces results. The line's actual experience is more ironic -- the fulfillment that arrives is rarely the one that was expected. In its healthy form, the line teaches others to release expectation. In shadow, the line resents the projection and stops sharing what it actually feels.
 
-### Line 6 — Enforcement
+### Line 6 -- Enforcement
 
 The sixth line is the elder of desire. After enough cycles, the line knows which fires are worth tending. In its healthy form, the sixth line enforces discipline on its own wanting and produces a life of sustained fulfilling experience. In shadow, the line enforces discipline on the desires of others, attempting to manage what people are allowed to want, and the fire turns into authoritarian moralism.
 

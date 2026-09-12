@@ -6,36 +6,36 @@ related: []
 
 # Juxtaposition Cross of Penetration 3
 
-The Juxtaposition Cross of Penetration 3 — called by Ra Uru Hu the Juxtaposition Cross of Intuition — is the fixed-fate variant of the four-armed Cross of Penetration in the Quarter of Bonding. The same four gates — 51, 57, 53, 54 — are present, but the angle is Juxtaposition: a fixed life carried only by the 4/1 profile.
+The Juxtaposition Cross of Penetration 3 -- called by Ra Uru Hu the Juxtaposition Cross of Intuition -- is the fixed-fate variant of the four-armed Cross of Penetration in the Quarter of Bonding. The same four gates -- 51, 57, 53, 54 -- are present, but the angle is Juxtaposition: a fixed life carried only by the 4/1 profile.
 
 The Juxtaposition Intuition carrier is the embodied function of intuitive penetration itself. They are not here to discover that they have intuition; they are intuition, fixed in the role. Their entire life is the fixed task of delivering the gentle penetrating awareness that the 57th gate carries, into the specific 4/1 network of their bonded life.
 
 ## Mechanics
 
-- **Personality Sun:** Gate 57 — The Gentle / Intuition
-- **Personality Earth:** Gate 51 — Shock / The Arousing
-- **Design Sun:** Gate 53 — Development / Beginnings
-- **Design Earth:** Gate 54 — The Marrying Maiden / Ambition
+- **Personality Sun:** Gate 57 -- The Gentle / Intuition
+- **Personality Earth:** Gate 51 -- Shock / The Arousing
+- **Design Sun:** Gate 53 -- Development / Beginnings
+- **Design Earth:** Gate 54 -- The Marrying Maiden / Ambition
 - **Quarter:** Quarter of Duality (Realm of Jupiter, Purpose of Bonding)
-- **Angle:** Juxtaposition — Fixed Fate
+- **Angle:** Juxtaposition -- Fixed Fate
 
 The Personality axis 57↔51 carries the conscious life of intuitive awareness grounded in the heart-line ego. The Design axis 53↔54 carries the unconscious vehicle of starting cycles and tribal ambition. The Juxtaposition angle fixes the carrier in the role of the intuitive penetrator.
 
 ## The Four Gates
 
-### Gate 57 (Personality Sun) — The Gentle, Intuition
+### Gate 57 (Personality Sun) -- The Gentle, Intuition
 
-The 57 is the fixed gate. The Juxtaposition Intuition carrier is here to be the splenic voice that reads the present and penetrates whatever conditioning is in the way of the real moment. The 57 operates in connection to three channels — 20, 34, and 10 — and the carrier's fixed life is built around the awareness that arrives through these connections.
+The 57 is the fixed gate. The Juxtaposition Intuition carrier is here to be the splenic voice that reads the present and penetrates whatever conditioning is in the way of the real moment. The 57 operates in connection to three channels -- 20, 34, and 10 -- and the carrier's fixed life is built around the awareness that arrives through these connections.
 
-### Gate 51 (Personality Earth) — Shock, The Arousing
+### Gate 51 (Personality Earth) -- Shock, The Arousing
 
 Gate 51 grounds the gentle in the heart-line ego. The fixed intuition needs courage to deliver. The 51 supplies the courage that makes the awareness speakable.
 
-### Gate 53 (Design Sun) — Development, Beginnings
+### Gate 53 (Design Sun) -- Development, Beginnings
 
 The unconscious pressure to begin. The body's foundation is the starting engine. The intuitive readings often arrive at the beginning of a new cycle.
 
-### Gate 54 (Design Earth) — The Marrying Maiden, Ambition
+### Gate 54 (Design Earth) -- The Marrying Maiden, Ambition
 
 The unconscious upward ambition. The vehicle's foundation is the drive to rise. The intuitive penetrator's body is structurally aimed upward, even when the gentle awareness reads the room as a request for stillness.
 
@@ -61,7 +61,7 @@ Juxtaposition Crosses manifest only through the 4/1 profile. The Juxtaposition I
 
 The signature of the cross lived correctly is bonded life operating on real awareness. The signature of the not-self is the carrier whose splenic voice has been silenced by the mind and whose intimate field has been navigated by mental analysis with chronic uncertainty. The work is to let the gentle penetrate.
 
-When the carrier honors the design, they become what bonding requires: the fixed intuitive penetrator of a specific 4/1 network. Lived correctly, Juxtaposition Penetration 3 is the cross of the embodied splenic voice — the one whose entire life is the delivery of present-moment awareness to the people they are bonded to.
+When the carrier honors the design, they become what bonding requires: the fixed intuitive penetrator of a specific 4/1 network. Lived correctly, Juxtaposition Penetration 3 is the cross of the embodied splenic voice -- the one whose entire life is the delivery of present-moment awareness to the people they are bonded to.
 
 ## The Fixed Nature of the Juxtaposition
 
@@ -69,8 +69,8 @@ The Juxtaposition Cross is the most precisely defined of the three angle types. 
 
 For the carrier this means a particular kind of structural certainty: the awareness is real, the function is fixed, and the fixed task is to allow the awareness to do its work. The fear of inadequacy that the mind invents around intuitive readings is the universal trap of the not-self for this cross. The body knows. The fixed task is to allow the body's knowing to be delivered.
 
-Ra Uru Hu spoke of the 57 as the gate whose gentleness goes deepest of all. For the Juxtaposition Intuition carrier, this gentleness is the working signature of the entire life. They do not penetrate with force. They penetrate with awareness — the awareness that reads the present and speaks once. The bonded field is changed because the awareness arrived correctly.
+Ra Uru Hu spoke of the 57 as the gate whose gentleness goes deepest of all. For the Juxtaposition Intuition carrier, this gentleness is the working signature of the entire life. They do not penetrate with force. They penetrate with awareness -- the awareness that reads the present and speaks once. The bonded field is changed because the awareness arrived correctly.
 
 ## Related
 
-[[Gate 51]] | [[Gate 53]] | [[Gate 54]] | [[Gate 57]] | [[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Quarter of Duality]] | [[Juxtaposition]]
+[[Gate 51]] | [[Gate 53]] | [[Gate 54]] | [[Gate 57]] | [[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Quarters|Quarter of Duality]] | [[Angles Overview|Juxtaposition]]

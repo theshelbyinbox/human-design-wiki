@@ -6,7 +6,7 @@ related: []
 
 # Right Angle Cross of Laws 4
 
-The Right Angle Cross of Laws 4 sits in the Quarter of Mutation, with the Personality Sun anchored in [[Gate 60]] — Limitation, the gate of Acceptance. The classical theme of this cross, summarized in the master list as "acceptance of limitation — the mutative law that breaks through what cannot change," makes Laws 4 the cross of the carrier who lives the deepest paradox of the Cross of Laws: that the limitation itself is the law that allows mutation. Ra Uru Hu's signature teaching on the 60 was "by accepting limitation, it can be transcended." The Laws 4 Right Angle carrier is here to live that teaching as the practical organizing principle of their incarnation.
+The Right Angle Cross of Laws 4 sits in the Quarter of Mutation, with the Personality Sun anchored in [[Gate 60]] -- Limitation, the gate of Acceptance. The classical theme of this cross, summarized in the master list as "acceptance of limitation -- the mutative law that breaks through what cannot change," makes Laws 4 the cross of the carrier who lives the deepest paradox of the Cross of Laws: that the limitation itself is the law that allows mutation. Ra Uru Hu's signature teaching on the 60 was "by accepting limitation, it can be transcended." The Laws 4 Right Angle carrier is here to live that teaching as the practical organizing principle of their incarnation.
 
 ## Mechanics
 
@@ -19,19 +19,19 @@ The Right Angle Cross of Laws 4 sits in the Quarter of Mutation, with the Person
 - Quarter: Quarter of Mutation (Realm of the Godhead)
 - Realm Purpose: Transformation
 - Mystical Theme: Accepting Death
-- Angle Expression: Right Angle — personal destiny
+- Angle Expression: Right Angle -- personal destiny
 
 ## The Four Gates
 
 ### Gate 60 (Personality Sun)
 
-[[Gate 60]] is the adrenal gate of Limitation. It sits in the [[Root]] in the [[Individual Circuit]] Knowing stream and forms, with [[Gate 3]], the Channel of Mutation. Ra Uru Hu's deepest teaching of the 60 was that limitation is not punishment but the condition under which transformation becomes possible. The pulse of the 60 is not a continuous current; it turns on and off, and mutation can only occur during the on-phases inside the specific constraints of the carrier's actual life.
+[[Gate 60]] is the adrenal gate of Limitation. It sits in the [[Root Center|Root]] in the [[Individual Circuit]] Knowing stream and forms, with [[Gate 3]], the Channel of Mutation. Ra Uru Hu's deepest teaching of the 60 was that limitation is not punishment but the condition under which transformation becomes possible. The pulse of the 60 is not a continuous current; it turns on and off, and mutation can only occur during the on-phases inside the specific constraints of the carrier's actual life.
 
 In the Personality Sun, the 60 makes the carrier's conscious life a continuous engagement with limitation. The carrier wakes up under the pulse-pressure and goes to sleep under it. The work is to accept the constraints of the moment so deeply that, when the pulse turns on, mutation lifts off cleanly.
 
 ### Gate 56 (Personality Earth)
 
-[[Gate 56]] grounds the 60 Sun in the throat-center capacity for storytelling. The Earth is what the Sun stands on. The carrier's life of accepted limitation is rooted in narrative — the stories the carrier tells about the limitations are part of what allows the limitations to be inhabited correctly. The wandering, stimulating voice of the 56 makes the 60's acceptance communicable rather than merely private.
+[[Gate 56]] grounds the 60 Sun in the throat-center capacity for storytelling. The Earth is what the Sun stands on. The carrier's life of accepted limitation is rooted in narrative -- the stories the carrier tells about the limitations are part of what allows the limitations to be inhabited correctly. The wandering, stimulating voice of the 56 makes the 60's acceptance communicable rather than merely private.
 
 ### Gate 50 (Design)
 
@@ -43,15 +43,15 @@ In the Personality Sun, the 60 makes the carrier's conscious life a continuous e
 
 ## The Quarter Theme
 
-The Quarter of Mutation, the Realm of the Godhead, channels purpose through Transformation. Its mystical theme is Accepting Death — the recognition that mutation requires the death of the old form before the new can emerge. The Laws cross in this quarter is the cross of the mutative law itself — the law of limitation through which mutation actually occurs.
+The Quarter of Mutation, the Realm of the Godhead, channels purpose through Transformation. Its mystical theme is Accepting Death -- the recognition that mutation requires the death of the old form before the new can emerge. The Laws cross in this quarter is the cross of the mutative law itself -- the law of limitation through which mutation actually occurs.
 
-Ra was explicit about the four arms of the Cross of Laws: Laws 1 in Quarter 1 is the law of mind, Laws 2 in Quarter 2 is the law of form, Laws 3 in Quarter 3 is the law of bonding, and Laws 4 in Quarter 4 is the law of mutation itself — the meta-law that governs how all the other laws change.
+Ra was explicit about the four arms of the Cross of Laws: Laws 1 in Quarter 1 is the law of mind, Laws 2 in Quarter 2 is the law of form, Laws 3 in Quarter 3 is the law of bonding, and Laws 4 in Quarter 4 is the law of mutation itself -- the meta-law that governs how all the other laws change.
 
 ## The Angle Expression
 
 A Right Angle Cross is a cross of personal destiny. The Laws 4 Right Angle person is here to live their own mutative life under their own [[Strategy]] and [[Inner Authority]]. The acceptance-work is the carrier's own; the contribution to the collective law happens through the byproduct of a life lived correctly inside the constraints.
 
-The pressure to force mutation is real for the Laws 4 carrier. The mind always wants to remove limitations rather than enter them. The cross teaches the opposite. The Right Angle path is to live the acceptance in one's own life — to inhabit the carrier's actual current constraints so deeply that, when the mutation pulse turns on, transformation happens with grace.
+The pressure to force mutation is real for the Laws 4 carrier. The mind always wants to remove limitations rather than enter them. The cross teaches the opposite. The Right Angle path is to live the acceptance in one's own life -- to inhabit the carrier's actual current constraints so deeply that, when the mutation pulse turns on, transformation happens with grace.
 
 ## Profiles This Cross Manifests In
 
@@ -69,10 +69,10 @@ The 56 Earth makes the acceptance communicable. The carrier's most useful contri
 
 The 50 design provides the splenic value-filter that keeps the acceptance from becoming submission to obsolete values. The 3 design provides the mutative pulse that the 60 Sun's acceptance is designed to support. Together they form the complete Channel of Mutation in the carrier's bodygraph, with the conscious life organized around the Root-level pulse.
 
-The deeper teaching of this cross is that limitations are the precise mechanism by which mutation occurs. The mind cannot accept this; the body learns it through repetition over a lifetime. The Laws 4 Right Angle carrier becomes, over time, one of the people who has actually integrated the deepest teaching of the Cross of Laws — that all laws will be broken, but the law of limitation is the law through which the breaking happens.
+The deeper teaching of this cross is that limitations are the precise mechanism by which mutation occurs. The mind cannot accept this; the body learns it through repetition over a lifetime. The Laws 4 Right Angle carrier becomes, over time, one of the people who has actually integrated the deepest teaching of the Cross of Laws -- that all laws will be broken, but the law of limitation is the law through which the breaking happens.
 
-In family, work, and community, the Laws 4 Right Angle person is often experienced as the patient one — the carrier whose acceptance of current constraints is what allows the eventual mutation to emerge cleanly. Their contribution operates across long time-frames. The mutations that flow through this carrier are not the dramatic disruptions of someone forcing change; they are the deep transformations that happen when limitation has been accepted so fully that the new pattern can lift off without resistance. Accepting Death, the mystical theme of Quarter 4, becomes in this cross the active acceptance of every limitation that must be inhabited so that the next mutation can occur.
+In family, work, and community, the Laws 4 Right Angle person is often experienced as the patient one -- the carrier whose acceptance of current constraints is what allows the eventual mutation to emerge cleanly. Their contribution operates across long time-frames. The mutations that flow through this carrier are not the dramatic disruptions of someone forcing change; they are the deep transformations that happen when limitation has been accepted so fully that the new pattern can lift off without resistance. Accepting Death, the mystical theme of Quarter 4, becomes in this cross the active acceptance of every limitation that must be inhabited so that the next mutation can occur.
 
 ## Related
 
-[[Gate 60]] | [[Gate 56]] | [[Gate 50]] | [[Gate 3]] | [[Channel 3/60]] | [[Channel 11/56]] | [[Incarnation Cross Overview]] | [[Quarters]] | [[Strategy]] | [[Inner Authority]] | [[Root]] | [[Individual Circuit]]
+[[Gate 60]] | [[Gate 56]] | [[Gate 50]] | [[Gate 3]] | [[Channel 3/60]] | [[Channel 11/56]] | [[Incarnation Cross Overview]] | [[Quarters]] | [[Strategy]] | [[Inner Authority]] | [[Root Center|Root]] | [[Individual Circuit]]

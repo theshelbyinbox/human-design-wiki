@@ -4,19 +4,19 @@ section: "Gates"
 related: []
 ---
 
-# Gate 29 — The Abysmal (Perseverance, The Yes)
+# Gate 29 -- The Abysmal (Perseverance, The Yes)
 
-Gate 29 is the gate of the sacral yes. It sits in the Sacral Center as the gate of commitment — the part of a person whose life-force is here to dive deeply into experience and persist all the way through to the other side. In Human Design this is called the Abysmal or, more commonly in modern teaching, the Gate of Saying Yes. The keynote is perseverance. The person with Gate 29 active has the energy to say a full-bodied yes and the endurance to honor that yes through every difficulty that follows. The whole gift, and the whole shadow, lives in whether the yes was correctly given in the first place.
+Gate 29 is the gate of the sacral yes. It sits in the Sacral Center as the gate of commitment -- the part of a person whose life-force is here to dive deeply into experience and persist all the way through to the other side. In Human Design this is called the Abysmal or, more commonly in modern teaching, the Gate of Saying Yes. The keynote is perseverance. The person with Gate 29 active has the energy to say a full-bodied yes and the endurance to honor that yes through every difficulty that follows. The whole gift, and the whole shadow, lives in whether the yes was correctly given in the first place.
 
 ## Mechanics
 
-Gate 29 is located in the [[Sacral Center]], the center of life-force, work, and sexuality. It connects upward through Gate 46 in the [[G Center]] to form [[Channel 29/46]] — the Channel of Discovery, also called the channel of succeeding where others fail, a design of being in the right place at the right time. The channel belongs to the [[Collective Circuit]] in the Logic sub-circuit. Its function is to take the experiences that the body has been brought to and to commit to them long enough to extract real learning.
+Gate 29 is located in the [[Sacral Center]], the center of life-force, work, and sexuality. It connects upward through Gate 46 in the [[G Center]] to form [[Channel 29/46]] -- the Channel of Discovery, also called the channel of succeeding where others fail, a design of being in the right place at the right time. The channel belongs to the [[Collective Circuit]] in the Logic sub-circuit. Its function is to take the experiences that the body has been brought to and to commit to them long enough to extract real learning.
 
 The transit period for Gate 29 falls roughly August 18 through 23, when the Sun moves through this position each year.
 
 ## The Hexagram
 
-In the I Ching, the corresponding hexagram is The Abysmal (Kan) — water above, water below. The traditional reading describes the doubled trigram of water, an image of repeated danger that must be crossed by maintaining inner constancy. The hexagram counsels that one must move through the abyss without losing one's center; the way through is not around the difficulty but into it, with sincerity of purpose. The hexagram pairs naturally with the body, because only the body has the persistence required to cross deep water.
+In the I Ching, the corresponding hexagram is The Abysmal (Kan) -- water above, water below. The traditional reading describes the doubled trigram of water, an image of repeated danger that must be crossed by maintaining inner constancy. The hexagram counsels that one must move through the abyss without losing one's center; the way through is not around the difficulty but into it, with sincerity of purpose. The hexagram pairs naturally with the body, because only the body has the persistence required to cross deep water.
 
 ## What This Gate Brings
 
@@ -26,7 +26,7 @@ The full Channel of Discovery is the design of succeeding where others fail. The
 
 ## The Shadow / Not-Self Expression
 
-The shadow of Gate 29 is the wrong yes. The not-self mind takes over the sacral and says yes to everything — out of obligation, out of fear, out of mental excitement, out of the hope that this commitment will finally be the one that produces meaning. The person overcommits, drowns in projects and relationships and obligations that were never theirs to begin with, and burns out in service of agreements that were given by the mind rather than by the body. Ra said it directly: every yes is a commitment, and the wrong yes turns the abyss into actual abandonment of self.
+The shadow of Gate 29 is the wrong yes. The not-self mind takes over the sacral and says yes to everything -- out of obligation, out of fear, out of mental excitement, out of the hope that this commitment will finally be the one that produces meaning. The person overcommits, drowns in projects and relationships and obligations that were never theirs to begin with, and burns out in service of agreements that were given by the mind rather than by the body. Ra said it directly: every yes is a commitment, and the wrong yes turns the abyss into actual abandonment of self.
 
 A second shadow is the inability to say no. Because the sacral is so good at saying yes, the not-self version forgets that no is also a sacral response. The person feels rude or selfish saying no and produces yeses that are halfway, hedged, conditional. The half-yes ruins the full-yes power of the gate, because the person ends up keeping none of the commitments fully and trusting none of their own words.
 
@@ -34,29 +34,29 @@ A third shadow is the mental yes that masquerades as devotion. The person decide
 
 ## The Six Lines
 
-### Line 1 — Drafted
+### Line 1 -- Drafted
 
-The first line is the foundational yes — the commitment that arrives unbidden and is honored. Sometimes the experience finds the person before they have asked for it, and the first line's job is to recognize that this is the one. In shadow, the line resists what was drafted and spends the energy of yes resisting rather than entering.
+The first line is the foundational yes -- the commitment that arrives unbidden and is honored. Sometimes the experience finds the person before they have asked for it, and the first line's job is to recognize that this is the one. In shadow, the line resists what was drafted and spends the energy of yes resisting rather than entering.
 
-### Line 2 — Assessment
+### Line 2 -- Assessment
 
-The second line evaluates before committing. This is the natural caution of the sacral — the second line wants to feel the response before agreeing. In its healthy form, the line produces accurate yeses. In shadow, the line overthinks every commitment and the assessment becomes paralysis.
+The second line evaluates before committing. This is the natural caution of the sacral -- the second line wants to feel the response before agreeing. In its healthy form, the line produces accurate yeses. In shadow, the line overthinks every commitment and the assessment becomes paralysis.
 
-### Line 3 — Trial and Error
+### Line 3 -- Trial and Error
 
 The third line learns to say yes through experience of having said yes wrongly. Every misplaced commitment teaches the line which signals to trust and which to override. In shadow, the line continues to say yes against the body's signal and treats the resulting collapses as bad luck rather than as the teaching they are.
 
-### Line 4 — Directness
+### Line 4 -- Directness
 
-The fourth line is the line of the friend who commits openly to those it loves. The yes is given face-to-face, transparently, with full understanding of what is being agreed to. In shadow, directness becomes pressure — the line forces its yes on others or demands that they reciprocate before they are ready.
+The fourth line is the line of the friend who commits openly to those it loves. The yes is given face-to-face, transparently, with full understanding of what is being agreed to. In shadow, directness becomes pressure -- the line forces its yes on others or demands that they reciprocate before they are ready.
 
-### Line 5 — Overreach
+### Line 5 -- Overreach
 
 The fifth line carries projection. Others look to this line as the one who will say yes, the one who will persevere on behalf of the group. The line is loaded up with commitments. In its healthy form, the fifth line delivers and earns trust. In shadow, the line agrees to more than the body can carry and the projection turns into resentment.
 
-### Line 6 — Confusion
+### Line 6 -- Confusion
 
-The sixth line is the elder yes — the commitment given after enough trials to know what was worth committing to. In its healthy form, the line has wisdom about devotion and can teach others. In shadow, the sixth line becomes confused about all yeses and refuses to commit to anything, looking back over a life of wrong agreements and unable to trust its own response.
+The sixth line is the elder yes -- the commitment given after enough trials to know what was worth committing to. In its healthy form, the line has wisdom about devotion and can teach others. In shadow, the sixth line becomes confused about all yeses and refuses to commit to anything, looking back over a life of wrong agreements and unable to trust its own response.
 
 ## In the BodyGraph
 

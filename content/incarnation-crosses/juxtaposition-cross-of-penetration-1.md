@@ -6,36 +6,36 @@ related: []
 
 # Juxtaposition Cross of Penetration 1
 
-The Juxtaposition Cross of Penetration 1 — called by Ra Uru Hu the Juxtaposition Cross of Shock — is the fixed-fate variant of the four-armed Cross of Penetration in the Quarter of Initiation. The same four gates that organize every Penetration variant — 51, 57, 53, 54 — are present, but the angle is Juxtaposition: a fixed life carried only by the 4/1 profile.
+The Juxtaposition Cross of Penetration 1 -- called by Ra Uru Hu the Juxtaposition Cross of Shock -- is the fixed-fate variant of the four-armed Cross of Penetration in the Quarter of Initiation. The same four gates that organize every Penetration variant -- 51, 57, 53, 54 -- are present, but the angle is Juxtaposition: a fixed life carried only by the 4/1 profile.
 
 The Juxtaposition Shock carrier is the embodied function of shock itself. They are not here to discover their role; they are the role. Their life is the fixed task of being a heart-line ego that survives shock and plants seeds in the network they were born into. Ra opened the Penetration section of his teaching by saying he did not think there was a more deceptive cross than this one, and for the Juxtaposition Shock 4/1, the deception is concentrated and fixed: they look ordinary, they feel ordinary to themselves, and yet their entire life is the embodied function of the shock-survivor.
 
 ## Mechanics
 
-- **Personality Sun:** Gate 51 — Shock / The Arousing
-- **Personality Earth:** Gate 57 — The Gentle / Intuition
-- **Design Sun:** Gate 54 — The Marrying Maiden / Ambition
-- **Design Earth:** Gate 53 — Development / Beginnings
+- **Personality Sun:** Gate 51 -- Shock / The Arousing
+- **Personality Earth:** Gate 57 -- The Gentle / Intuition
+- **Design Sun:** Gate 54 -- The Marrying Maiden / Ambition
+- **Design Earth:** Gate 53 -- Development / Beginnings
 - **Quarter:** Quarter of Initiation (Realm of Alcyone, Purpose of Mind)
-- **Angle:** Juxtaposition — Fixed Fate
+- **Angle:** Juxtaposition -- Fixed Fate
 
 The Personality axis 51↔57 carries the conscious life of shock and intuition. The Design axis 54↔53 carries the unconscious vehicle of ambition and beginnings. The Juxtaposition angle fixes the carrier in the role of the shock-survivor.
 
 ## The Four Gates
 
-### Gate 51 (Personality Sun) — Shock, The Arousing
+### Gate 51 (Personality Sun) -- Shock, The Arousing
 
-The 51 is the fixed gate. The Juxtaposition Shock carrier is here to be shocked and to survive — to be the dumb-ego that says "okay" when the cosmic interruption arrives. The harmonic gate 25 is the innocence the shock is meant to deliver; the 51 is the ego that survives the delivery long enough for the innocence to land.
+The 51 is the fixed gate. The Juxtaposition Shock carrier is here to be shocked and to survive -- to be the dumb-ego that says "okay" when the cosmic interruption arrives. The harmonic gate 25 is the innocence the shock is meant to deliver; the 51 is the ego that survives the delivery long enough for the innocence to land.
 
-### Gate 57 (Personality Earth) — The Gentle, Intuition
+### Gate 57 (Personality Earth) -- The Gentle, Intuition
 
 Gate 57 grounds the shock in penetrating intuition. The fixed task is supported by the splenic voice that reads the present and knows when the shock is real.
 
-### Gate 54 (Design Sun) — The Marrying Maiden, Ambition
+### Gate 54 (Design Sun) -- The Marrying Maiden, Ambition
 
 The unconscious upward ambition. The body's foundation is the climb. The shock-survivor's body is wired to rise.
 
-### Gate 53 (Design Earth) — Development, Beginnings
+### Gate 53 (Design Earth) -- Development, Beginnings
 
 The unconscious pressure to begin. The vehicle starts cycles. The shock often arrives at the beginning of a new cycle.
 
@@ -59,9 +59,9 @@ Juxtaposition Crosses manifest only through the 4/1 profile. The Juxtaposition S
 
 [[Strategy]] and [[Inner Authority]] are the only correct navigation. The 51's heart-line ego will respond to the call when it arrives; the body's job is to be available, not to manufacture the call. The 57's splenic voice will read the moment when it is happening; the mind's job is to allow the voice to speak.
 
-The signature of the cross lived correctly is the planting of seeds in the network — initiations the carrier may not always be conscious of having delivered, but which the people in their field will recognize as having changed something. The signature of the not-self is the carrier whose armor has stopped both the incoming shock and the outgoing seeding, and whose life has become smooth surface with empty interior. The work is to allow penetration in both directions.
+The signature of the cross lived correctly is the planting of seeds in the network -- initiations the carrier may not always be conscious of having delivered, but which the people in their field will recognize as having changed something. The signature of the not-self is the carrier whose armor has stopped both the incoming shock and the outgoing seeding, and whose life has become smooth surface with empty interior. The work is to allow penetration in both directions.
 
-When the carrier honors the design, they become what initiation needs: the fixed shock-bearer of a specific 4/1 network. Lived correctly, Juxtaposition Penetration 1 is the cross of the seed-planter — the carrier whose passage through the lives of their network leaves something behind that will, in time, become a beginning the carrier may never see take root.
+When the carrier honors the design, they become what initiation needs: the fixed shock-bearer of a specific 4/1 network. Lived correctly, Juxtaposition Penetration 1 is the cross of the seed-planter -- the carrier whose passage through the lives of their network leaves something behind that will, in time, become a beginning the carrier may never see take root.
 
 ## The Fixed Nature of the Juxtaposition
 
@@ -73,4 +73,4 @@ For the carrier, this means freedom from the project of self-invention. The func
 
 ## Related
 
-[[Gate 51]] | [[Gate 53]] | [[Gate 54]] | [[Gate 57]] | [[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Quarter of Initiation]] | [[Juxtaposition]]
+[[Gate 51]] | [[Gate 53]] | [[Gate 54]] | [[Gate 57]] | [[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Quarters|Quarter of Initiation]] | [[Angles Overview|Juxtaposition]]

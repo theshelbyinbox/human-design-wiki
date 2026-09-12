@@ -6,38 +6,38 @@ related: []
 
 # Left Angle Cross of the Sphinx 4
 
-The Left Angle Cross of the Sphinx 4 places the Personality Sun in Gate 1, the Creative, at the angle of transpersonal karma. The right-angle Sphinx 4 lives the creative life as personal destiny, working out the originating self-expression through their own private medium. The left-angle Sphinx 4 lives the creative life as transpersonal mutation — every expression they release is woven karmically into the lives of the people who witness it.
+The Left Angle Cross of the Sphinx 4 places the Personality Sun in Gate 1, the Creative, at the angle of transpersonal karma. The right-angle Sphinx 4 lives the creative life as personal destiny, working out the originating self-expression through their own private medium. The left-angle Sphinx 4 lives the creative life as transpersonal mutation -- every expression they release is woven karmically into the lives of the people who witness it.
 
 This is the cross of the creative as cultural agent. The carrier's self-expression does not stay private. It enters the collective field, mutates the people who encounter it, and ripples outward into futures the carrier may never see.
 
 ## Mechanics
 
-- **Personality Sun:** Gate 1 — The Creative / Self-Expression
-- **Personality Earth:** Gate 2 — The Receptive / Higher Knowing
-- **Design Sun:** Gate 7 — The Army / Role of the Self
-- **Design Earth:** Gate 13 — The Listener / Fellowship of Man
+- **Personality Sun:** Gate 1 -- The Creative / Self-Expression
+- **Personality Earth:** Gate 2 -- The Receptive / Higher Knowing
+- **Design Sun:** Gate 7 -- The Army / Role of the Self
+- **Design Earth:** Gate 13 -- The Listener / Fellowship of Man
 - **Quarter:** Quarter of Mutation (Realm of Mutation, Purpose of Transformation)
-- **Angle:** Left Angle — Transpersonal Karma
+- **Angle:** Left Angle -- Transpersonal Karma
 
 Same four gates as the right-angle Sphinx 4 with Gate 1 leading. The change to left angle places the originating creative engine into karmic service. The carrier's creative impulse is not private; it is delivered to the species through the mechanics of the cross.
 
 ## The Four Gates
 
-### Gate 1 (Personality Sun) — The Creative / Self-Expression
+### Gate 1 (Personality Sun) -- The Creative / Self-Expression
 
 The conscious purpose is unique originating self-expression. In transpersonal service this expression is fated to land in the lives of others. The carrier's creative output is karmically magnetised to find audiences, mediums, recognitions and openings that the carrier did not consciously arrange.
 
-Ra Uru Hu's framing of Gate 1 — a gate yearning for a voice — takes on a particular weight here. The voice is not for the carrier alone. It is for the collective field. When the carrier's voice is honoured through correct strategy and authority, it mutates the people who hear it.
+Ra Uru Hu's framing of Gate 1 -- a gate yearning for a voice -- takes on a particular weight here. The voice is not for the carrier alone. It is for the collective field. When the carrier's voice is honoured through correct strategy and authority, it mutates the people who hear it.
 
-### Gate 2 (Personality Earth) — The Receptive / Higher Knowing
+### Gate 2 (Personality Earth) -- The Receptive / Higher Knowing
 
 Grounds the creative in direction. The carrier's expression is pointed, not random. The body knows where the work needs to land, even when the mind does not.
 
-### Gate 7 (Design Sun) — The Army / Role of the Self
+### Gate 7 (Design Sun) -- The Army / Role of the Self
 
-The unconscious carrier of role. The creative work of this cross is given an unconscious leadership signature — the expression carries an alpha quality, a recognisable role in cultural form, whether the carrier consciously claims it or not. People who encounter the work treat the carrier as a model.
+The unconscious carrier of role. The creative work of this cross is given an unconscious leadership signature -- the expression carries an alpha quality, a recognisable role in cultural form, whether the carrier consciously claims it or not. People who encounter the work treat the carrier as a model.
 
-### Gate 13 (Design Earth) — The Fellowship of Man
+### Gate 13 (Design Earth) -- The Fellowship of Man
 
 The unconscious witness. Beneath the conscious creative drive there is a lifetime of absorbed human story. The mutation the carrier's work introduces into the culture is built on top of an enormous, mostly invisible substrate of witnessing.
 
@@ -51,7 +51,7 @@ The left-angle variant places that mechanism into karmic service. The carrier's 
 
 The Left Angle is transpersonal karma. For Sphinx 4 this means the carrier's creative expression is woven into the lives of others by design. There is no exit from this entanglement. The carrier cannot choose to be a private originator. Their work will find its way into other people's eyes, hands, decisions, dreams.
 
-The not-self distortion is the carrier who, frightened by the scale of the karmic reach, hides their creative impulse, suppresses the originating voice, or tries to repackage their work in someone else's recognisable style. The mind, panicked by the visibility of the karmic placement, tries to make the work safe. The result is creative shadow — frustration, depression, the originating impulse curdling into bitterness.
+The not-self distortion is the carrier who, frightened by the scale of the karmic reach, hides their creative impulse, suppresses the originating voice, or tries to repackage their work in someone else's recognisable style. The mind, panicked by the visibility of the karmic placement, tries to make the work safe. The result is creative shadow -- frustration, depression, the originating impulse curdling into bitterness.
 
 The correct expression is the carrier who has surrendered to the karmic position. They produce what they produce. They release what they release through correct strategy. They do not chase the audience and they do not hide from it. The mutation does the work; the carrier follows their own design.
 

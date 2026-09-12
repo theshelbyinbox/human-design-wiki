@@ -12,36 +12,36 @@ Ra Uru Hu repeatedly described the Cross of the Four Ways as having greater impa
 
 ## Mechanics
 
-- **Personality Sun:** Gate 33 — Retreat
-- **Personality Earth:** Gate 19 — Approach
-- **Design Sun:** Gate 44 — Coming to Meet
-- **Design Earth:** Gate 24 — Rationalizing / Return
+- **Personality Sun:** Gate 33 -- Retreat
+- **Personality Earth:** Gate 19 -- Approach
+- **Design Sun:** Gate 44 -- Coming to Meet
+- **Design Earth:** Gate 24 -- Rationalizing / Return
 - **Quarter:** Quarter of Civilization (Realm of Duhbe, Purpose of Form)
-- **Angle:** Left Angle — Transpersonal / Karmic Destiny
+- **Angle:** Left Angle -- Transpersonal / Karmic Destiny
 
 The same four gates as the Right Angle Cross of the Four Ways 2 build the configuration, but the karmic angle relocates the function. The retreat is the species' retreat. The memory is the species' memory.
 
 ## The Four Gates
 
-### Gate 33 (Personality Sun) — Retreat
+### Gate 33 (Personality Sun) -- Retreat
 
-The conscious purpose. Gate 33 is the disciplined withdrawal through which the encounter is processed into memory. In the Left Angle expression the retreat is a karmic public function — the carrier steps back from the room not for private rest but so that the room's history can be saved. The 33 of this configuration is the historian's withdrawal, the witness who absents themselves so the witnessing can be preserved.
+The conscious purpose. Gate 33 is the disciplined withdrawal through which the encounter is processed into memory. In the Left Angle expression the retreat is a karmic public function -- the carrier steps back from the room not for private rest but so that the room's history can be saved. The 33 of this configuration is the historian's withdrawal, the witness who absents themselves so the witnessing can be preserved.
 
-### Gate 19 (Personality Earth) — Approach
+### Gate 19 (Personality Earth) -- Approach
 
 The ground beneath the retreat. Gate 19 is the Root pressure of tribal approach. As the Earth of this cross it grounds the retreating mind in the body's continued need to come close to the community whose memory is being preserved. The 19 keeps the 33 connected to the actual people the historian's work serves.
 
-### Gate 44 (Design Sun) — Coming to Meet
+### Gate 44 (Design Sun) -- Coming to Meet
 
-The unconscious splenic engine. Gate 44 is the splenic pattern-recognition. Beneath the conscious retreat, the body has been recognising the patterns of the encounters being processed. The 44 supplies the data the 33 retreats with — the patterns the karmic witness will save.
+The unconscious splenic engine. Gate 44 is the splenic pattern-recognition. Beneath the conscious retreat, the body has been recognising the patterns of the encounters being processed. The 44 supplies the data the 33 retreats with -- the patterns the karmic witness will save.
 
-### Gate 24 (Design Earth) — Rationalizing
+### Gate 24 (Design Earth) -- Rationalizing
 
 The unconscious mental ground. Gate 24 is the gate of return. The body of this carrier is built to return to the gathered patterns until they become language. The 24 grounds the retreat in a mind that knows how to wait for the insight that turns memory into wisdom.
 
 ## The Quarter Theme
 
-The Quarter of Civilization is the realm of form. The Left Angle Four Ways 2 carrier contributes to civilization by being the karmic witness whose disciplined withdrawal becomes the species' memory of what it built. The cross is the cross of the historian-by-fate — the carrier whose four nodal cycles produce four chapters of remembered material that civilization itself uses to know who it is.
+The Quarter of Civilization is the realm of form. The Left Angle Four Ways 2 carrier contributes to civilization by being the karmic witness whose disciplined withdrawal becomes the species' memory of what it built. The cross is the cross of the historian-by-fate -- the carrier whose four nodal cycles produce four chapters of remembered material that civilization itself uses to know who it is.
 
 ## The Angle Expression
 
@@ -61,11 +61,11 @@ The Left Angle is carried by the five classical left-angle profiles: 4/6, 5/1, 5
 
 [[Strategy]] and [[Inner Authority]] are the only reliable navigation system. The Left Angle Four Ways 2 carrier is particularly vulnerable to being demanded back into the room before the retreat has completed its work. The work is to honour the body's signal about when the retreat is finished and to refuse the collective's pressure to re-engage early. A Projector with this cross waits for the invitation back; a Generator responds with the sacral; a Manifestor informs before withdrawing; a Reflector lets a lunar cycle confirm the environment of the retreat.
 
-The signature of the cross lived well is a karmic memory preserved — a life that, by its end, has produced four chapters of civilization's archive. The not-self signature is the bitterness of the carrier who was pulled out of retreat prematurely and watched the memory dissolve before it had crystallised.
+The signature of the cross lived well is a karmic memory preserved -- a life that, by its end, has produced four chapters of civilization's archive. The not-self signature is the bitterness of the carrier who was pulled out of retreat prematurely and watched the memory dissolve before it had crystallised.
 
-When the carrier honours the design, they become the historian the species needs — sometimes named, more often anonymous — whose four nodal withdrawals become the foundation of what civilization remembers about itself.
+When the carrier honours the design, they become the historian the species needs -- sometimes named, more often anonymous -- whose four nodal withdrawals become the foundation of what civilization remembers about itself.
 
-There is a particular dignity in the Left Angle Four Ways 2 carrier that the cross delivers slowly. The first nodal cycle's retreat may feel pointless — the carrier is asked to step back from a room they were just learning to inhabit. The second cycle's retreat reveals itself as the first preservation. The third cycle is when the carrier begins to understand that the retreats have been producing something. The fourth cycle is when the gathered material becomes legible, often to people the carrier has never met. By the end of life, the four bodies of remembered material are the carrier's actual contribution — not their personal achievements, not their visible career, but the precise quality of the memory their disciplined withdrawals preserved.
+There is a particular dignity in the Left Angle Four Ways 2 carrier that the cross delivers slowly. The first nodal cycle's retreat may feel pointless -- the carrier is asked to step back from a room they were just learning to inhabit. The second cycle's retreat reveals itself as the first preservation. The third cycle is when the carrier begins to understand that the retreats have been producing something. The fourth cycle is when the gathered material becomes legible, often to people the carrier has never met. By the end of life, the four bodies of remembered material are the carrier's actual contribution -- not their personal achievements, not their visible career, but the precise quality of the memory their disciplined withdrawals preserved.
 
 The work of this cross is to honour the rhythm. Retreat when the body signals retreat. Re-engage when the body signals re-engagement. Trust that the rhythm is doing the karmic work even when the carrier cannot see it. The species will recover the memory at the moment the species needs it, and the carrier's job is to have it ready.
 

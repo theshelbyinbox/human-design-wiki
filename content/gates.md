@@ -10,12 +10,12 @@ The 64 Gates of Human Design correspond directly to the 64 hexagrams of the I Ch
 
 The activation of a gate in a chart depends on the position of the planets at the moment of birth (the Personality calculation) and approximately 88 degrees of solar arc before birth (the Design calculation). The combined planetary activations of a person's 13 gates form their unique structure.
 
-Gates can also be activated temporarily by transits — the daily movement of planets through the wheel — which is the mechanism behind the program and how Reflectors sample definitions through the lunar cycle.
+Gates can also be activated temporarily by transits -- the daily movement of planets through the wheel -- which is the mechanism behind the program and how Reflectors sample definitions through the lunar cycle.
 
 ## Pages in this Section
 
-- [[Gates Overview]] — what gates are; I Ching correspondence; defined vs hanging; circuits; Personality vs Design activation
-- [[Gate Reference]] — all 64 gates with descriptions, channel partners, circuits, transit times, correct expression, and not-self expression; organized by center
+- [[Gates Overview]] -- what gates are; I Ching correspondence; defined vs hanging; circuits; Personality vs Design activation
+- [[Gate Reference]] -- all 64 gates with descriptions, channel partners, circuits, transit times, correct expression, and not-self expression; organized by center
 
 ## Related Sections
 

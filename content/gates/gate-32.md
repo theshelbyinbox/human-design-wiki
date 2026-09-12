@@ -4,19 +4,19 @@ section: "Gates"
 related: []
 ---
 
-# Gate 32 — Continuity (Duration, The Conservator)
+# Gate 32 -- Continuity (Duration, The Conservator)
 
-Gate 32 is the gate of intuitive judgment about what will last. It sits in the Splenic Center as the tribal awareness gate that recognizes, in the present moment, which things, people, projects, and arrangements have staying power and which do not. In Human Design this is called Continuity, and the alternative keynote is Duration. The gate carries a fear — the fear of failure — that, when honored correctly, becomes one of the most useful instinctive judgments a person can have about long-term value. The keynote Ra Uru Hu emphasized was the conservator: the one who preserves what is worth preserving and lets go of what is not.
+Gate 32 is the gate of intuitive judgment about what will last. It sits in the Splenic Center as the tribal awareness gate that recognizes, in the present moment, which things, people, projects, and arrangements have staying power and which do not. In Human Design this is called Continuity, and the alternative keynote is Duration. The gate carries a fear -- the fear of failure -- that, when honored correctly, becomes one of the most useful instinctive judgments a person can have about long-term value. The keynote Ra Uru Hu emphasized was the conservator: the one who preserves what is worth preserving and lets go of what is not.
 
 ## Mechanics
 
-Gate 32 is located in the [[Splenic Center]], the center of intuition, instinct, and immune awareness. It connects downward through Gate 54 in the [[Root Center]] to form [[Channel 32/54]] — the Channel of Transformation, also called the design of drive and ambition. The channel belongs to the [[Tribal Circuit]] in the Ego sub-circuit, alongside [[Channel 26/44]] (Surrender) and the other channels that manage tribal material continuity.
+Gate 32 is located in the [[Splenic Center]], the center of intuition, instinct, and immune awareness. It connects downward through Gate 54 in the [[Root Center]] to form [[Channel 32/54]] -- the Channel of Transformation, also called the design of drive and ambition. The channel belongs to the [[Tribal Circuit]] in the Ego sub-circuit, alongside [[Channel 26/44]] (Surrender) and the other channels that manage tribal material continuity.
 
 The transit period for Gate 32 falls roughly October 14 through 20, when the Sun moves through this position each year.
 
 ## The Hexagram
 
-In the I Ching, the corresponding hexagram is Duration (Heng) — thunder above, wind below. The traditional reading describes the enduring movement that maintains itself through change. Duration is not stasis; it is the kind of persistence that adapts and continues. The hexagram counsels that the wise person establishes a consistent direction and then trusts that direction across changing circumstances. The image is the steady wind that shapes the landscape over time. What lasts, lasts because it has the right form for lasting.
+In the I Ching, the corresponding hexagram is Duration (Heng) -- thunder above, wind below. The traditional reading describes the enduring movement that maintains itself through change. Duration is not stasis; it is the kind of persistence that adapts and continues. The hexagram counsels that the wise person establishes a consistent direction and then trusts that direction across changing circumstances. The image is the steady wind that shapes the landscape over time. What lasts, lasts because it has the right form for lasting.
 
 ## What This Gate Brings
 
@@ -34,27 +34,27 @@ A third shadow is the refusal to transform. Gate 32 is one half of the Channel o
 
 ## The Six Lines
 
-### Line 1 — Conservation
+### Line 1 -- Conservation
 
-The foundational line. The first line preserves what is essential and lets the inessential go. The discrimination is built in. In its healthy form, the line is the quiet steward who keeps the necessary structures intact. In shadow, conservation becomes hoarding — the line preserves everything because it cannot tell what is essential.
+The foundational line. The first line preserves what is essential and lets the inessential go. The discrimination is built in. In its healthy form, the line is the quiet steward who keeps the necessary structures intact. In shadow, conservation becomes hoarding -- the line preserves everything because it cannot tell what is essential.
 
-### Line 2 — Restraint
+### Line 2 -- Restraint
 
 The second line is the natural conservator with the awareness to hold back at the right moment. The line waits, watches, and acts only when the splenic signal is clear. In its healthy form, restraint produces consistently good timing. In shadow, restraint becomes chronic withholding and the line never acts at all.
 
-### Line 3 — Lack of Continuity
+### Line 3 -- Lack of Continuity
 
 The third line learns about continuity through the experience of its absence. Each broken arrangement, each failed structure, teaches the line what would have been required to make it last. In its healthy form, this is hard-won wisdom about lasting things. In shadow, the line concludes that nothing lasts and gives up on building anything durable.
 
-### Line 4 — Right Action
+### Line 4 -- Right Action
 
-The fourth line is the line of the conservator who acts at the right moment within their network of bonds. The line knows when to commit resources and when to withdraw them, when to invest in a relationship and when to step back. In shadow, right action becomes opportunism — the line acts in its own interest under the cover of continuity.
+The fourth line is the line of the conservator who acts at the right moment within their network of bonds. The line knows when to commit resources and when to withdraw them, when to invest in a relationship and when to step back. In shadow, right action becomes opportunism -- the line acts in its own interest under the cover of continuity.
 
-### Line 5 — Flexibility
+### Line 5 -- Flexibility
 
-The fifth line carries projection: others look to this line as the one who will adapt to changing conditions while preserving what matters. The line is the flexible conservator. In its healthy form, the fifth line teaches the group how to change without losing itself. In shadow, the line becomes opportunistically flexible — bends every principle for advantage and the group eventually stops trusting it.
+The fifth line carries projection: others look to this line as the one who will adapt to changing conditions while preserving what matters. The line is the flexible conservator. In its healthy form, the fifth line teaches the group how to change without losing itself. In shadow, the line becomes opportunistically flexible -- bends every principle for advantage and the group eventually stops trusting it.
 
-### Line 6 — Tranquility
+### Line 6 -- Tranquility
 
 The sixth line is the elder conservator who, after enough cycles, has settled into the tranquility of knowing what will last. The line no longer worries about failure, because it has learned to read the signs accurately. In shadow, the sixth line becomes detached and indifferent, treating the failure of structures it was responsible for as someone else's problem.
 
@@ -64,7 +64,7 @@ When Gate 32 is defined and Gate 54 is also defined, the full [[Channel 32/54]] 
 
 When only Gate 32 is defined, the person carries the judgment about continuity without the root-pressure to act on it; they see what will last and what will not, but they may not have the drive to build what should be built. With Gate 54 hanging alone, the person has the ambition without the splenic guidance and may drive themselves up ladders that lead nowhere.
 
-The 32/54 is one of the tribal channels of advancement. Its function is to ensure that the tribe's investments — in people, in resources, in long-term arrangements — produce lasting value. Without it, the tribe burns through its capital pursuing transformations that the spleen would have warned against. The 32 is, in this sense, the quiet conscience of tribal ambition.
+The 32/54 is one of the tribal channels of advancement. Its function is to ensure that the tribe's investments -- in people, in resources, in long-term arrangements -- produce lasting value. Without it, the tribe burns through its capital pursuing transformations that the spleen would have warned against. The 32 is, in this sense, the quiet conscience of tribal ambition.
 
 ## Related
 
