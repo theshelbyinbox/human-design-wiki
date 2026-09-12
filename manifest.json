@@ -983,10 +983,6 @@
     },
     {
      "divider": "Also Here"
-    },
-    {
-     "key": "variables/definition-types",
-     "label": "Definition Types"
     }
    ]
   },
@@ -1320,6 +1316,38 @@
   "concepts": {
    "title": "Core Concepts",
    "section": "Core Concepts"
+  },
+  "definition/bridging": {
+   "title": "Bridging",
+   "section": "Definition"
+  },
+  "definition/definition-overview": {
+   "title": "Definition Overview",
+   "section": "Definition"
+  },
+  "definition/no-definition": {
+   "title": "No Definition",
+   "section": "Definition"
+  },
+  "definition/quadruple-split-definition": {
+   "title": "Quadruple Split Definition",
+   "section": "Definition"
+  },
+  "definition/single-definition": {
+   "title": "Single Definition",
+   "section": "Definition"
+  },
+  "definition/split-definition": {
+   "title": "Split Definition",
+   "section": "Definition"
+  },
+  "definition/triple-split-definition": {
+   "title": "Triple Split Definition",
+   "section": "Definition"
+  },
+  "definition": {
+   "title": "Definition",
+   "section": "Definition"
   },
   "gates/gate-1": {
    "title": "Gate 1 — The Creative (Self-Expression)",
@@ -2721,10 +2749,6 @@
    "title": "Cognition",
    "section": "Variables & PHS"
   },
-  "variables/definition-types": {
-   "title": "Definition Types",
-   "section": "Variables & PHS"
-  },
   "variables/determination-appetite": {
    "title": "Determination: Appetite",
    "section": "Variables & PHS"
@@ -2920,6 +2944,14 @@
   "not-self": "concepts/not-self",
   "signature": "concepts/signature",
   "core concepts": "concepts",
+  "bridging": "definition/bridging",
+  "definition overview": "definition/definition-overview",
+  "no definition": "definition/no-definition",
+  "quadruple split definition": "definition/quadruple-split-definition",
+  "single definition": "definition/single-definition",
+  "split definition": "definition/split-definition",
+  "triple split definition": "definition/triple-split-definition",
+  "definition": "definition",
   "gate 1 — the creative (self-expression)": "gates/gate-1",
   "gate 10 — behavior of the self (treading)": "gates/gate-10",
   "gate 11 — ideas (peace)": "gates/gate-11",
@@ -3270,7 +3302,6 @@
   "cognition: taste": "variables/cognition-taste",
   "cognition: touch": "variables/cognition-touch",
   "cognition": "variables/cognition",
-  "definition types": "variables/definition-types",
   "determination: appetite": "variables/determination-appetite",
   "determination: light": "variables/determination-light",
   "determination: sound": "variables/determination-sound",
