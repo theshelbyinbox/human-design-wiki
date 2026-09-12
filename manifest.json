@@ -989,6 +989,91 @@
      "label": "Definition Types"
     }
    ]
+  },
+  {
+   "key": "planets",
+   "label": "Planets",
+   "articles": [
+    {
+     "divider": "Start Here"
+    },
+    {
+     "key": "planets/planets-overview",
+     "label": "Planets Overview"
+    },
+    {
+     "key": "planets/design-and-personality",
+     "label": "Design and Personality"
+    },
+    {
+     "key": "planets/planetary-returns",
+     "label": "Planetary Returns"
+    },
+    {
+     "divider": "Sun and Earth"
+    },
+    {
+     "key": "planets/sun",
+     "label": "Sun"
+    },
+    {
+     "key": "planets/earth",
+     "label": "Earth"
+    },
+    {
+     "divider": "The Nodes"
+    },
+    {
+     "key": "planets/north-node",
+     "label": "North Node"
+    },
+    {
+     "key": "planets/south-node",
+     "label": "South Node"
+    },
+    {
+     "divider": "The Personal Planets"
+    },
+    {
+     "key": "planets/moon",
+     "label": "Moon"
+    },
+    {
+     "key": "planets/mercury",
+     "label": "Mercury"
+    },
+    {
+     "key": "planets/venus",
+     "label": "Venus"
+    },
+    {
+     "key": "planets/mars",
+     "label": "Mars"
+    },
+    {
+     "divider": "The Slow Planets"
+    },
+    {
+     "key": "planets/jupiter",
+     "label": "Jupiter"
+    },
+    {
+     "key": "planets/saturn",
+     "label": "Saturn"
+    },
+    {
+     "key": "planets/uranus",
+     "label": "Uranus"
+    },
+    {
+     "key": "planets/neptune",
+     "label": "Neptune"
+    },
+    {
+     "key": "planets/pluto",
+     "label": "Pluto"
+    }
+   ]
   }
  ],
  "articles": {
