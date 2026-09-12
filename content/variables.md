@@ -53,10 +53,6 @@ The senses as modes of knowing. Read from tone, not colour, and not a fifth arro
 - [[Cognition]]
 - [[Cognition: Smell]], [[Cognition: Taste]], [[Cognition: Outer Vision]], [[Cognition: Inner Vision]], [[Cognition: Feeling]], [[Cognition: Touch]]
 
-## Also in This Section
-
-- [[Definition Types]] single, split, triple split and quadruple split definition
-
 ## Related Sections
 
-Variable describes how a person specifically inhabits their [[Energy Types|Type]], [[Inner Authority]], [[Centers]] and [[Profiles & Lines|Profile]]. Those come first. Come here when that foundation is lived rather than understood.
+Variable describes how a person specifically inhabits their [[Energy Types|Type]], [[Inner Authority]], [[Centers]] and [[Profiles & Lines|Profile]]. Those come first. Definition used to be filed here and is not a Variable; it now has its own section, starting at [[Definition Overview]]. Come here when that foundation is lived rather than understood.

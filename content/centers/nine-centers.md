@@ -169,7 +169,7 @@ The process is not linear and not a single pass: later cycles, particularly the 
 - **Check the Sacral, then motor-to-Throat.** These give type, and type gives [[Strategy]].
 - **Walk the authority hierarchy in order:** Solar Plexus, Sacral, Spleen, Heart, G to Throat, mental and environmental, lunar. The first one present is the answer.
 - **Distinguish undefined from completely open in every white center,** noting the hanging gates in the white and the colored ones alike.
-- **Look at how definition is distributed.** Gates bridging separate areas of definition are conditioning elements in their own right, though for triple and quadruple splits the undefined centers are usually stronger. See [[Definition Types]].
+- **Look at how definition is distributed.** Gates bridging separate areas of definition are conditioning elements in their own right, though for triple and quadruple splits the undefined centers are usually stronger. See [[Definition Overview]] and [[Bridging]].
 - **Read the openness relationally,** asking who in this person's life defines their open centers and what they therefore amplify daily. With an open G or Spleen especially, check the environment: the wrong place makes everything else appear broken.
 
 ## Common Misunderstandings
@@ -182,4 +182,4 @@ The process is not linear and not a single pass: later cycles, particularly the 
 
 ## Related Articles
 
-[[Human Design System]] | [[Centers]] | [[Sacral Center]] | [[Solar Plexus Center]] | [[Splenic Center]] | [[Throat Center]] | [[G Center]] | [[Root Center]] | [[Head Center]] | [[Ajna Center]] | [[Heart Center]] | [[Conditioning]] | [[Deconditioning]] | [[Not-Self]] | [[Generator]] | [[Manifestor]] | [[Manifesting Generator]] | [[Projector]] | [[Reflector]] | [[Energy Types]] | [[Inner Authority]] | [[The Authority Hierarchy]] | [[Definition Types]] | [[Channels (36)]] | [[Gates (64)]] | [[Strategy]] | [[Mind vs Body Decision-Making]]
+[[Human Design System]] | [[Centers]] | [[Sacral Center]] | [[Solar Plexus Center]] | [[Splenic Center]] | [[Throat Center]] | [[G Center]] | [[Root Center]] | [[Head Center]] | [[Ajna Center]] | [[Heart Center]] | [[Conditioning]] | [[Deconditioning]] | [[Not-Self]] | [[Generator]] | [[Manifestor]] | [[Manifesting Generator]] | [[Projector]] | [[Reflector]] | [[Energy Types]] | [[Inner Authority]] | [[The Authority Hierarchy]] | [[Definition Overview]] | [[Channels (36)]] | [[Gates (64)]] | [[Strategy]] | [[Mind vs Body Decision-Making]]
