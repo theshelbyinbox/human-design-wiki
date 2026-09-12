@@ -1,4 +1,4 @@
-# Continuation Prompt — Human Design Wiki
+# Continuation Prompt -- Human Design Wiki
 
 Paste this into a new Claude session to continue work on the wiki.
 
@@ -57,9 +57,45 @@ RULES
   not site content
 - This wiki was built with the sd-wiki-brain skill - use that skill for standards
 
-STATE AS OF 09.12.26
+STATE AS OF 09.12.26 (second session, cleanup pass)
 
-Variables section rebuilt. It went from 3 articles / 1,507 words to 40 articles /
+Whole-wiki cleanup landed. `verify content` went from 344 of 428 files with
+problems to 0 of 428. Commit b27df21, pushed, Pages build confirmed, live
+content spot-checked. 344 content files changed. Sidebar nav and aliases.json
+untouched (nav hash checked before and after build.js).
+
+What the pass did:
+- 6,432 em dashes in prose became " -- ". 168 en dashes in transit date ranges
+  became "to" (spaced, "June 1 to 7") or a hyphen (unspaced, "Nov 6-11").
+- Three tables became flat bullets with inline labels, one bullet per former
+  row: inner-authority-overview (seven authorities), mind-vs-body (mind-led vs
+  body-led), strategy-and-signature (type / signature / not-self). Flat on
+  purpose: index.html's renderMarkdown ignores list indentation, so nested
+  bullets render as one level.
+- 44 distinct bad wikilink targets rewritten in place with the label kept, so
+  the page text reads the same: [[Throat]] -> [[Throat Center|Throat]],
+  [[4/1]] -> [[Profile 4/1|4/1]], [[Type]] -> [[Energy Types|Type]], the four
+  Quarter of X links and The Four Quarters -> [[Quarters|...]], all
+  Juxtaposition / Left Angle / Right Angle variants -> [[Angles Overview|...]],
+  Abstract and Logic Circuit -> Collective Circuit, Knowing Circuit ->
+  Individual Circuit, Integration Channels -> Integration Circuit,
+  BodyGraph -> Nine Centers. [[Rave New Year]] in gate-41 had no article and
+  was dropped from the Related row.
+- FACTUAL CORRECTION: four Cross of Planning articles (right-angle 1, 3, 4 and
+  left-angle 2) called gates 9 and 16 "the Channel 9/16 of Identification".
+  No such channel exists (9 pairs with 52, 16 with 48). In this cross 9 and 16
+  are the Sun/Earth opposition pair. Reworded to "the 9/16 Sun/Earth axis" and
+  the dead link was removed from 12 Related rows.
+
+Still true after the pass, and fine:
+- 106 frontmatter titles still contain em dashes (e.g. "Gate 21 — Biting
+  Through / ..."). verify only checks the body, and those titles are wikilink
+  targets, so they were left alone on purpose. Renaming them is a separate
+  decision that would touch aliases and every inbound link.
+- build.js still reports 194 articles reachable but not in the sidebar. That
+  is the curated state, not a regression.
+
+Variables section rebuilt (first session, 09.12.26). It went from 3 articles / 1,507 words to 40 articles /
 63,033 words in one pass, all mined live from the Human Design Brain library.
 Commit eb1713e, pushed, confirmed live.
 
@@ -113,13 +149,9 @@ STILL OPEN
    30 permanently and is future-proof. Do not change the binder from a Wiki-only
    session.
 
-3. EXISTING ARTICLES ARE DIRTY. A full `verify content` run reports 344 of 428
-   files with problems, almost all pre-existing: em dashes in prose across
-   inner-authority, profiles, strategy, types and incarnation-crosses; markdown
-   tables in inner-authority-overview, mind-vs-body and strategy-and-signature;
-   and bad [[Type]] links in the vessel-of-love crosses. The Variables section is
-   clean (40 of 40 ok). A dash-and-table cleanup pass over the rest of the wiki
-   is the obvious next job and is mostly mechanical.
+3. CLEANUP PASS is DONE (commit b27df21, second session 09.12.26). verify
+   content is 0 of 428 with problems. Keep it that way: run verify before every
+   commit.
 
 4. definition-types.md sits in variables/ but Definition is not a Variable; it
    belongs with Circuits. It also carries population percentages (41/46/11/1)
@@ -136,7 +168,15 @@ STILL OPEN
    is a Prana" but no body text. Getting those bodies into the library would be
    the single biggest upgrade available to this section.
 
-TOOLING NOTE, worth knowing
+TOOLING NOTES, worth knowing
+Pushing from a Cowork session: connecting ~/Developer/human-design-wiki as a
+folder gives a fast Linux workspace for editing, verify and build.js, but that
+workspace has no git identity and no GitHub credentials, and it cannot delete
+files (a stale .git/index.lock needs delete permission or Desktop Commander).
+Commit there with explicit -c user.name/user.email matching prior commits
+(theshelbyinbox), then push and run gh from Desktop Commander, which runs on the
+Mac proper. Also: `git stash` from the workspace can leave a stale index.lock.
+
 tools/hdwiki.py mine splits source files on blank lines and drops any paragraph
 over a size limit. Ra's mp3 transcripts are single 40KB paragraphs with no blank
 lines, so mine silently returned almost nothing for them and still reported
