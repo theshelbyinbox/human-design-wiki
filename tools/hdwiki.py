@@ -320,20 +320,26 @@ def cmd_mine(a):
 # --- links ----------------------------------------------------------------
 
 def _valid_targets():
+    """Every target a [[wikilink]] can legally name.
+
+    This must match what build.js actually resolves at render time, which is
+    wikilinkMap (lowercased article titles, then aliases.json) plus the article
+    keys themselves. It deliberately does NOT include navSections labels: a
+    sidebar label like "Environment (Overview)" is display text, it is not in
+    wikilinkMap, and a link naming one renders dead on the live site. That was
+    a real bug: verify passed while three links on a Planets article were dead
+    (09.12.26). Article titles are still read from the files, so a brand-new
+    article counts as valid before the next build.js run."""
     titles = set()
     mf = os.path.join(REPO, "manifest.json")
     if os.path.exists(mf):
-        def walk(o):
-            if isinstance(o, dict):
-                for k, v in o.items():
-                    if k in ("label", "title") and isinstance(v, str):
-                        titles.add(v)
-                    walk(v)
-            elif isinstance(o, list):
-                for i in o:
-                    walk(i)
         try:
-            walk(json.load(open(mf)))
+            man = json.load(open(mf))
+            titles.update(man.get("wikilinkMap", {}).keys())
+            titles.update(man.get("articles", {}).keys())
+            for meta in man.get("articles", {}).values():
+                if isinstance(meta, dict) and isinstance(meta.get("title"), str):
+                    titles.add(meta["title"])
         except Exception:
             pass
     titles.update(_wiki_articles().values())

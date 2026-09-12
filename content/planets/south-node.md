@@ -1,7 +1,7 @@
 ---
 title: "South Node"
 section: "Planets"
-related: ["[[North Node]]", "[[Planets Overview]]", "[[Design and Personality]]", "[[Environment (Overview)]]", "[[Perspective (Overview)]]", "[[The Four Arrows]]", "[[Uranus]]"]
+related: ["[[North Node]]", "[[Planets Overview]]", "[[Design and Personality]]", "[[Environment]]", "[[Perspective]]", "[[The Four Arrows]]", "[[Uranus]]"]
 ---
 
 # South Node
@@ -54,9 +54,9 @@ Environment here means the physical background a body is in, not a metaphor for 
 
 The Design Nodes are not only a planetary activation. They are one of the four calculations that produce the arrows at the head of the BodyGraph. Ra listed them: the four keys of transformation arise "out of the Design Sun/Earth, the Design north and south Node, the Personality north and south Node, and the Personality Sun/Earth."
 
-Each of the four is drawn left or right by the tone beneath it, and each carries one stage of transformation. The Design Sun and Earth give dietary regimen, which Ra described as well-being on the inside. The Design Nodes give the next stage. "And when you're looking at the design nodes, you're looking at your well-being in relationship to the outside. This is specifically about environment." That is the Environment arrow, and your Design South Node is one of the two positions that determines it. See [[Environment (Overview)]] and [[The Four Arrows]].
+Each of the four is drawn left or right by the tone beneath it, and each carries one stage of transformation. The Design Sun and Earth give dietary regimen, which Ra described as well-being on the inside. The Design Nodes give the next stage. "And when you're looking at the design nodes, you're looking at your well-being in relationship to the outside. This is specifically about environment." That is the Environment arrow, and your Design South Node is one of the two positions that determines it. See [[Environment]] and [[The Four Arrows]].
 
-The Personality Nodes do the parallel job on the mind side. "The personality nodes represent the fact that each and every one of us have a unique and differentiated way in which we look at the world. It is called perspective and it is our unique view." That is the Perspective arrow, and your Personality South Node is one of the two positions behind it. See [[Perspective (Overview)]] and [[Variables Overview]].
+The Personality Nodes do the parallel job on the mind side. "The personality nodes represent the fact that each and every one of us have a unique and differentiated way in which we look at the world. It is called perspective and it is our unique view." That is the Perspective arrow, and your Personality South Node is one of the two positions behind it. See [[Perspective]] and [[Variables Overview]].
 
 Ra taught these as a chain, correct environment opening the possibility of seeing correctly and correct seeing opening the possibility of conceptualising correctly. The Nodes sit in the middle of it, the ground and the vantage point rather than the content.
 
@@ -83,4 +83,4 @@ The South Node is also the one position in the column guaranteed to become less 
 
 ## Related Articles
 
-[[North Node]] | [[Planets Overview]] | [[Design and Personality]] | [[Environment (Overview)]] | [[Perspective (Overview)]] | [[The Four Arrows]] | [[Variables Overview]] | [[Uranus]] | [[Planetary Returns]] | [[Sun]] | [[Earth]] | [[Conditioning]] | [[Gates Overview]] | [[Profiles & Lines]]
+[[North Node]] | [[Planets Overview]] | [[Design and Personality]] | [[Environment]] | [[Perspective]] | [[The Four Arrows]] | [[Variables Overview]] | [[Uranus]] | [[Planetary Returns]] | [[Sun]] | [[Earth]] | [[Conditioning]] | [[Gates Overview]] | [[Profiles & Lines]]
