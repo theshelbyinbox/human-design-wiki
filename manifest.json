@@ -2400,6 +2400,74 @@
    "title": "Inner Authority",
    "section": "Inner Authority"
   },
+  "planets/design-and-personality": {
+   "title": "Design and Personality",
+   "section": "Planets"
+  },
+  "planets/earth": {
+   "title": "Earth",
+   "section": "Planets"
+  },
+  "planets/jupiter": {
+   "title": "Jupiter",
+   "section": "Planets"
+  },
+  "planets/mars": {
+   "title": "Mars",
+   "section": "Planets"
+  },
+  "planets/mercury": {
+   "title": "Mercury",
+   "section": "Planets"
+  },
+  "planets/moon": {
+   "title": "Moon",
+   "section": "Planets"
+  },
+  "planets/neptune": {
+   "title": "Neptune",
+   "section": "Planets"
+  },
+  "planets/north-node": {
+   "title": "North Node",
+   "section": "Planets"
+  },
+  "planets/planetary-returns": {
+   "title": "Planetary Returns",
+   "section": "Planets"
+  },
+  "planets/planets-overview": {
+   "title": "Planets Overview",
+   "section": "Planets"
+  },
+  "planets/pluto": {
+   "title": "Pluto",
+   "section": "Planets"
+  },
+  "planets/saturn": {
+   "title": "Saturn",
+   "section": "Planets"
+  },
+  "planets/south-node": {
+   "title": "South Node",
+   "section": "Planets"
+  },
+  "planets/sun": {
+   "title": "Sun",
+   "section": "Planets"
+  },
+  "planets/uranus": {
+   "title": "Uranus",
+   "section": "Planets"
+  },
+  "planets/venus": {
+   "title": "Venus",
+   "section": "Planets"
+  },
+  "planets": {
+   "title": "Planets",
+   "section": "Planets"
+  },
   "profiles/angles-overview": {
    "title": "Angles Overview",
    "section": "Profiles & Lines"
@@ -3058,6 +3126,23 @@
   "self-projected authority": "inner-authority/self-projected-authority",
   "splenic authority": "inner-authority/splenic-authority",
   "inner authority": "inner-authority",
+  "design and personality": "planets/design-and-personality",
+  "earth": "planets/earth",
+  "jupiter": "planets/jupiter",
+  "mars": "planets/mars",
+  "mercury": "planets/mercury",
+  "moon": "planets/moon",
+  "neptune": "planets/neptune",
+  "north node": "planets/north-node",
+  "planetary returns": "planets/planetary-returns",
+  "planets overview": "planets/planets-overview",
+  "pluto": "planets/pluto",
+  "saturn": "planets/saturn",
+  "south node": "planets/south-node",
+  "sun": "planets/sun",
+  "uranus": "planets/uranus",
+  "venus": "planets/venus",
+  "planets": "planets",
   "angles overview": "profiles/angles-overview",
   "line 1 — the investigator": "profiles/line-1",
   "line 2 — the hermit": "profiles/line-2",
