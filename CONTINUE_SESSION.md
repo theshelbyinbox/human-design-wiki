@@ -95,10 +95,12 @@ prose links elsewhere in the wiki.
 
 STILL OPEN
 
-1. SIDEBAR NAV, waiting on Shelby. The proposed block for the Variables section
-   was shown in chat on 09.12.26 and never applied. manifest.json navSections is
-   byte-identical to what it was before this work, so the 37 new articles are
-   reachable by link and search but are NOT in the sidebar. Ask her before adding.
+1. SIDEBAR NAV is DONE. Approved in chat and applied 09.12.26 (commit 906e221).
+   The Variables section now has 47 entries: seven dividers (Start Here, the five
+   categories, Also Here) and 40 articles, with values numbered 1 to 6. No other
+   nav section was touched. 194 articles elsewhere in the wiki are still
+   reachable but not in the sidebar; that is the long-standing curated state, not
+   a regression from this work.
 
 2. BINDER SIDE, for a future "Both" session, never in a Wiki-only session.
    The binder's Who Has What page resolves a Variable value by looking up the
