@@ -23,13 +23,32 @@ When you make decisions from Inner Authority, you align yourself with your uniqu
 
 There are seven distinct authority configurations in Human Design, organized hierarchically by which body center governs the decision. They are covered in detail in their own pages:
 
-- **[[Emotional Authority]].** Configuration: defined Solar Plexus. Who has it: roughly 50% of the population, any type.
+- **[[Emotional Authority]].** Configuration: defined Solar Plexus. Who has it: any type, and about half of everyone.
 - **[[Sacral Authority]].** Configuration: defined Sacral, undefined Solar Plexus. Who has it: Generators and Manifesting Generators without emotional definition.
-- **[[Splenic Authority]].** Configuration: defined Spleen, undefined Sacral and Solar Plexus. Who has it: some Manifestors and Projectors.
+- **[[Splenic Authority]].** Configuration: defined Spleen, undefined Sacral and Solar Plexus. Who has it: unemotional Manifestors and Projectors.
 - **[[Ego Authority]].** Configuration: defined Heart connected to Throat or G, with no Solar Plexus, Sacral or Spleen definition. Who has it: rare, some Manifestors and Projectors.
-- **[[Self-Projected Authority]].** Configuration: G connected to Throat, no other definition. Who has it: roughly 2 to 3% of the population, some Projectors.
-- **[[Mental Authority]].** Configuration: definition only in Head, Ajna and Throat. Who has it: Mental Projectors.
+- **[[Self-Projected Authority]].** Configuration: G connected to Throat, with no Solar Plexus, Sacral, Spleen or Heart definition. Who has it: some Projectors.
+- **[[Mental Authority]].** Configuration: definition only in Head, Ajna and Throat, with nothing defined below the Throat. Who has it: Mental Projectors.
 - **[[Lunar Authority]].** Configuration: no definition at all. Who has it: [[Reflector]]s only.
+
+## How Common Each One Is
+
+Figures for authority vary by source and by the kind of source, and this wiki gives the
+range rather than picking one. The round teaching numbers in wide circulation are about
+50% emotional, about 30% sacral and about 15% splenic, with the remaining four sharing
+what Ra Uru Hu called about four out of every hundred people.
+
+A statistics set published by JovianArchive.com breaks all seven out and its slices total
+exactly one hundred: Solar Plexus 46.97%, Sacral 34.71%, Splenic 10.65%, no inner
+authority 3.58%, Self-Projected 2.84%, Ego-Manifested 0.80%, Ego-Projected 0.45%. Jovian
+states the data comes from charts run through their free calculators, which makes it a
+large self-selected sample and not a census, and its single "no inner authority" slice
+covers Mental Projectors and [[Reflector]]s together without separating them.
+
+The two sets agree on the shape and disagree on the detail. Emotional authority is the
+largest by a wide margin, sacral is second, splenic third, and the remaining four are all
+rare. Nothing below the top three is established closely enough to quote a single number
+with confidence.
 
 [[Minor Authorities]] covers the rarer configurations (Ego-Manifested and Ego-Projected) in additional depth. [[No Direct Inner Authority]] covers the two configurations (Mental Authority and Lunar Authority) that operate without a body-center signal.
 

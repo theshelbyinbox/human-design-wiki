@@ -71,7 +71,7 @@ A Reflector who tries to use the sounding board without the lunar cycle is still
 
 ## The Risk of Mental Decision-Making
 
-Both Reflectors and Mental Projectors are particularly vulnerable to making decisions from the conditioned mind -- because in both configurations, the mind is the loudest internal voice. Without a body-center authority to override the mind, the homogenized world's pressure to "decide right now" can dominate.
+Both Reflectors and Mental Projectors are particularly vulnerable to making decisions from the conditioned mind -- because in both configurations, the mind is the loudest internal voice. Without a body-center authority to override the mind, the homogenized world's pressure to decide right now can dominate.
 
 > "What human design is about is navigating. And whether you are a reflector or a mental projector, you have a way in which you can make decisions as yourself. For non-energy types, the conditioning of the homogenized world is the greatest distorting factor. The mental projector and the reflector who make decisions in the moment -- these are lives that are lost and not easily or ever recovered."
 > -- Ra Uru Hu

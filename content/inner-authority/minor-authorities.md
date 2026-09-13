@@ -6,16 +6,16 @@ related: ["[[Emotional Authority"]
 
 # Minor Authorities
 
-Approximately 96% of the human population carries one of the three major authorities: [[Emotional Authority]] (~50%), [[Sacral Authority]] (~30%), or [[Splenic Authority]] (~15%). The remaining ~4% carries one of the **minor authorities**. These are the configurations Ra Uru Hu grouped together because they share a common precondition: an undefined Solar Plexus, an undefined Sacral, and an undefined Spleen.
+Approximately 96% of the human population carries one of the three major authorities. The round teaching figures are [[Emotional Authority]] (~50%), [[Sacral Authority]] (~30%) and [[Splenic Authority]] (~15%). A statistics set published by JovianArchive.com, drawn from charts run through their free calculators and so a large self-selected sample rather than a census, gives 46.97%, 34.71% and 10.65% for the same three. The remaining ~4% carries one of the **minor authorities**. These are the configurations Ra Uru Hu grouped together because they share a common precondition: an undefined Solar Plexus, an undefined Sacral, and an undefined Spleen.
 
 > "Today we're going to deal with the minority authorities -- a group of authorities that really represent about four out of every hundred people. To have any of these minor authorities, you must have an undefined solar plex center, an open sacral center, and an open splenic center."
 > -- Ra Uru Hu
 
-Within that constraint, the minor authorities are:
+Within that constraint, the minor authorities are listed below. The percentages are the round spoken figures in circulation; where the JovianArchive set gives a number for the same configuration it is named alongside.
 
-- **Ego-Manifested Authority** (~1%)
-- **Ego-Projected Authority** (<0.5%)
-- **Self-Projected Authority** (~2.5%)
+- **Ego-Manifested Authority** (~1%; JovianArchive 0.80%)
+- **Ego-Projected Authority** (<0.5%; JovianArchive 0.45%)
+- **Self-Projected Authority** (~2.5%; JovianArchive 2.84%)
 - **Mental Authority** (~0.5-1%) -- covered fully in [[Mental Authority]] and [[No Direct Inner Authority]]
 - **Lunar Authority** (~1%) -- covered fully in [[Lunar Authority]] and [[No Direct Inner Authority]]
 
@@ -50,7 +50,7 @@ After-the-fact mental rehearsal -- *I should have said this, I could have said t
 
 ## Ego-Projected Authority
 
-Ego-Projected Authority is rarer -- fewer than one in two hundred people. The configuration: the Heart is defined and connected only to the G center (the 21-45 link becomes 21-51, the channel of initiation), with no Heart-to-Throat connection. The Solar Plexus, Sacral, and Splenic centers are all undefined.
+Ego-Projected Authority is rarer -- fewer than one in two hundred people. The configuration: the Heart is defined and connected only to the G center, through [[Channel 25/51 — The Channel of Initiation]], with no Heart-to-Throat connection. The Heart has exactly four channels, and only two of them are in play for an ego authority: 21-45 to the Throat gives Ego-Manifested, 25-51 to the G gives Ego-Projected. The other two, 26-44 and 37-40, define the Spleen and the Solar Plexus and so rule an ego authority out by the precondition below. The Solar Plexus, Sacral, and Splenic centers are all undefined.
 
 Because the Heart is a motor and the G is not, in this configuration the Heart's power dominates the G. This produces a very powerful identity (G center) animated by willpower (Heart), but sitting in a sea of openness across the rest of the chart.
 
@@ -73,9 +73,9 @@ The correct path is mastery and patience: master a system, become recognized, an
 
 ## Self-Projected Authority
 
-Self-Projected Authority is the G center defined and connected to the Throat, with no definition in the Solar Plexus, Sacral, Spleen, or Heart. The G can have the Ajna above it -- Head → Ajna → Throat → G is still Self-Projected -- but the key element is the G-to-Throat connection without Heart involvement.
+Self-Projected Authority is the G center defined and connected to the Throat, with no definition in the Solar Plexus, Sacral, Spleen, or Heart. Definition above the Throat does not disqualify it: a defined Ajna, or a defined Head and Ajna, sitting alongside a G-to-Throat connection is still Self-Projected. The G itself has no channel to the Ajna or the Head, so its only upward link is the one to the Throat, and that link without Heart involvement is the whole of the requirement.
 
-This is approximately 2.5% of the human population. It is exclusive to Projectors who have no defined motors.
+This is approximately 2.5% of the human population in the round spoken figure, and 2.84% in the JovianArchive set. It is exclusive to Projectors who have no defined motors.
 
 ### Hearing the Identity Speak
 
