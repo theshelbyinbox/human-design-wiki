@@ -142,6 +142,18 @@
     {
      "key": "types/reflector",
      "label": "Reflector"
+    },
+    {
+     "key": "types/aura-types",
+     "label": "Aura Types"
+    },
+    {
+     "key": "types/projector-types",
+     "label": "Projector Types"
+    },
+    {
+     "key": "types/how-the-five-types-work-together",
+     "label": "How the Five Types Work Together"
     }
    ]
   },
