@@ -6,29 +6,54 @@ related: ["[[Reflector"]
 
 # Wait the Lunar Cycle -- Reflector Strategy
 
-The strategy of Wait the Lunar Cycle applies to [[Reflector]] types -- approximately 1 percent of the human population. Reflectors have no defined centers at all. Their aura is sampling and Teflon-like, taking in the field around them but not retaining definition from it. With no defined centers, they have no fixed inner authority, and their decision-making is locked to time -- specifically, to the cycle of the Moon.
+Wait the Lunar Cycle is the strategy of the [[Reflector]], the rarest of the five types. This wiki publishes the Reflector population as approximately 1 to 1.4 percent: Ra Uru Hu, teaching Reflector strategy, put it at 1.3 or 1.4 percent; the Human Design Dictionary, Jovian Archive gives approximately 1 to 2 percent; most contemporary teaching rounds it to about 1 percent.
 
-## Why a Full Cycle
+A Reflector is the only design carrying no [[Definition]] at all. Every one of the [[Nine Centers]] is open, and every activation is a hanging gate waiting on its other half. The [[Moon]] supplies it, completing those channels one after another, so that a Reflector receives a temporary definition that is genuinely theirs and repeats every month for life. How that pattern is read as a decision-making authority belongs to [[Lunar Authority]]. This page is about the prior question: not how a Reflector decides, but that a Reflector engages with life on the cycle's timing at all.
 
-The Moon moves through all 64 gates of the wheel approximately once every 28 days. As it passes through each gate, it temporarily activates definitions in the Reflector's chart -- connecting hanging gates into channels, lighting up centers, producing different functional configurations for hours or days at a time. Over the full cycle, the Reflector experiences every possible definition their chart can carry.
+## Strategy and authority are the same thing here
 
-This means that any decision a Reflector makes on day one of the cycle is being made from one specific transient definition. The same decision made on day fourteen will look different because a different part of the chart is lit up. Only after the full cycle does the Reflector have the complete experiential sample.
+For the other four types, strategy and [[Inner Authority]] are two instruments. A Reflector has one. Looking at a Reflector, Ra said, "there is only strategy. That is the authority. Time, time, nothing else." A Generator can [[Respond]] in a second. A Reflector cannot compress the instrument, because the instrument is duration.
 
-> "The authority for a reflector is time. Just simply time. A specific cycle or a specific sequence. The reflector decision-making process is something that cannot take place in the moment. It is locked to the movement of the Moon."
+Ra described that process as one that cannot take place in the moment and cannot take place over an endless amount of time. The cycle has a floor and a ceiling, and it is not a licence for indefinite delay.
+
+## How long the cycle is
+
+The sources give a spread and the wiki publishes it. The teaching is identical in all of them.
+
+- **28 days** in The Definitive Book of Human Design, The Science of Differentiation, and in the Human Design Newcomer's Guide by Lynda Bunnell and Ruth Brennan.
+- **28.5 days and 29.5 days** in two different entries of the Human Design Dictionary, Jovian Archive.
+- **28 or 29 days** in Ra's own lectures, where he used both numbers in a single passage.
+
+Part of the spread is astronomy rather than disagreement: the Definitive Book notes that the Moon takes roughly 28 days to circle the Earth but about 30 days from one full moon to the next, and a Reflector tracking their own chart is following the first of those.
+
+## What waiting is not
+
+The word does most of the damage. Ra named the misreading directly:
+
+> "So many people think that waiting is a stagnant sort of dead space."
 > -- Ra Uru Hu
 
-## What "Waiting" Actually Means
+His correction was that waiting is a condition, not the absence of one:
 
-The discipline of waiting can be misread as inactivity. It is not.
-
-> "Waiting is not a stagnant sort of dead space... Waiting can be translated as a higher state of alertness. In waiting, there are things going on... It is being present. It is being ready for precisely those things that you're actually waiting for."
+> "Waiting can be translated as a higher state of alertness. In waiting, there are things going on. There is the movement and the process of whatever it is that you're doing. But the waiting is a state. It is a state of awareness. It is being present. It is being ready for precisely those things that you're actually waiting for."
 > -- Ra Uru Hu
 
-For the Reflector, the lunar cycle is the most pronounced form of this. Twenty-eight days of *sampling* -- letting the Moon move them through different mental, emotional, splenic, sacral configurations, watching how the situation feels from each -- is the active work. The decision arrives at the end of that sampling. It does not get rushed.
+A Reflector in a cycle is not on hold. Life continues and the conversation continues; what is suspended is only the commitment. The opposite misreading is as common, and contemporary teachers are blunt about it: a cycle used as a way never to decide anything is avoidance wearing the strategy's clothes.
 
-## What to Apply It To
+## What the sampling actually consists of
 
-Not every Reflector decision requires a full lunar cycle. The strategy applies to significant life decisions:
+The Reflector aura is a sampling aura, resistant rather than closed or repelling, holding enough tension between itself and the other to do one job.
+
+> "You rub up against a reflector and they sample you. This is what they do. They sample and they compare."
+> -- Ra Uru Hu
+
+Comparison is the active verb. Over a cycle a Reflector is not collecting opinions about the decision; they are collecting readings of themselves while it sits on the table. On one day the Moon brings emotion, on another splenic awareness, on another sacral energy, and the question is how the same proposal sits from each position.
+
+That makes the practice concrete rather than mystical. Map the wheel, find the gates the Moon will click through, and follow the sequence; a month of apparent vagueness becomes a pattern a Reflector can recognise and eventually predict. Ra called the Reflector's mind their great enemy here, not because it is defective but because a Reflector does not measure with mind. They measure with experience.
+
+## Which decisions warrant the full cycle
+
+No source supplies a checklist, only a consistent qualifier: the Newcomer's Guide says an important decision, the Definitive Book says any major decisions, contemporary parenting material says any large or significant decisions. The cycle is for decisions that will still be shaping the Reflector's life a year later.
 
 - Major relationships and commitments.
 - Career changes and job acceptances.
@@ -36,40 +61,53 @@ Not every Reflector decision requires a full lunar cycle. The strategy applies t
 - Large financial decisions.
 - Decisions that will be hard to reverse.
 
-Day-to-day small choices can run on whatever in-the-moment sampling feels appropriate. The Reflector's discipline is to distinguish what is *significant* from what is *casual*.
+Everything else runs on whatever sampling the day provides, and a Reflector who already knows the answer does not owe the Moon four more weeks. The discipline is in being honest about which decisions are significant, because the not-self will reclassify a life-changing one as small to get it over with.
 
-## Talking Through with Many
+## Talking it through, with many different people
 
-A Reflector benefits from discussing significant decisions with many different people -- not for advice, but because each person reflects back a different aspect of the situation. Over the cycle, this collection of reflections gives the Reflector a multi-perspective sample of how the decision lands across different definitions and different fields.
+The sources describe the cycle as contemplating and discussing, not contemplating alone: the Newcomer's Guide says a Reflector needs at least one lunar cycle contemplating and discussing the issue, and the Jovian Archive dictionary describes an entire cycle of activation and digestion before a correct decision is reached.
 
-This is similar to how the [[Mental Authority|sounding board]] works for Mental Projectors, but Reflectors are doing it across both *people* and *time* -- a layered sampling no other type has access to.
+Talking to many different people is not a hunt for advice. Each person is another field to sample, and the same proposal described to six people produces six different readings of the Reflector. It is that variation, in the Reflector, that carries the information. The process resembles the sounding board belonging to [[Mental Authority]]; the difference is that a Reflector samples across people and across time at once.
 
-## What Conditioning Looks Like for Reflectors
+## Demanding the time
 
-Reflectors are the most homogenized type because their entire chart is open. The pressures of a fast-paced culture that demands immediate decisions hit Reflectors hardest. A Reflector child asked "Do you want to go to this school?" cannot give a meaningful answer in the moment -- but parents rarely have the patience to wait 28 days for one.
+The hardest part of this strategy is not internal. The world runs on the immediate and a Reflector needs a month.
 
-Reflectors raised in environments that demanded immediate decisions often develop a pattern of grabbing onto someone else's authority -- a parent's, a partner's, a leader's -- and using it as a substitute for the lunar cycle. This produces the not-self theme of **disappointment**, the gap between the life the Reflector lives and the life they would have lived if they had been able to sample fully.
-
-> "If you do not demand respect for what you are, you're never going to get it. You just won't... You don't know after a week. You don't know after two weeks. You don't know after three weeks. You don't."
+> "if you're a reflector and you want to be really together in this plane, in this life, you've got to make everybody wait. You do."
 > -- Ra Uru Hu
 
-## The Signature: Surprise
+Asking for the time is part of the strategy, not an apology attached to it.
 
-When a Reflector lives the lunar cycle, the signature is **surprise** -- the pleasant surprise of a life that works. Because Reflectors carry no fixed identity, their reward is not predictability but the ongoing freshness of what arises when they are in the right environment, with the right people, and have given themselves the cycle to choose.
+> "If you do not demand respect for what you are, you're never going to get it. You just won't. And the thing is that you don't know in the now. You don't know after a week. You don't know after two weeks. You don't know after three weeks. You don't. Because it's not complete yet."
+> -- Ra Uru Hu
 
-## The Practice
+He was equally clear about what is lost when someone refuses to wait, which in his account is nothing: those who do not wait were never for you in the first place. An offer that cannot survive a lunar cycle was not built for a lunar being.
 
-The practice of Wait the Lunar Cycle:
+## What disappointment is telling a Reflector
 
-- Identify which decisions are significant enough to warrant the full cycle.
-- For those decisions, give yourself the 28 days. Don't truncate.
-- Talk through the decision with several different trusted people during the cycle.
-- Notice how the decision feels at different points in the lunar movement.
-- Demand the time from those around you. Frame it as a non-negotiable, not an apology.
-- For smaller decisions, sample however feels right in the moment.
+[[Not-Self]] disappointment is the [[Signature]] that failed to arrive. It shows up when a Reflector has borrowed someone else's authority in place of the cycle, a parent's or a partner's or an employer's, and then lives inside a decision that was never sampled. Read as a signal rather than a mood it is useful, marking where a cycle was cut short and, more often, a wrong environment or the wrong company.
 
-Reflectors who run this experiment report a profound difference between the disappointment of rushed decisions and the surprise of decisions made with the full cycle behind them.
+## The Reflector child, and a world that will not wait
+
+Ra was direct about the cost of growing up under this pressure. The vast majority of Reflectors, he said, are deeply homogenized in this life, and that homogenization begins at a very early stage, because a Reflector is so susceptible to where and with whom they are placed. That is a claim about Reflectors and their openness, not a ranking of the types.
+
+A parent who asks a Reflector child whether they would like to go to *this* school does not expect to wait 28 or 29 days for an answer, and nor does a parent asking whether the child likes their room or the town. The child has no faster instrument, so the answer they give is the one the room wants.
+
+The Definitive Book's guidance to parents is that Reflector children should not be rushed but allowed to develop at their own pace, and that they need teachers who will let them develop naturally. They reflect back exactly what is going on in the family and the classroom, so a thriving Reflector child and a miserable one are both reports on the environment, not on the child.
+
+## Environment first
+
+If there is one thing a Reflector needs to get right ahead of everything else, it is where they are. Every Reflector has an undefined [[G Center]], which keeps pushing one question: is this the right place.
+
+> "It is one of the most important things for the reflector, particularly dealing with reflector children, that they are comfortable in their environment because it is the environment that they're going to sample and the sampling of that environment is going to determine their nature."
+> -- Ra Uru Hu
+
+That puts [[Environment]] ahead of almost every other decision, and it is why the strategy can fail even when followed: a Reflector in the wrong place can run the cycle perfectly and still only be measuring the [[Conditioning]] around them.
+
+## The signature: surprise
+
+Lived correctly, the reward is surprise. Not predictability, which a Reflector will never have, but a life that keeps arriving as something other than what was expected. Ra's closing instruction was to follow strategy and authority, honour the Moon, and in being a true Reflector to find that surprise.
 
 ## Related Articles
 
-[[Strategy Overview]] | [[Reflector]] | [[Lunar Authority]] | [[No Direct Inner Authority]] | [[Nine Centers]] | [[Not-Self]] | [[Signature]]
+[[Strategy Overview]] | [[Reflector]] | [[Lunar Authority]] | [[No Direct Inner Authority]] | [[Nine Centers]] | [[Not-Self]] | [[Signature]] | [[Moon]] | [[Environment]] | [[G Center]] | [[Conditioning]]
