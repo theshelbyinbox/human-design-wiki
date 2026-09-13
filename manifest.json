@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12",
+ "generated": "2026-09-13",
  "wiki": {
   "name": "Human Design Wiki",
   "tagline": "The comprehensive reference for the Human Design System — synthesized from primary sources"
@@ -980,9 +980,6 @@
     {
      "key": "variables/cognition-touch",
      "label": "6. Touch"
-    },
-    {
-     "divider": "Also Here"
     }
    ]
   },
@@ -1068,6 +1065,46 @@
     {
      "key": "planets/pluto",
      "label": "Pluto"
+    }
+   ]
+  },
+  {
+   "key": "definition",
+   "label": "Definition",
+   "articles": [
+    {
+     "divider": "Start Here"
+    },
+    {
+     "key": "definition/definition-overview",
+     "label": "Definition Overview"
+    },
+    {
+     "key": "definition/bridging",
+     "label": "Bridging"
+    },
+    {
+     "divider": "The Five Types"
+    },
+    {
+     "key": "definition/single-definition",
+     "label": "Single Definition"
+    },
+    {
+     "key": "definition/split-definition",
+     "label": "Split Definition"
+    },
+    {
+     "key": "definition/triple-split-definition",
+     "label": "Triple Split Definition"
+    },
+    {
+     "key": "definition/quadruple-split-definition",
+     "label": "Quadruple Split Definition"
+    },
+    {
+     "key": "definition/no-definition",
+     "label": "No Definition"
     }
    ]
   }
