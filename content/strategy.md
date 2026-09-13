@@ -16,7 +16,7 @@ The purpose of Strategy is mechanical: it reduces resistance, bypasses the condi
 - [[Respond]] -- Generator and Manifesting Generator strategy: wait for life to present something, then check the sacral response
 - [[Inform]] -- Manifestor strategy: notify those who will be impacted before acting; also the second step for Manifesting Generators
 - [[Wait for the Invitation]] -- Projector strategy: wait for formal recognition before entering significant life situations
-- [[Wait the Lunar Cycle]] -- Reflector strategy: 28 days for the Moon to transit all 64 gates before deciding
+- [[Wait the Lunar Cycle]] -- Reflector strategy: a full transit of the Moon through all 64 gates, which the sources put at 28 to 29.5 days, before deciding
 - [[Mind vs Body Decision-Making]] -- the foundational claim of Human Design: why the mind fails at decisions and what the body does instead
 - [[Strategy and Signature]] -- the feedback loop between Strategy and the signature state that confirms it's working
 
