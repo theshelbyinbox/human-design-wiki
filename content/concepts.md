@@ -12,11 +12,11 @@ If you are new to the wiki, this is the place to start. Begin with **Human Desig
 
 ## Pages in this Section
 
-- [[Human Design System]] -- the full overview: bodygraph, origins with Ra Uru Hu, the 1987 revelation, the four ingredients (astrology, I Ching, Tree of Life, chakras), the central claim about decision-making
-- [[Signature]] -- the felt experience of correct living, one per type: satisfaction, peace, success, surprise
-- [[Not-Self]] -- the felt experience of conditioning, one per type: frustration, anger, bitterness, disappointment; how it shows up per open center
-- [[Conditioning]] -- the mechanism by which open centers absorb and amplify the energies of others; why the not-self forms
-- [[Deconditioning]] -- the seven-year process of releasing absorbed patterns through consistent Strategy and Authority; the body's cellular renewal cycle as the timeline
+- [[Human Design System]] -- the full overview: the bodygraph, the synthesis the system draws on, Ra Uru Hu and the eight days of January 1987, and the central claim that decisions do not belong to the mind
+- [[Signature]] -- the readout of correct living. Four signatures cover the five types, because Generators and Manifesting Generators share satisfaction: satisfaction, peace, success and surprise
+- [[Not-Self]] -- the readout of conditioning, paired one to one against the signatures: frustration, anger, bitterness and disappointment, plus the fixed strategy each open center runs
+- [[Conditioning]] -- the mechanism. How the aura carries it, why open centers amplify rather than merely receive, and why openness is where a person is nurtured rather than damaged
+- [[Deconditioning]] -- what living by Strategy and Authority does to that over time, and the seven-year cellular cycle Ra gave as its measure
 
 ## Related Sections
 

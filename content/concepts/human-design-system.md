@@ -6,64 +6,81 @@ related: ["[[Strategy"]
 
 # Human Design System
 
-Human Design is a system of self-knowledge that combines principles from western astrology, the Hindu-Brahman chakra system, the Kabbalist Tree of Life, the Chinese I Ching, and quantum physics. It was received by Ra Uru Hu in January 1987 in Ibiza, Spain, through an eight-day mystical experience he described as an encounter with a Voice. Ra spent the following 25 years teaching and systematizing the knowledge until his death in 2011.
+Human Design is a system of self-knowledge that synthesizes four ancient observational systems -- astrology, the Chinese I Ching, the Hindu-Brahmin chakras and the Kabbalist Tree of Life -- with the contemporary disciplines of quantum mechanics, astronomy, genetics and biochemistry. It was received by Ra Uru Hu on the island of Ibiza, Spain, in January 1987. The Human Design Dictionary dates it precisely: Ra's encounter and education lasted from January 3 to 11, 1987. The Definitive Book of Human Design describes eight straight days and nights, beginning late in the day of January 3, during which a Voice, as Ra called it, revealed the material. Ra taught the knowledge until his death in 2011; Jovian Archive's biography states he dedicated 25 years of his life to developing and teaching the system.
 
-## Core Premise
+## The Science of Differentiation
 
-Human Design describes itself as the science of differentiation. It holds that each person has a unique energetic blueprint, called a BodyGraph or bodygraph, that reveals their consistent nature, how they are designed to make decisions, and where they are susceptible to external conditioning. The system's central claim is that most people make decisions through their minds, which are not equipped for this function, and that living by one's correct [[Strategy]] and [[Inner Authority]] gradually returns a person to alignment with their nature.
+Ra's own name for the system was the science of differentiation.
 
-"Human Design is about decision making. Life being dualistic, being a binary, life always has a this and that to it. Everything about where you are in your life now is the construct that's been built on many many many decisions that you've made." - Ra Uru Hu
+> "I describe Design as the science of differentiation, and it is. It is a magical thing. What is truly magical is to be able to see mechanically the potential of any being to be unique. And the other side of differentiation is homogenization."
+> -- Ra Uru Hu
+
+That binary is the frame the whole system hangs on. To be homogenized, in Ra's vocabulary, is to be conditioned: steered by what is normal, by the authority of a lover, a parent, a culture or a doctor, rather than by the mechanics of one's own vehicle. Human Design treats this not as a moral failure but as the default condition of a species whose openness is built to take the other in. Living by your own authority is therefore described as abnormal rather than natural. The system is not general advice: it is addressed to one set of mechanics at a time, which is why two people reading this page can correctly be told opposite things.
 
 ## The BodyGraph
 
-The BodyGraph is a diagram composed of nine geometric shapes (centers), 64 gates, and 36 channels connecting them. It is calculated from a person's birth date, time, and location. Two separate calculations are made: the Personality calculation (at the moment of birth) and the Design calculation (approximately 88 days before birth, corresponding to 88 degrees of solar arc). The Personality calculation is represented in black in the chart; the Design calculation appears in red.
+The bodygraph is a diagram of nine centers, 64 gates and 36 channels, calculated from a birth date, time and location. Two calculations are made: the Personality, at the moment of birth, printed in black, and the Design, approximately 88 days before birth at 88 degrees of solar arc, printed in red.
 
-Centers that are filled in with color are called defined. Defined centers represent consistent, reliable energy that the person generates themselves. Centers left white are called undefined or open. Open centers receive and amplify energy from others, and are the primary sites of conditioning.
+Centers filled with color are defined and carry a fixed, reliable quality the person generates themselves. Centers left white are open, taking in and amplifying what surrounds them. [[Definition]] and openness form the binary the rest of the chart is read against.
 
-## Nine Centers
+The nine centers are the Head, Ajna, Throat, G (Identity), Heart (Ego), Solar Plexus, Sacral, Spleen and Root, and the [[Nine Centers]] article covers each one. Human Design holds that in 1781 the species shifted from a seven-centered to a nine-centered form, and that everyone alive today inhabits a nine-centered vehicle. According to The Definitive Book of Human Design, the shift changed the job of the mind: its strategic, decision-making role moved from directing our own lives to becoming a source of wisdom and outer authority for others, and the mind has not grasped that the job description changed. Which two centers were added is not established in the sources consulted here, and this wiki does not assert it.
 
-The bodygraph contains [[Nine Centers]]: the Head, Ajna, Throat, G (Identity), Heart (Ego), Solar Plexus, Sacral, Splenic, and Root. Each center governs specific themes and biological correlates. The system holds that human beings shifted from a seven-center configuration to the current nine-center configuration in 1781, adding the Ajna and Solar Plexus as awareness centers.
+## The Five Types
 
-## Energy Types
+Human Design sorts people into five [[Energy Types]] by their defined centers: [[Generator]], [[Manifesting Generator]], [[Manifestor]], [[Projector]] and [[Reflector]]. Classical Jovian Archive material counts four, treating the Manifesting Generator as a variation inside the Generator type rather than a type of its own.
 
-Human Design identifies four primary energy types based on the configuration of defined centers: [[Generator]], [[Manifesting Generator]], [[Manifestor]], [[Projector]], and [[Reflector]]. Generators and Manifesting Generators together constitute approximately 70 percent of the human population. Projectors represent roughly 20 percent, Manifestors around 8 to 9 percent, and Reflectors approximately 1 percent.
+> "The manifesting Generator is neither a Manifestor nor a separate Type, it is a sub group of Generator. The two Types of Generator are the pure Generator (Throat is not defined to a Motor) and the Manifesting Generator (the Throat is connected to a Motor). In both cases, the Sacral Center is defined and the Strategy, Aura, Not-Self Theme, and Signature are the same."
+> -- The Human Design Dictionary, Jovian Archive
 
-Each type has a corresponding aura, a [[Strategy]] for correct engagement with life, a signature state that indicates alignment, and a not-self theme that indicates misalignment.
+Four and five describe the same population; this wiki publishes five while the mechanics above stand. Population figures come from lectures, books and chart surveys, not census data, so they are published here as bands.
 
-## Defined vs. Undefined
+- **Generators and Manifesting Generators together**: approximately 66 to 70 percent. Ra gave about 67 percent in one lecture and approximately two-thirds elsewhere; The Definitive Book of Human Design places approximately 70 percent of people in the sacrally defined category.
+- **Counted separately**: The Definitive Book gives pure Generators approximately 37 percent and Manifesting Generators about 33 percent; Ra said elsewhere that one third of humanity are Manifesting Generators.
+- **Projectors**: approximately 20 to 22 percent, clustering at 20 to 21.
+- **Manifestors**: roughly 8 to 11.5 percent. A Jovian Archive survey of nearly 400,000 charts put them just under 10 percent; one statistical model ran nearer 11.5.
+- **Reflectors**: approximately 1 to 1.4 percent. Popular sources round to 1 percent; Jovian Archive's own material gives around 1.3 or 1.4 percent.
 
-"Where your definition is your nature, your openness is where you are nurtured. These open centers are receptors. They are receptors to anything that can hook them up." - Ra Uru Hu
+Each type has a characteristic aura, a [[Strategy]], a [[Signature]] marking alignment and a not-self theme marking its absence. Five types share four signatures, because Generators and Manifesting Generators both run on satisfaction.
 
-Defined centers carry fixed, consistent qualities. Undefined centers absorb and amplify whatever energy they encounter, which can feel familiar but is not the person's own. This amplification is called conditioning and is the mechanism behind what Human Design calls the Not-Self.
+## Strategy and Inner Authority
 
-## Strategy and Authority
+> "Human Design is very simple. It is about decision making and how to make decisions as yourself. You have a Strategy and Authority. Follow it."
+> -- Ra Uru Hu
 
-The two foundational tools Human Design offers are Strategy and [[Inner Authority]]. Strategy is determined by type and governs how a person should engage with life (respond, inform, wait for invitation, or wait for the lunar cycle). Authority is determined by the configuration of defined centers and governs how a person should make individual decisions (using sacral sounds, emotional clarity over time, splenic intuition, etc.).
+[[Strategy]] is given by type and governs how a person engages the world at all: respond, inform, wait for the invitation, wait the lunar cycle. Four strategies cover five types, because the Manifesting Generator's is to respond and then inform, a hybrid of two. [[Inner Authority]] is given by the defined centers and governs the individual decision once engagement is on the table.
 
-Human Design explicitly discourages the mind from making decisions. The mind is described as a passenger consciousness whose proper role is to observe life and serve as outer authority for others, not to steer the individual's life.
+The system is blunt about what this displaces. The mind is not the decision maker. Its role is passenger consciousness: to observe the life, enjoy it, and serve as outer authority for other people. Stripping the mind of that authority is the whole practice.
 
-## Deconditioning
+## Conditioning and the Not-Self
 
-[[Deconditioning]] is the process of unlearning the patterns imposed through open centers and conditioning. Ra Uru Hu stated that it takes approximately seven years for this process to complete, correlating with the body's seven-year cellular renewal cycle. The experiment of living by Strategy and Authority is considered the primary vehicle for deconditioning.
+Most of a bodygraph is white, and that is the point.
 
-## The Jovian Archive and IHDS
+> "Most of what you see in your BodyGraph, if you look carefully most of what you're looking at is white. That is, most of what you're looking at are receptors. We are mostly receptors."
+> -- The Complete Guide to the Human Design System, Ra Uru Hu
 
-Ra founded Jovian Archive as the organization responsible for maintaining and distributing Human Design materials and courses. The International Human Design School (IHDS) operates within this framework, certifying analysts and teachers.
+Open centers amplify what they receive, usually more vividly than anything the person produces alone. The mind identifies with the amplification and builds a life around keeping it. That is [[Conditioning]], and the identity it manufactures is the [[Not-Self]]. Ra put it as a binary: definition is where a person is their own nature, openness is where they are nurtured by the other.
+
+[[Deconditioning]] is the reversal, and it is slow. In an introductory lecture Ra said it takes seven years to change the cells in the body, a seven-year cellular cycle, and called it a process of cleansing yourself of the being created out of not you.
+
+## An Experiment, Not a Belief System
+
+The Definitive Book of Human Design calls the system logical, empirical and practical, says it does not ask you to believe anything, and invites the reader into a potentially life-transforming living experiment. Without that experiment, it adds, Human Design is just a complex system of fascinating information to entertain the mind.
+
+> "Everything about what I do is rooted in the practical. It has to be. The moment that you enter into the experiment itself of following your Strategy and Authority, what you understand is you do indeed have a capacity to make decisions without your mind. You just get to see it. It's not like I'm making this up. You get to see it."
+> -- The Complete Guide to the Human Design System, Ra Uru Hu
+
+The evidence is the person's own: how often the signature appears, how loud the not-self theme still is, and whether decisions made by Strategy and Authority land better than those made by the mind.
 
 ## Key Concepts
 
-- **Gates**: 64 archetypal energies corresponding to the 64 hexagrams of the I Ching. Each gate sits at one end of a channel.
-- **Channels**: 36 pathways connecting pairs of centers. When both gates of a channel are defined, the channel is active and the connected centers become defined.
-- **Profile**: A pair of numbers (e.g., 3/5) derived from the hexagram lines activated by the Personality and Design Sun positions. Profile describes the role a person plays in life.
-- **Incarnation Cross**: The four gates formed by the Sun and Earth positions from both the Personality and Design calculations. The cross describes a person's general life theme and purpose.
-- **Variables**: Advanced configuration of four arrows in the bodygraph indicating left/right orientation for diet, environment, perspective, and motivation.
+- **Gates**: 64 archetypal energies matching the 64 hexagrams of the I Ching, which Human Design maps onto the 64 codons of the genetic code. See [[Gates Overview]].
+- **Channels**: 36 pathways between pairs of centers. When both of a channel's gates are activated, the channel and the centers it joins are defined. See [[Channels Overview]] and [[Circuits]].
+- **Profile**: a pair of numbers, written 5/1 rather than 5-1, from the hexagram lines of the Personality and Design Sun. See [[Profiles & Lines]].
+- **Incarnation Cross**: the four gates formed by the Sun and Earth in both calculations. See [[Incarnation Cross Overview]].
+- **Variables**: four arrows giving left or right orientation for Determination, Environment, Perspective and Motivation. Determination concerns the digestive process, not the food. See [[Variables Overview]].
 
-## Relationship to Other Systems
-
-Human Design draws structural elements from the I Ching's 64 hexagrams, which map onto the 64 codons of the human genetic code. The nine centers correspond loosely to the chakras but differ in function and number. The astrological component involves planets imprinting gates at the moment of both the Personality and Design calculations. Kabbalah's Tree of Life provides the framework for the channels' circuit structure.
-
-Human Design is not presented as a belief system. Ra Uru Hu consistently positioned it as an experiment: "It is not about believing me or anybody else. You experiment with your strategy and authority. See what happens."
+Ra founded Jovian Archive to maintain and distribute Human Design materials, and the International Human Design School operates within it, certifying analysts and teachers.
 
 ## Related Articles
 
-[[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Deconditioning]] | [[Nine Centers]] | [[Generator]] | [[Manifestor]] | [[Projector]] | [[Reflector]] | [[Manifesting Generator]] | [[Gates Overview]] | [[Channels Overview]] | [[Incarnation Cross Overview]]
+[[Strategy]] | [[Inner Authority]] | [[Not-Self]] | [[Deconditioning]] | [[Conditioning]] | [[Nine Centers]] | [[Centers]] | [[Energy Types]] | [[Generator]] | [[Manifestor]] | [[Projector]] | [[Reflector]] | [[Manifesting Generator]] | [[Aura Types]] | [[Signature]] | [[Gates Overview]] | [[Channels Overview]] | [[Incarnation Cross Overview]] | [[Variables Overview]]
